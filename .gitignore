@@ -6,10 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+/*
+
 tcga_gbm/
 Tcga_gbm_ready/
 tcga_lgg/
 tcga_lgg_astrocytoma/
+
 
 # Distribution / packaging
 .Python

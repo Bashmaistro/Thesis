@@ -27,5 +27,8 @@ def white_filter(dicom_file):
     ds.set_pixel_data(array, 
                       photometric_interpretation="RGB", 
                       bits_stored=ds.BitsStored)
+
+
     
-    return ds
+    
+    return ds , ds.StudyID 
