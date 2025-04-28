@@ -6,8 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
-/*
-
+tcga/
 tcga_gbm/
 Tcga_gbm_ready/
 tcga_lgg/
