@@ -1,18 +1,8 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb 27 20:46:34 2025
+from tiatoolbox.wsicore.wsireader import WSIReader
 
-@author: emirhan
-"""
+wsi = WSIReader.open("tcga/Tcga_lgg_astro_ready/1fe1a0ed-c832-4096-a7cc-72b61d4fb592.dcm")
 
+# Full resolution görüntüyü oku
+full_image = wsi.read_region(location=(0, 0), size=wsi.level_dimensions[0], resolution=0.25, units="mpp")
 
-import matplotlib.pyplot as plt
-import random
-
-def visualizer( ds_pixel_data , number):
-    
-    for i in range(number):
-      plt.imshow(ds_pixel_data[random.randint(0, len(ds_pixel_data) - 1)])
-      plt.axis('off')  
-      plt.show()
+full_image.show()  # PIL Image olarak

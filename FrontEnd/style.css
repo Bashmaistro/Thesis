@@ -1,0 +1,30 @@
+body {
+  background: transparent; /* Make it white if you need */
+
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  overflow-x: hidden;
+  justify-content: center;
+  align-items: center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.App {
+  color: rgb(40, 44, 52);
+}
+
+#root {
+  color: rgb(40, 44, 52);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
