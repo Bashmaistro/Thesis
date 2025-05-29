@@ -1,0 +1,798 @@
+,Unnamed: 0,id,death,age,gt,grade,sex,mortality,treatment,filepath
+0,1,TCGA-CS-4938,9999.0,31.0,Astrocytoma,G2,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-CS-4938.npy
+1,2,TCGA-CS-4944,9999.0,50.0,Astrocytoma,G2,male,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-CS-4944.npy
+2,4,TCGA-CS-6667,9999.0,39.0,Astrocytoma,G2,female,Alive,Steroid Therapy,./dataset/his_features/TCGA-CS-6667.npy
+3,7,TCGA-CS-6670,9999.0,43.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-CS-6670.npy
+4,8,TCGA-DB-5278,9999.0,17.0,Oligodendroglioma,G2,male,Alive,"Surgery, NOS",./dataset/his_features/TCGA-DB-5278.npy
+5,11,TCGA-DB-A64V,9999.0,54.0,Oligodendroglioma,G2,male,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-DB-A64V.npy
+6,12,TCGA-DB-A75M,9999.0,47.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-DB-A75M.npy
+7,13,TCGA-DB-A75P,9999.0,25.0,Astrocytoma,G2,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-DB-A75P.npy
+8,14,TCGA-DH-5141,9999.0,32.0,Oligodendroglioma,G2,male,Alive,"Surgery, NOS",./dataset/his_features/TCGA-DH-5141.npy
+9,18,TCGA-DU-5849,9999.0,48.0,Oligodendroglioma,G2,male,Alive,Chemotherapy,./dataset/his_features/TCGA-DU-5849.npy
+10,20,TCGA-DU-5874,9999.0,62.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-DU-5874.npy
+11,21,TCGA-DU-6399,2000.0,54.0,Oligodendroglioma,G2,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-DU-6399.npy
+12,22,TCGA-DU-6400,37.0,66.0,Oligodendroglioma,G2,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-DU-6400.npy
+13,26,TCGA-DU-7007,1915.0,33.0,Astrocytoma,G2,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-DU-7007.npy
+14,27,TCGA-DU-7008,9999.0,41.0,Oligodendroglioma,G2,female,Alive,Steroid Therapy,./dataset/his_features/TCGA-DU-7008.npy
+15,28,TCGA-DU-7009,4695.0,32.0,Oligodendroglioma,G2,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-DU-7009.npy
+16,30,TCGA-DU-7294,9999.0,53.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-DU-7294.npy
+17,34,TCGA-DU-A6S3,9999.0,60.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-DU-A6S3.npy
+18,35,TCGA-DU-A76K,347.0,86.0,Oligodendroglioma,G2,male,Dead,Chemotherapy,./dataset/his_features/TCGA-DU-A76K.npy
+19,36,TCGA-DU-A76L,814.0,54.0,Oligodendroglioma,G2,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-DU-A76L.npy
+20,37,TCGA-DU-A76O,9999.0,30.0,Astrocytoma,G2,male,Alive,Chemotherapy,./dataset/his_features/TCGA-DU-A76O.npy
+21,40,TCGA-DU-A7TG,1351.0,40.0,Oligodendroglioma,G2,male,Dead,Antiseizure Treatment,./dataset/his_features/TCGA-DU-A7TG.npy
+22,41,TCGA-E1-5311,4084.0,31.0,Oligodendroglioma,G2,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-E1-5311.npy
+23,45,TCGA-E1-A7Z6,984.0,41.0,Astrocytoma,G2,female,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-E1-A7Z6.npy
+24,48,TCGA-F6-A8O4,9999.0,44.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-F6-A8O4.npy
+25,49,TCGA-FG-5964,9999.0,62.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-FG-5964.npy
+26,50,TCGA-FG-6689,9999.0,30.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-FG-6689.npy
+27,52,TCGA-FG-7634,9999.0,28.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-FG-7634.npy
+28,53,TCGA-FG-7641,9999.0,31.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-FG-7641.npy
+29,55,TCGA-FG-8189,9999.0,33.0,Oligodendroglioma,G2,female,Alive,Steroid Therapy,./dataset/his_features/TCGA-FG-8189.npy
+30,57,TCGA-FG-A4MX,9999.0,47.0,Astrocytoma,G2,male,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-FG-A4MX.npy
+31,58,TCGA-FG-A60L,9999.0,34.0,Astrocytoma,G2,female,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-FG-A60L.npy
+32,61,TCGA-FG-A710,9999.0,50.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-FG-A710.npy
+33,63,TCGA-HT-7472,9999.0,38.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-HT-7472.npy
+34,64,TCGA-HT-7476,9999.0,26.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-HT-7476.npy
+35,65,TCGA-HT-7478,9999.0,36.0,Astrocytoma,G2,male,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-HT-7478.npy
+36,66,TCGA-HT-7480,9999.0,33.0,Oligodendroglioma,G2,male,Alive,Chemotherapy,./dataset/his_features/TCGA-HT-7480.npy
+37,68,TCGA-HT-7485,9999.0,42.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-HT-7485.npy
+38,71,TCGA-HT-7604,9999.0,50.0,Astrocytoma,G2,male,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-HT-7604.npy
+39,73,TCGA-HT-7606,9999.0,30.0,Astrocytoma,G2,female,Alive,Chemotherapy,./dataset/his_features/TCGA-HT-7606.npy
+40,74,TCGA-HT-7607,96.0,61.0,Astrocytoma,G2,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-HT-7607.npy
+41,76,TCGA-HT-7680,9999.0,32.0,Astrocytoma,G2,female,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-HT-7680.npy
+42,78,TCGA-HT-7691,9999.0,31.0,Astrocytoma,G2,female,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-HT-7691.npy
+43,79,TCGA-HT-7693,9999.0,51.0,Oligodendroglioma,G2,female,Alive,Chemotherapy,./dataset/his_features/TCGA-HT-7693.npy
+44,80,TCGA-HT-7695,9999.0,29.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-HT-7695.npy
+45,81,TCGA-HT-7854,9999.0,62.0,Astrocytoma,G2,male,Alive,Steroid Therapy,./dataset/his_features/TCGA-HT-7854.npy
+46,82,TCGA-HT-7858,9999.0,28.0,Astrocytoma,G2,male,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-HT-7858.npy
+47,83,TCGA-HT-7875,9999.0,56.0,Oligodendroglioma,G2,male,Alive,Steroid Therapy,./dataset/his_features/TCGA-HT-7875.npy
+48,85,TCGA-HT-7881,9999.0,38.0,Oligodendroglioma,G2,male,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-HT-7881.npy
+49,86,TCGA-HT-7884,9999.0,44.0,Astrocytoma,G2,female,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-HT-7884.npy
+50,87,TCGA-HT-8010,9999.0,64.0,Oligodendroglioma,G2,female,Alive,Steroid Therapy,./dataset/his_features/TCGA-HT-8010.npy
+51,89,TCGA-HT-8015,9999.0,21.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-HT-8015.npy
+52,94,TCGA-HT-A5R5,9999.0,33.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-HT-A5R5.npy
+53,95,TCGA-HT-A5RB,9999.0,24.0,Astrocytoma,G2,male,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-HT-A5RB.npy
+54,97,TCGA-HT-A616,9999.0,36.0,Astrocytoma,G2,female,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-HT-A616.npy
+55,101,TCGA-HW-7486,9999.0,37.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-HW-7486.npy
+56,103,TCGA-HW-7493,9999.0,40.0,Astrocytoma,G2,female,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-HW-7493.npy
+57,104,TCGA-HW-7495,9999.0,45.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-HW-7495.npy
+58,105,TCGA-HW-8322,9999.0,39.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-HW-8322.npy
+59,106,TCGA-HW-A5KL,9999.0,42.0,Astrocytoma,G2,female,Alive,Chemotherapy,./dataset/his_features/TCGA-HW-A5KL.npy
+60,107,TCGA-HW-A5KM,9999.0,35.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-HW-A5KM.npy
+61,110,TCGA-P5-A5EV,9999.0,39.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-P5-A5EV.npy
+62,111,TCGA-P5-A5EW,9999.0,20.0,Astrocytoma,G2,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-P5-A5EW.npy
+63,112,TCGA-P5-A5EY,9999.0,21.0,Astrocytoma,G2,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-P5-A5EY.npy
+64,114,TCGA-P5-A5F1,9999.0,30.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-P5-A5F1.npy
+65,115,TCGA-P5-A5F2,9999.0,36.0,Astrocytoma,G2,female,Alive,Chemotherapy,./dataset/his_features/TCGA-P5-A5F2.npy
+66,116,TCGA-P5-A5F6,9999.0,26.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-P5-A5F6.npy
+67,117,TCGA-P5-A733,9999.0,52.0,Astrocytoma,G2,female,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-P5-A733.npy
+68,118,TCGA-P5-A735,9999.0,38.0,Astrocytoma,G2,female,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-P5-A735.npy
+69,119,TCGA-P5-A737,9999.0,47.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-P5-A737.npy
+70,122,TCGA-QH-A6X9,9999.0,73.0,Oligodendroglioma,G2,female,Alive,Steroid Therapy,./dataset/his_features/TCGA-QH-A6X9.npy
+71,124,TCGA-R8-A6MK,9999.0,40.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-R8-A6MK.npy
+72,125,TCGA-R8-A6MO,9999.0,53.0,Oligodendroglioma,G2,female,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-R8-A6MO.npy
+73,128,TCGA-RY-A83Y,9999.0,45.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-RY-A83Y.npy
+74,132,TCGA-S9-A6TZ,9999.0,39.0,Astrocytoma,G2,female,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-S9-A6TZ.npy
+75,133,TCGA-S9-A6U2,9999.0,48.0,Oligodendroglioma,G2,female,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-S9-A6U2.npy
+76,134,TCGA-S9-A6U5,9999.0,33.0,Astrocytoma,G2,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-S9-A6U5.npy
+77,137,TCGA-S9-A6WO,9999.0,29.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-S9-A6WO.npy
+78,138,TCGA-S9-A7J1,9999.0,43.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-S9-A7J1.npy
+79,141,TCGA-S9-A7R3,9999.0,28.0,Astrocytoma,G2,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-S9-A7R3.npy
+80,142,TCGA-TM-A7C4,9999.0,39.0,Astrocytoma,G2,female,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-TM-A7C4.npy
+81,143,TCGA-TM-A7CA,9999.0,44.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-TM-A7CA.npy
+82,144,TCGA-TM-A84C,492.0,32.0,Astrocytoma,G2,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-TM-A84C.npy
+83,145,TCGA-TM-A84R,9999.0,46.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-TM-A84R.npy
+84,147,TCGA-TQ-A7RK,9999.0,29.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-TQ-A7RK.npy
+85,150,TCGA-TQ-A7RS,9999.0,25.0,Oligodendroglioma,G2,female,Alive,Steroid Therapy,./dataset/his_features/TCGA-TQ-A7RS.npy
+86,152,TCGA-TQ-A8XE,954.0,42.0,Oligodendroglioma,G2,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-TQ-A8XE.npy
+87,154,TCGA-VM-A8C9,9999.0,37.0,Astrocytoma,G2,female,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-VM-A8C9.npy
+88,157,TCGA-VM-A8CH,9999.0,24.0,Astrocytoma,G2,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-VM-A8CH.npy
+89,159,TCGA-WH-A86K,9999.0,65.0,Astrocytoma,G2,male,Alive,Chemotherapy,./dataset/his_features/TCGA-WH-A86K.npy
+90,160,TCGA-WY-A859,9999.0,34.0,Astrocytoma,G2,female,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-WY-A859.npy
+91,161,TCGA-WY-A85A,9999.0,20.0,Astrocytoma,G2,male,Alive,Steroid Therapy,./dataset/his_features/TCGA-WY-A85A.npy
+92,162,TCGA-WY-A85B,9999.0,24.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-WY-A85B.npy
+93,165,TCGA-CS-4941,234.0,67.0,Astrocytoma,G3,male,Dead,"Surgery, NOS",./dataset/his_features/TCGA-CS-4941.npy
+94,166,TCGA-CS-4942,1335.0,44.0,Astrocytoma,G3,female,Dead,"Radiation, Radioisotope",./dataset/his_features/TCGA-CS-4942.npy
+95,167,TCGA-CS-4943,1106.0,37.0,Astrocytoma,G3,male,Dead,Chemotherapy,./dataset/his_features/TCGA-CS-4943.npy
+96,168,TCGA-CS-5393,9999.0,39.0,Astrocytoma,G3,male,Alive,Chemotherapy,./dataset/his_features/TCGA-CS-5393.npy
+97,169,TCGA-CS-5394,9999.0,40.0,Astrocytoma,G3,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-CS-5394.npy
+98,171,TCGA-CS-5397,194.0,54.0,Astrocytoma,G3,female,Dead,Steroid Therapy,./dataset/his_features/TCGA-CS-5397.npy
+99,172,TCGA-CS-6290,1137.0,31.0,Astrocytoma,G3,male,Dead,Antiseizure Treatment,./dataset/his_features/TCGA-CS-6290.npy
+100,173,TCGA-CS-6665,9999.0,51.0,Astrocytoma,G3,female,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-CS-6665.npy
+101,175,TCGA-DB-5273,9999.0,33.0,Astrocytoma,G3,male,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-DB-5273.npy
+102,176,TCGA-DB-A4XB,9999.0,38.0,Astrocytoma,G3,male,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-DB-A4XB.npy
+103,177,TCGA-DB-A4XD,9999.0,32.0,Astrocytoma,G3,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-DB-A4XD.npy
+104,178,TCGA-DB-A4XF,9999.0,41.0,Astrocytoma,G3,female,Alive,Chemotherapy,./dataset/his_features/TCGA-DB-A4XF.npy
+105,180,TCGA-DB-A64P,9999.0,40.0,Oligodendroglioma,G3,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-DB-A64P.npy
+106,181,TCGA-DB-A64X,9999.0,56.0,Astrocytoma,G3,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-DB-A64X.npy
+107,182,TCGA-DB-A75L,9999.0,36.0,Astrocytoma,G3,female,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-DB-A75L.npy
+108,183,TCGA-DB-A75O,9999.0,29.0,Astrocytoma,G3,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-DB-A75O.npy
+109,184,TCGA-DH-5142,9999.0,29.0,Astrocytoma,G3,male,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-DH-5142.npy
+110,185,TCGA-DH-5144,9999.0,56.0,Oligodendroglioma,G3,female,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-DH-5144.npy
+111,186,TCGA-DH-A66B,9999.0,52.0,Astrocytoma,G3,male,Alive,Steroid Therapy,./dataset/his_features/TCGA-DH-A66B.npy
+112,187,TCGA-DH-A66D,9999.0,43.0,Astrocytoma,G3,female,Alive,Chemotherapy,./dataset/his_features/TCGA-DH-A66D.npy
+113,190,TCGA-DH-A7UU,9999.0,43.0,Astrocytoma,G3,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-DH-A7UU.npy
+114,191,TCGA-DH-A7UV,9999.0,49.0,Astrocytoma,G3,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-DH-A7UV.npy
+115,192,TCGA-DU-5847,9999.0,34.0,Astrocytoma,G3,female,Alive,Targeted Molecular Therapy,./dataset/his_features/TCGA-DU-5847.npy
+116,193,TCGA-DU-6392,9999.0,35.0,Astrocytoma,G3,female,Alive,"Radiation, Stereotactic/Gamma Knife/SRS",./dataset/his_features/TCGA-DU-6392.npy
+117,194,TCGA-DU-6393,1585.0,66.0,Oligodendroglioma,G3,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-DU-6393.npy
+118,196,TCGA-DU-6405,605.0,51.0,Astrocytoma,G3,female,Dead,Chemotherapy,./dataset/his_features/TCGA-DU-6405.npy
+119,197,TCGA-DU-6408,3470.0,23.0,Oligodendroglioma,G3,female,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-DU-6408.npy
+120,198,TCGA-DU-6410,9999.0,56.0,Oligodendroglioma,G3,male,Alive,Chemotherapy,./dataset/his_features/TCGA-DU-6410.npy
+121,199,TCGA-DU-7006,349.0,60.0,Astrocytoma,G3,female,Dead,Chemotherapy,./dataset/his_features/TCGA-DU-7006.npy
+122,200,TCGA-DU-7010,456.0,58.0,Astrocytoma,G3,female,Dead,"Surgery, NOS",./dataset/his_features/TCGA-DU-7010.npy
+123,201,TCGA-DU-7012,199.0,74.0,Astrocytoma,G3,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-DU-7012.npy
+124,202,TCGA-DU-7013,269.0,59.0,Astrocytoma,G3,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-DU-7013.npy
+125,204,TCGA-DU-7290,315.0,45.0,Astrocytoma,G3,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-DU-7290.npy
+126,205,TCGA-DU-7298,576.0,38.0,Astrocytoma,G3,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-DU-7298.npy
+127,206,TCGA-DU-7299,1339.0,33.0,Astrocytoma,G3,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-DU-7299.npy
+128,208,TCGA-DU-8158,155.0,57.0,Astrocytoma,G3,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-DU-8158.npy
+129,209,TCGA-DU-8165,9999.0,60.0,Oligodendroglioma,G3,female,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-DU-8165.npy
+130,212,TCGA-DU-A5TW,9999.0,33.0,Astrocytoma,G3,female,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-DU-A5TW.npy
+131,213,TCGA-DU-A5TY,1033.0,46.0,Astrocytoma,G3,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-DU-A5TY.npy
+132,214,TCGA-DU-A6S7,9999.0,27.0,Astrocytoma,G3,female,Alive,Steroid Therapy,./dataset/his_features/TCGA-DU-A6S7.npy
+133,216,TCGA-DU-A7TI,1183.0,32.0,Astrocytoma,G3,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-DU-A7TI.npy
+134,217,TCGA-DU-A7TJ,9999.0,55.0,Astrocytoma,G3,male,Alive,Steroid Therapy,./dataset/his_features/TCGA-DU-A7TJ.npy
+135,218,TCGA-E1-5302,1525.0,41.0,Astrocytoma,G3,male,Dead,Chemotherapy,./dataset/his_features/TCGA-E1-5302.npy
+136,221,TCGA-E1-5305,2433.0,34.0,Astrocytoma,G3,male,Dead,Steroid Therapy,./dataset/his_features/TCGA-E1-5305.npy
+137,222,TCGA-E1-5307,1762.0,62.0,Astrocytoma,G3,female,Dead,Chemotherapy,./dataset/his_features/TCGA-E1-5307.npy
+138,223,TCGA-E1-A7YD,435.0,57.0,Astrocytoma,G3,male,Dead,Chemotherapy,./dataset/his_features/TCGA-E1-A7YD.npy
+139,224,TCGA-E1-A7YH,2835.0,47.0,Astrocytoma,G3,female,Dead,Chemotherapy,./dataset/his_features/TCGA-E1-A7YH.npy
+140,225,TCGA-E1-A7YK,378.0,52.0,Astrocytoma,G3,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-E1-A7YK.npy
+141,226,TCGA-E1-A7YS,466.0,71.0,Oligodendroglioma,G3,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-E1-A7YS.npy
+142,228,TCGA-FG-5963,775.0,23.0,Astrocytoma,G3,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-FG-5963.npy
+143,230,TCGA-FG-6692,561.0,63.0,Oligodendroglioma,G3,male,Dead,Chemotherapy,./dataset/his_features/TCGA-FG-6692.npy
+144,231,TCGA-FG-7636,9999.0,48.0,Astrocytoma,G3,male,Alive,Steroid Therapy,./dataset/his_features/TCGA-FG-7636.npy
+145,233,TCGA-FG-8185,9999.0,37.0,Astrocytoma,G3,male,Alive,Chemotherapy,./dataset/his_features/TCGA-FG-8185.npy
+146,234,TCGA-FG-8191,9999.0,30.0,Oligodendroglioma,G3,male,Alive,Chemotherapy,./dataset/his_features/TCGA-FG-8191.npy
+147,235,TCGA-FG-A6J3,9999.0,52.0,Astrocytoma,G3,female,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-FG-A6J3.npy
+148,236,TCGA-FG-A87N,9999.0,37.0,Astrocytoma,G3,female,Alive,Chemotherapy,./dataset/his_features/TCGA-FG-A87N.npy
+149,237,TCGA-FG-A87Q,9999.0,61.0,Astrocytoma,G3,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-FG-A87Q.npy
+150,241,TCGA-HT-7471,9999.0,37.0,Oligodendroglioma,G3,female,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-HT-7471.npy
+151,242,TCGA-HT-7477,9999.0,62.0,Astrocytoma,G3,male,Alive,Chemotherapy,./dataset/his_features/TCGA-HT-7477.npy
+152,243,TCGA-HT-7479,9999.0,44.0,Astrocytoma,G3,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-HT-7479.npy
+153,244,TCGA-HT-7601,9999.0,30.0,Astrocytoma,G3,female,Alive,Chemotherapy,./dataset/his_features/TCGA-HT-7601.npy
+154,246,TCGA-HT-7620,9999.0,40.0,Oligodendroglioma,G3,male,Alive,Chemotherapy,./dataset/his_features/TCGA-HT-7620.npy
+155,247,TCGA-HT-7677,9999.0,53.0,Oligodendroglioma,G3,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-HT-7677.npy
+156,248,TCGA-HT-7686,9999.0,29.0,Astrocytoma,G3,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-HT-7686.npy
+157,249,TCGA-HT-7687,9999.0,74.0,Oligodendroglioma,G3,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-HT-7687.npy
+158,251,TCGA-HT-7694,9999.0,60.0,Oligodendroglioma,G3,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-HT-7694.npy
+159,252,TCGA-HT-7855,9999.0,39.0,Astrocytoma,G3,male,Alive,Chemotherapy,./dataset/his_features/TCGA-HT-7855.npy
+160,254,TCGA-HT-7857,9999.0,24.0,Astrocytoma,G3,female,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-HT-7857.npy
+161,255,TCGA-HT-7860,9999.0,60.0,Astrocytoma,G3,female,Alive,Steroid Therapy,./dataset/his_features/TCGA-HT-7860.npy
+162,258,TCGA-HT-8011,9999.0,55.0,Astrocytoma,G3,male,Alive,Steroid Therapy,./dataset/his_features/TCGA-HT-8011.npy
+163,260,TCGA-HT-8104,9999.0,51.0,Astrocytoma,G3,female,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-HT-8104.npy
+164,262,TCGA-HT-8106,9999.0,53.0,Astrocytoma,G3,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-HT-8106.npy
+165,264,TCGA-HT-8110,9999.0,57.0,Astrocytoma,G3,male,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-HT-8110.npy
+166,265,TCGA-HT-8563,9999.0,30.0,Astrocytoma,G3,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-HT-8563.npy
+167,266,TCGA-HT-8564,9999.0,47.0,Astrocytoma,G3,male,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-HT-8564.npy
+168,267,TCGA-HT-A4DS,9999.0,55.0,Astrocytoma,G3,female,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-HT-A4DS.npy
+169,268,TCGA-HT-A4DV,9999.0,51.0,Oligodendroglioma,G3,female,Alive,Steroid Therapy,./dataset/his_features/TCGA-HT-A4DV.npy
+170,269,TCGA-HT-A5R7,9999.0,33.0,Astrocytoma,G3,female,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-HT-A5R7.npy
+171,271,TCGA-HT-A5RA,9999.0,65.0,Astrocytoma,G3,female,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-HT-A5RA.npy
+172,272,TCGA-HT-A5RC,162.0,70.0,Astrocytoma,G3,female,Dead,Steroid Therapy,./dataset/his_features/TCGA-HT-A5RC.npy
+173,273,TCGA-HT-A618,9999.0,37.0,Astrocytoma,G3,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-HT-A618.npy
+174,274,TCGA-HT-A61B,9999.0,22.0,Astrocytoma,G3,male,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-HT-A61B.npy
+175,276,TCGA-HT-A74H,9999.0,62.0,Astrocytoma,G3,male,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-HT-A74H.npy
+176,278,TCGA-HT-A74O,9999.0,34.0,Astrocytoma,G3,male,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-HT-A74O.npy
+177,279,TCGA-HW-8320,9999.0,36.0,Astrocytoma,G3,male,Alive,Chemotherapy,./dataset/his_features/TCGA-HW-8320.npy
+178,280,TCGA-HW-8321,9999.0,31.0,Astrocytoma,G3,male,Alive,Chemotherapy,./dataset/his_features/TCGA-HW-8321.npy
+179,282,TCGA-HW-A5KK,388.0,64.0,Astrocytoma,G3,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-HW-A5KK.npy
+180,283,TCGA-KT-A7W1,9999.0,45.0,Astrocytoma,G3,female,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-KT-A7W1.npy
+181,284,TCGA-P5-A5EU,9999.0,35.0,Astrocytoma,G3,male,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-P5-A5EU.npy
+182,286,TCGA-P5-A5EZ,9999.0,39.0,Astrocytoma,G3,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-P5-A5EZ.npy
+183,287,TCGA-P5-A5F4,9999.0,35.0,Oligodendroglioma,G3,female,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-P5-A5F4.npy
+184,288,TCGA-P5-A72U,9999.0,71.0,Oligodendroglioma,G3,female,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-P5-A72U.npy
+185,289,TCGA-P5-A72W,9999.0,35.0,Astrocytoma,G3,male,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-P5-A72W.npy
+186,290,TCGA-P5-A72X,9999.0,21.0,Astrocytoma,G3,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-P5-A72X.npy
+187,291,TCGA-P5-A72Z,9999.0,64.0,Oligodendroglioma,G3,female,Alive,Chemotherapy,./dataset/his_features/TCGA-P5-A72Z.npy
+188,293,TCGA-P5-A780,9999.0,44.0,Astrocytoma,G3,female,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-P5-A780.npy
+189,294,TCGA-P5-A781,9999.0,34.0,Astrocytoma,G3,female,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-P5-A781.npy
+190,295,TCGA-QH-A65R,9999.0,38.0,Oligodendroglioma,G3,female,Alive,Steroid Therapy,./dataset/his_features/TCGA-QH-A65R.npy
+191,298,TCGA-QH-A6XC,9999.0,48.0,Astrocytoma,G3,male,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-QH-A6XC.npy
+192,299,TCGA-R8-A6ML,9999.0,52.0,Oligodendroglioma,G3,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-R8-A6ML.npy
+193,300,TCGA-RY-A83Z,9999.0,54.0,Astrocytoma,G3,female,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-RY-A83Z.npy
+194,302,TCGA-RY-A843,9999.0,30.0,Astrocytoma,G3,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-RY-A843.npy
+195,303,TCGA-S9-A6TS,1891.0,48.0,Astrocytoma,G3,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-S9-A6TS.npy
+196,304,TCGA-S9-A6TU,9999.0,38.0,Astrocytoma,G3,male,Alive,"Surgery, NOS",./dataset/his_features/TCGA-S9-A6TU.npy
+197,305,TCGA-S9-A6TX,9999.0,46.0,Oligodendroglioma,G3,male,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-S9-A6TX.npy
+198,306,TCGA-S9-A6U0,742.0,46.0,Astrocytoma,G3,male,Dead,Chemotherapy,./dataset/his_features/TCGA-S9-A6U0.npy
+199,307,TCGA-S9-A6U1,9999.0,22.0,Astrocytoma,G3,female,Alive,Steroid Therapy,./dataset/his_features/TCGA-S9-A6U1.npy
+200,308,TCGA-S9-A6U6,9999.0,28.0,Astrocytoma,G3,male,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-S9-A6U6.npy
+201,309,TCGA-S9-A6U9,9999.0,36.0,Astrocytoma,G3,male,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-S9-A6U9.npy
+202,310,TCGA-S9-A6WD,9999.0,58.0,Oligodendroglioma,G3,male,Alive,Chemotherapy,./dataset/his_features/TCGA-S9-A6WD.npy
+203,311,TCGA-S9-A6WG,9999.0,31.0,Astrocytoma,G3,male,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-S9-A6WG.npy
+204,312,TCGA-S9-A6WL,9999.0,52.0,Astrocytoma,G3,male,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-S9-A6WL.npy
+205,313,TCGA-S9-A7IS,241.0,33.0,Astrocytoma,G3,female,Dead,Steroid Therapy,./dataset/his_features/TCGA-S9-A7IS.npy
+206,314,TCGA-S9-A7IZ,9999.0,48.0,Astrocytoma,G3,female,Alive,Chemotherapy,./dataset/his_features/TCGA-S9-A7IZ.npy
+207,316,TCGA-S9-A7J2,9999.0,25.0,Oligodendroglioma,G3,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-S9-A7J2.npy
+208,317,TCGA-S9-A7J3,9999.0,52.0,Oligodendroglioma,G3,female,Alive,Chemotherapy,./dataset/his_features/TCGA-S9-A7J3.npy
+209,318,TCGA-S9-A7QX,9999.0,36.0,Astrocytoma,G3,female,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-S9-A7QX.npy
+210,319,TCGA-S9-A7R2,316.0,69.0,Astrocytoma,G3,male,Dead,Antiseizure Treatment,./dataset/his_features/TCGA-S9-A7R2.npy
+211,320,TCGA-S9-A7R4,9999.0,46.0,Astrocytoma,G3,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-S9-A7R4.npy
+212,321,TCGA-S9-A7R7,9999.0,27.0,Astrocytoma,G3,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-S9-A7R7.npy
+213,322,TCGA-S9-A7R8,961.0,44.0,Astrocytoma,G3,female,Dead,Antiseizure Treatment,./dataset/his_features/TCGA-S9-A7R8.npy
+214,323,TCGA-S9-A89V,9999.0,70.0,Astrocytoma,G3,male,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-S9-A89V.npy
+215,324,TCGA-S9-A89Z,9999.0,40.0,Astrocytoma,G3,male,Alive,Chemotherapy,./dataset/his_features/TCGA-S9-A89Z.npy
+216,325,TCGA-TM-A7C3,1666.0,43.0,Astrocytoma,G3,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-TM-A7C3.npy
+217,326,TCGA-TM-A7CF,9999.0,41.0,Astrocytoma,G3,female,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-TM-A7CF.npy
+218,327,TCGA-TM-A84B,758.0,40.0,Astrocytoma,G3,male,Dead,Chemotherapy,./dataset/his_features/TCGA-TM-A84B.npy
+219,328,TCGA-TM-A84F,9999.0,48.0,Astrocytoma,G3,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-TM-A84F.npy
+220,329,TCGA-TM-A84G,9999.0,54.0,Oligodendroglioma,G3,female,Alive,Steroid Therapy,./dataset/his_features/TCGA-TM-A84G.npy
+221,330,TCGA-TM-A84I,9999.0,30.0,Astrocytoma,G3,male,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-TM-A84I.npy
+222,332,TCGA-TM-A84M,9999.0,40.0,Oligodendroglioma,G3,male,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-TM-A84M.npy
+223,334,TCGA-TM-A84Q,9999.0,31.0,Astrocytoma,G3,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-TM-A84Q.npy
+224,337,TCGA-VM-A8CB,9999.0,33.0,Oligodendroglioma,G3,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-VM-A8CB.npy
+225,338,TCGA-VM-A8CD,240.0,58.0,Astrocytoma,G3,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-VM-A8CD.npy
+226,339,TCGA-VM-A8CF,9999.0,44.0,Astrocytoma,G3,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-VM-A8CF.npy
+227,340,TCGA-VV-A86M,9999.0,36.0,Astrocytoma,G3,female,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-VV-A86M.npy
+228,341,TCGA-VW-A7QS,9999.0,35.0,Oligodendroglioma,G3,female,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-VW-A7QS.npy
+229,342,TCGA-VW-A8FI,245.0,66.0,Astrocytoma,G3,male,Dead,Antiseizure Treatment,./dataset/his_features/TCGA-VW-A8FI.npy
+230,343,TCGA-WY-A858,9999.0,32.0,Astrocytoma,G3,female,Alive,Antiseizure Treatment,./dataset/his_features/TCGA-WY-A858.npy
+231,344,TCGA-WY-A85C,9999.0,36.0,Astrocytoma,G3,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-WY-A85C.npy
+232,347,C3L-00104,129.0,58.07,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/C3L-00104.npy
+233,352,C3L-01043,79.0,59.04,Glioblastoma,G4,male,Dead,,./dataset/his_features/C3L-01043.npy
+234,366,C3L-01327,646.0,74.41,Glioblastoma,G4,male,Dead,,./dataset/his_features/C3L-01327.npy
+235,374,C3L-02644,457.0,58.18,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/C3L-02644.npy
+236,376,C3L-02704,9999.0,54.46,Glioblastoma,G4,male,Alive,,./dataset/his_features/C3L-02704.npy
+237,377,C3L-02705,111.0,60.34,Glioblastoma,G4,male,Dead,,./dataset/his_features/C3L-02705.npy
+238,378,C3L-02707,9999.0,58.22,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/C3L-02707.npy
+239,379,C3L-02708,738.0,43.88,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/C3L-02708.npy
+240,380,C3L-02900,1053.0,52.96,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/C3L-02900.npy
+241,382,C3L-02970,381.0,58.97,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/C3L-02970.npy
+242,386,C3L-03372,9999.0,31.59,Glioblastoma,G4,male,Alive,Chemotherapy,./dataset/his_features/C3L-03372.npy
+243,387,C3L-03385,188.0,72.34,Glioblastoma,G4,female,Dead,Hormone Therapy,./dataset/his_features/C3L-03385.npy
+244,400,C3L-03744,9999.0,75.48,Glioblastoma,G4,male,Alive,Immunotherapy (Including Vaccines),./dataset/his_features/C3L-03744.npy
+245,402,C3L-03968,9999.0,60.93,Glioblastoma,G4,female,Alive,Chemotherapy,./dataset/his_features/C3L-03968.npy
+246,403,C3L-04036,9999.0,81.25,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/C3L-04036.npy
+247,405,C3L-04081,287.0,63.62,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/C3L-04081.npy
+248,406,C3L-04082,121.0,69.16,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/C3L-04082.npy
+249,408,C3L-04084,274.0,63.75,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/C3L-04084.npy
+250,411,C3L-04213,9999.0,37.45,Glioblastoma,G4,female,Alive,Chemotherapy,./dataset/his_features/C3L-04213.npy
+251,413,C3L-04359,9999.0,40.63,Glioblastoma,G4,male,Alive,Chemotherapy,./dataset/his_features/C3L-04359.npy
+252,414,C3L-04362,685.0,69.03,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/C3L-04362.npy
+253,418,C3L-04731,9999.0,65.13,Glioblastoma,G4,male,Alive,Chemotherapy,./dataset/his_features/C3L-04731.npy
+254,419,C3L-04795,9999.0,36.99,Glioblastoma,G4,male,Alive,Chemotherapy,./dataset/his_features/C3L-04795.npy
+255,420,C3L-05239,9999.0,39.35,Glioblastoma,G4,male,Alive,,./dataset/his_features/C3L-05239.npy
+256,422,C3L-06625,9999.0,70.44,Glioblastoma,G4,female,Alive,,./dataset/his_features/C3L-06625.npy
+257,424,C3L-07213,9999.0,28.09,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/C3L-07213.npy
+258,425,C3L-07611,348.0,41.93,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/C3L-07611.npy
+259,429,C3N-00665,9999.0,65.9,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/C3N-00665.npy
+260,434,C3N-01364,9999.0,34.2,Glioblastoma,G4,female,Alive,Chemotherapy,./dataset/his_features/C3N-01364.npy
+261,435,C3N-01365,2361.8093385214006,57.32,Glioblastoma,G4,male,Dead,,./dataset/his_features/C3N-01365.npy
+262,441,C3N-01515,19.0,73.89,Glioblastoma,G4,female,Dead,,./dataset/his_features/C3N-01515.npy
+263,444,C3N-01798,590.0,44.37,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/C3N-01798.npy
+264,454,C3N-02181,9999.0,53.14,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/C3N-02181.npy
+265,457,C3N-02186,9999.0,53.5,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/C3N-02186.npy
+266,458,C3N-02188,411.0,59.48,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/C3N-02188.npy
+267,459,C3N-02190,311.0,53.52,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/C3N-02190.npy
+268,461,C3N-02256,263.0,65.1,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/C3N-02256.npy
+269,463,C3N-02286,9999.0,70.08,Glioblastoma,G4,male,Alive,,./dataset/his_features/C3N-02286.npy
+270,468,C3N-02769,1115.0,53.98,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/C3N-02769.npy
+271,469,C3N-02770,779.0,70.56,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/C3N-02770.npy
+272,471,C3N-02783,9999.0,24.35,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/C3N-02783.npy
+273,473,C3N-02785,546.0,69.32,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/C3N-02785.npy
+274,477,C3N-03003,9999.0,40.15,Glioblastoma,G4,male,Alive,Chemotherapy,./dataset/his_features/C3N-03003.npy
+275,478,C3N-03025,110.0,78.26,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/C3N-03025.npy
+276,480,C3N-03088,142.0,31.75,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/C3N-03088.npy
+277,481,C3N-03180,511.0,53.15,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/C3N-03180.npy
+278,496,C3N-03757,5.0,72.76,Glioblastoma,G4,male,Dead,,./dataset/his_features/C3N-03757.npy
+279,515,C3N-04686,385.0,58.36,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/C3N-04686.npy
+280,516,C3N-04687,9999.0,62.51,Glioblastoma,G4,male,Alive,,./dataset/his_features/C3N-04687.npy
+281,524,TCGA-02-0001,358.0,44.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0001.npy
+282,525,TCGA-02-0003,144.0,50.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0003.npy
+283,526,TCGA-02-0004,345.0,59.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-02-0004.npy
+284,527,TCGA-02-0006,558.0,56.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0006.npy
+285,528,TCGA-02-0007,705.0,40.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-02-0007.npy
+286,529,TCGA-02-0009,322.0,61.0,Glioblastoma,G4,female,Dead,"Surgery, NOS",./dataset/his_features/TCGA-02-0009.npy
+287,530,TCGA-02-0010,1077.0,20.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0010.npy
+288,531,TCGA-02-0011,630.0,18.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-02-0011.npy
+289,532,TCGA-02-0014,2512.0,25.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0014.npy
+290,533,TCGA-02-0015,627.0,50.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-02-0015.npy
+291,534,TCGA-02-0016,2648.0,50.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-02-0016.npy
+292,535,TCGA-02-0021,2362.0,43.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0021.npy
+293,536,TCGA-02-0023,612.0,38.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0023.npy
+294,537,TCGA-02-0024,1615.0,35.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-02-0024.npy
+295,538,TCGA-02-0025,1300.0,47.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-02-0025.npy
+296,539,TCGA-02-0026,748.0,27.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0026.npy
+297,540,TCGA-02-0027,370.0,33.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0027.npy
+298,541,TCGA-02-0028,2755.0,39.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-02-0028.npy
+299,542,TCGA-02-0033,86.0,54.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0033.npy
+300,543,TCGA-02-0034,430.0,60.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-02-0034.npy
+301,544,TCGA-02-0037,110.0,74.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0037.npy
+302,545,TCGA-02-0038,326.0,48.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-02-0038.npy
+303,546,TCGA-02-0039,320.0,54.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0039.npy
+304,547,TCGA-02-0043,557.0,54.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-02-0043.npy
+305,548,TCGA-02-0046,209.0,61.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0046.npy
+306,549,TCGA-02-0047,448.0,78.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0047.npy
+307,550,TCGA-02-0048,98.0,80.0,Glioblastoma,G4,male,Dead,,./dataset/his_features/TCGA-02-0048.npy
+308,551,TCGA-02-0051,459.0,43.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-02-0051.npy
+309,552,TCGA-02-0052,383.0,49.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-02-0052.npy
+310,553,TCGA-02-0054,199.0,44.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-02-0054.npy
+311,554,TCGA-02-0055,76.0,62.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-02-0055.npy
+312,555,TCGA-02-0057,604.0,66.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0057.npy
+313,556,TCGA-02-0058,254.0,28.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-02-0058.npy
+314,557,TCGA-02-0059,291.0,68.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0059.npy
+315,558,TCGA-02-0060,183.0,66.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-02-0060.npy
+316,559,TCGA-02-0064,600.0,50.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-02-0064.npy
+317,560,TCGA-02-0068,804.0,57.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-02-0068.npy
+318,561,TCGA-02-0069,9999.0,31.0,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0069.npy
+319,562,TCGA-02-0070,9999.0,70.0,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0070.npy
+320,563,TCGA-02-0071,167.0,53.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0071.npy
+321,564,TCGA-02-0074,310.0,68.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-02-0074.npy
+322,565,TCGA-02-0075,634.0,63.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-02-0075.npy
+323,566,TCGA-02-0079,829.0,57.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0079.npy
+324,567,TCGA-02-0080,2729.0,28.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-02-0080.npy
+325,568,TCGA-02-0083,691.0,59.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0083.npy
+326,569,TCGA-02-0084,384.0,36.0,Glioblastoma,G4,female,Dead,,./dataset/his_features/TCGA-02-0084.npy
+327,570,TCGA-02-0085,1561.0,63.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-02-0085.npy
+328,571,TCGA-02-0086,268.0,45.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-02-0086.npy
+329,572,TCGA-02-0087,9999.0,27.0,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0087.npy
+330,573,TCGA-02-0089,516.0,52.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-02-0089.npy
+331,574,TCGA-02-0099,106.0,46.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-02-0099.npy
+332,575,TCGA-02-0102,822.0,42.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-02-0102.npy
+333,576,TCGA-02-0104,1977.0,29.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0104.npy
+334,577,TCGA-02-0106,355.0,54.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0106.npy
+335,578,TCGA-02-0107,537.0,56.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-02-0107.npy
+336,579,TCGA-02-0111,705.0,56.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0111.npy
+337,580,TCGA-02-0113,9999.0,43.0,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0113.npy
+338,581,TCGA-02-0114,3041.0,37.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0114.npy
+339,582,TCGA-02-0115,476.0,52.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-02-0115.npy
+340,583,TCGA-02-0116,1489.0,51.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0116.npy
+341,584,TCGA-02-0250,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,,./dataset/his_features/TCGA-02-0250.npy
+342,585,TCGA-02-0258,503.0,36.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0258.npy
+343,586,TCGA-02-0260,515.0,54.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0260.npy
+344,587,TCGA-02-0266,539.0,14.0,Glioblastoma,G4,male,Dead,"Surgery, NOS",./dataset/his_features/TCGA-02-0266.npy
+345,588,TCGA-02-0269,327.0,68.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0269.npy
+346,590,TCGA-02-0281,121.0,78.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0281.npy
+347,591,TCGA-02-0285,422.0,50.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0285.npy
+348,592,TCGA-02-0289,432.0,57.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-02-0289.npy
+349,593,TCGA-02-0290,485.0,49.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-02-0290.npy
+350,594,TCGA-02-0317,372.0,40.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-02-0317.npy
+351,595,TCGA-02-0321,301.0,74.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0321.npy
+352,596,TCGA-02-0324,235.0,69.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0324.npy
+353,597,TCGA-02-0325,323.0,61.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-02-0325.npy
+354,598,TCGA-02-0326,223.0,82.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0326.npy
+355,599,TCGA-02-0329,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,,./dataset/his_features/TCGA-02-0329.npy
+356,600,TCGA-02-0330,484.0,51.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-02-0330.npy
+357,601,TCGA-02-0332,782.0,46.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-02-0332.npy
+358,602,TCGA-02-0333,133.0,77.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0333.npy
+359,603,TCGA-02-0336,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,,./dataset/his_features/TCGA-02-0336.npy
+360,604,TCGA-02-0337,764.0,48.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0337.npy
+361,605,TCGA-02-0338,322.0,41.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0338.npy
+362,606,TCGA-02-0339,377.0,67.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0339.npy
+363,607,TCGA-02-0422,441.0,50.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0422.npy
+364,608,TCGA-02-0430,321.0,67.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-02-0430.npy
+365,609,TCGA-02-0432,1433.0,36.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0432.npy
+366,610,TCGA-02-0439,20.0,70.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0439.npy
+367,611,TCGA-02-0440,345.0,62.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0440.npy
+368,612,TCGA-02-0446,282.0,61.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0446.npy
+369,613,TCGA-02-0451,493.0,62.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0451.npy
+370,614,TCGA-02-0456,102.0,67.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-0456.npy
+371,615,TCGA-02-2466,511.0,61.0,Glioblastoma,G4,male,Dead,"Surgery, NOS",./dataset/his_features/TCGA-02-2466.npy
+372,616,TCGA-02-2470,393.0,57.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-2470.npy
+373,618,TCGA-02-2485,9999.0,53.0,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-02-2485.npy
+374,619,TCGA-02-2486,618.0,64.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-02-2486.npy
+375,620,TCGA-06-0119,82.0,81.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0119.npy
+376,622,TCGA-06-0122,187.0,84.0,Glioblastoma,G4,female,Dead,,./dataset/his_features/TCGA-06-0122.npy
+377,623,TCGA-06-0124,620.0,67.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0124.npy
+378,624,TCGA-06-0125,1448.0,63.0,Glioblastoma,G4,female,Dead,"Brachytherapy, NOS",./dataset/his_features/TCGA-06-0125.npy
+379,626,TCGA-06-0127,121.0,67.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-0127.npy
+380,627,TCGA-06-0128,691.0,66.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-06-0128.npy
+381,628,TCGA-06-0129,1024.0,30.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-0129.npy
+382,629,TCGA-06-0130,394.0,54.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-06-0130.npy
+383,631,TCGA-06-0132,771.0,49.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0132.npy
+384,632,TCGA-06-0133,435.0,64.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-06-0133.npy
+385,633,TCGA-06-0137,812.0,63.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0137.npy
+386,634,TCGA-06-0138,737.0,43.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-0138.npy
+387,635,TCGA-06-0139,362.0,40.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0139.npy
+388,636,TCGA-06-0140,6.0,86.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0140.npy
+389,637,TCGA-06-0141,313.0,62.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-0141.npy
+390,638,TCGA-06-0142,67.0,81.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-0142.npy
+391,639,TCGA-06-0143,357.0,58.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-0143.npy
+392,640,TCGA-06-0145,71.0,53.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0145.npy
+393,641,TCGA-06-0146,611.0,33.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-0146.npy
+394,642,TCGA-06-0147,541.0,51.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-0147.npy
+395,643,TCGA-06-0148,307.0,76.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-0148.npy
+396,644,TCGA-06-0149,262.0,74.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-0149.npy
+397,645,TCGA-06-0150,592.0,45.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-06-0150.npy
+398,647,TCGA-06-0152,375.0,68.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-0152.npy
+399,648,TCGA-06-0154,424.0,54.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-06-0154.npy
+400,649,TCGA-06-0155,318.0,61.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-0155.npy
+401,650,TCGA-06-0156,178.0,57.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-06-0156.npy
+402,652,TCGA-06-0158,329.0,73.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-0158.npy
+403,653,TCGA-06-0159,287.0,74.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-06-0159.npy
+404,654,TCGA-06-0160,359.0,56.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-06-0160.npy
+405,655,TCGA-06-0162,104.0,47.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-06-0162.npy
+406,657,TCGA-06-0165,324.0,52.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-06-0165.npy
+407,658,TCGA-06-0166,178.0,51.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-0166.npy
+408,659,TCGA-06-0167,347.0,44.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-06-0167.npy
+409,660,TCGA-06-0168,598.0,59.0,Glioblastoma,G4,female,Dead,"Radiation, Stereotactic/Gamma Knife/SRS",./dataset/his_features/TCGA-06-0168.npy
+410,662,TCGA-06-0171,399.0,65.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-06-0171.npy
+411,663,TCGA-06-0173,136.0,72.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0173.npy
+412,664,TCGA-06-0174,98.0,54.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0174.npy
+413,666,TCGA-06-0176,9999.0,34.0,Glioblastoma,G4,male,Alive,Chemotherapy,./dataset/his_features/TCGA-06-0176.npy
+414,667,TCGA-06-0177,127.0,64.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0177.npy
+415,668,TCGA-06-0178,2681.0,38.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0178.npy
+416,669,TCGA-06-0179,616.0,64.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0179.npy
+417,671,TCGA-06-0184,2126.0,63.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-06-0184.npy
+418,672,TCGA-06-0185,9999.0,54.0,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0185.npy
+419,673,TCGA-06-0187,828.0,69.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-0187.npy
+420,674,TCGA-06-0188,1356.0,71.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0188.npy
+421,675,TCGA-06-0189,469.0,55.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0189.npy
+422,676,TCGA-06-0190,317.0,62.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0190.npy
+423,677,TCGA-06-0192,1185.0,58.0,Glioblastoma,G4,male,Dead,Targeted Molecular Therapy,./dataset/his_features/TCGA-06-0192.npy
+424,679,TCGA-06-0195,225.0,63.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-0195.npy
+425,680,TCGA-06-0197,169.0,65.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-06-0197.npy
+426,681,TCGA-06-0201,12.0,51.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0201.npy
+427,682,TCGA-06-0206,233.0,40.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0206.npy
+428,683,TCGA-06-0208,256.0,52.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0208.npy
+429,684,TCGA-06-0209,232.0,76.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-0209.npy
+430,685,TCGA-06-0210,225.0,72.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-06-0210.npy
+431,686,TCGA-06-0211,360.0,47.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0211.npy
+432,687,TCGA-06-0213,16.0,55.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-0213.npy
+433,688,TCGA-06-0214,457.0,66.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0214.npy
+434,689,TCGA-06-0216,735.0,61.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-06-0216.npy
+435,690,TCGA-06-0219,22.0,67.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0219.npy
+436,691,TCGA-06-0221,603.0,31.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-0221.npy
+437,692,TCGA-06-0237,415.0,75.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0237.npy
+438,697,TCGA-06-0397,274.0,57.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-06-0397.npy
+439,699,TCGA-06-0409,2201.0,43.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0409.npy
+440,705,TCGA-06-0645,175.0,55.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0645.npy
+441,706,TCGA-06-0646,175.0,60.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-0646.npy
+442,707,TCGA-06-0648,298.0,77.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0648.npy
+443,708,TCGA-06-0649,64.0,73.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-0649.npy
+444,709,TCGA-06-0650,717.0,39.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-0650.npy
+445,711,TCGA-06-0675,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,,./dataset/his_features/TCGA-06-0675.npy
+446,714,TCGA-06-0680,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,,./dataset/his_features/TCGA-06-0680.npy
+447,716,TCGA-06-0686,432.0,53.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0686.npy
+448,718,TCGA-06-0744,1426.0,66.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0744.npy
+449,719,TCGA-06-0745,239.0,59.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0745.npy
+450,720,TCGA-06-0747,82.0,53.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0747.npy
+451,724,TCGA-06-0876,9999.0,72.0,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0876.npy
+452,725,TCGA-06-0877,2361.8093385214006,78.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-06-0877.npy
+453,726,TCGA-06-0878,9999.0,74.0,Glioblastoma,G4,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-0878.npy
+454,727,TCGA-06-0879,1229.0,52.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0879.npy
+455,728,TCGA-06-0881,504.0,50.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-0881.npy
+456,729,TCGA-06-0882,632.0,30.0,Glioblastoma,G4,male,Dead,Targeted Molecular Therapy,./dataset/his_features/TCGA-06-0882.npy
+457,730,TCGA-06-0939,814.0,79.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-06-0939.npy
+458,731,TCGA-06-1084,728.0,54.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-1084.npy
+459,732,TCGA-06-1086,208.0,42.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-06-1086.npy
+460,733,TCGA-06-1087,123.0,75.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-1087.npy
+461,734,TCGA-06-1800,815.0,61.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-06-1800.npy
+462,735,TCGA-06-1801,360.0,56.0,Glioblastoma,G4,female,Dead,Targeted Molecular Therapy,./dataset/his_features/TCGA-06-1801.npy
+463,737,TCGA-06-1804,414.0,81.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-1804.npy
+464,738,TCGA-06-1805,9999.0,28.0,Glioblastoma,G4,female,Alive,Chemotherapy,./dataset/his_features/TCGA-06-1805.npy
+465,740,TCGA-06-2557,33.0,76.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-2557.npy
+466,741,TCGA-06-2558,380.0,75.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-06-2558.npy
+467,742,TCGA-06-2559,150.0,83.0,Glioblastoma,G4,male,Dead,"Radiation, Intensity-Modulated Radiotherapy",./dataset/his_features/TCGA-06-2559.npy
+468,743,TCGA-06-2561,537.0,53.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-2561.npy
+469,744,TCGA-06-2562,382.0,81.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-2562.npy
+470,745,TCGA-06-2563,9999.0,72.0,Glioblastoma,G4,female,Alive,"Radiation, Stereotactic/Gamma Knife/SRS",./dataset/his_features/TCGA-06-2563.npy
+471,746,TCGA-06-2564,9999.0,50.0,Glioblastoma,G4,male,Alive,Chemotherapy,./dataset/his_features/TCGA-06-2564.npy
+472,747,TCGA-06-2565,506.0,59.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-2565.npy
+473,748,TCGA-06-2566,182.0,23.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-06-2566.npy
+474,749,TCGA-06-2567,133.0,65.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-06-2567.npy
+475,750,TCGA-06-2569,9999.0,24.0,Glioblastoma,G4,female,Alive,,./dataset/his_features/TCGA-06-2569.npy
+476,751,TCGA-06-2570,9999.0,21.0,Glioblastoma,G4,female,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-06-2570.npy
+477,752,TCGA-06-5408,357.0,54.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-5408.npy
+478,753,TCGA-06-5410,108.0,72.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-5410.npy
+479,754,TCGA-06-5411,254.0,51.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-5411.npy
+480,755,TCGA-06-5412,138.0,78.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-06-5412.npy
+481,756,TCGA-06-5413,9999.0,67.0,Glioblastoma,G4,male,Alive,Chemotherapy,./dataset/his_features/TCGA-06-5413.npy
+482,757,TCGA-06-5414,9999.0,61.0,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-5414.npy
+483,758,TCGA-06-5415,9999.0,60.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-06-5415.npy
+484,759,TCGA-06-5416,9999.0,23.0,Glioblastoma,G4,female,Alive,Chemotherapy,./dataset/his_features/TCGA-06-5416.npy
+485,760,TCGA-06-5417,9999.0,45.0,Glioblastoma,G4,female,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-06-5417.npy
+486,761,TCGA-06-5418,83.0,75.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-5418.npy
+487,762,TCGA-06-5856,114.0,58.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-5856.npy
+488,763,TCGA-06-5858,9999.0,45.0,Glioblastoma,G4,female,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-5858.npy
+489,764,TCGA-06-5859,9999.0,63.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-06-5859.npy
+490,765,TCGA-06-6388,159.0,64.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-6388.npy
+491,766,TCGA-06-6389,9999.0,49.0,Glioblastoma,G4,female,Alive,Chemotherapy,./dataset/his_features/TCGA-06-6389.npy
+492,767,TCGA-06-6390,164.0,58.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-06-6390.npy
+493,768,TCGA-06-6391,45.0,44.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-6391.npy
+494,769,TCGA-06-6693,3667.0,64.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-6693.npy
+495,770,TCGA-06-6694,224.0,76.0,Glioblastoma,G4,female,Dead,,./dataset/his_features/TCGA-06-6694.npy
+496,771,TCGA-06-6695,9999.0,64.0,Glioblastoma,G4,male,Alive,Chemotherapy,./dataset/his_features/TCGA-06-6695.npy
+497,772,TCGA-06-6697,9999.0,65.0,Glioblastoma,G4,male,Alive,Chemotherapy,./dataset/his_features/TCGA-06-6697.npy
+498,773,TCGA-06-6698,9999.0,53.0,Glioblastoma,G4,female,Alive,Chemotherapy,./dataset/his_features/TCGA-06-6698.npy
+499,774,TCGA-06-6699,9999.0,58.0,Glioblastoma,G4,female,Alive,Chemotherapy,./dataset/his_features/TCGA-06-6699.npy
+500,775,TCGA-06-6700,9999.0,76.0,Glioblastoma,G4,male,Alive,Targeted Molecular Therapy,./dataset/his_features/TCGA-06-6700.npy
+501,776,TCGA-06-6701,9999.0,60.0,Glioblastoma,G4,male,Alive,Chemotherapy,./dataset/his_features/TCGA-06-6701.npy
+502,777,TCGA-06-A5U0,9999.0,21.0,Glioblastoma,G4,female,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-A5U0.npy
+503,778,TCGA-06-A5U1,57.0,78.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-A5U1.npy
+504,779,TCGA-06-A6S0,95.0,79.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-A6S0.npy
+505,780,TCGA-06-A6S1,78.0,53.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-06-A6S1.npy
+506,781,TCGA-06-A7TK,444.0,64.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-06-A7TK.npy
+507,782,TCGA-06-A7TL,9999.0,30.0,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-06-A7TL.npy
+508,784,TCGA-08-0244,690.0,62.0,Glioblastoma,G4,male,Dead,"Surgery, NOS",./dataset/his_features/TCGA-08-0244.npy
+509,785,TCGA-08-0245,1151.0,31.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-08-0245.npy
+510,786,TCGA-08-0246,127.0,57.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-08-0246.npy
+511,787,TCGA-08-0344,3524.0,66.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-08-0344.npy
+512,788,TCGA-08-0345,53.0,71.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-08-0345.npy
+513,789,TCGA-08-0346,256.0,69.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-08-0346.npy
+514,790,TCGA-08-0347,782.0,50.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-08-0347.npy
+515,792,TCGA-08-0349,298.0,46.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-08-0349.npy
+516,793,TCGA-08-0350,889.0,32.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-08-0350.npy
+517,794,TCGA-08-0351,1987.0,40.0,Glioblastoma,G4,male,Dead,Targeted Molecular Therapy,./dataset/his_features/TCGA-08-0351.npy
+518,795,TCGA-08-0352,39.0,79.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-08-0352.npy
+519,796,TCGA-08-0353,256.0,58.0,Glioblastoma,G4,male,Dead,"Radiation, Cyberknife",./dataset/his_features/TCGA-08-0353.npy
+520,797,TCGA-08-0354,546.0,52.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-08-0354.npy
+521,798,TCGA-08-0355,747.0,30.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-08-0355.npy
+522,799,TCGA-08-0356,946.0,59.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-08-0356.npy
+523,800,TCGA-08-0357,1143.0,49.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-08-0357.npy
+524,801,TCGA-08-0358,678.0,50.0,Glioblastoma,G4,male,Dead,Targeted Molecular Therapy,./dataset/his_features/TCGA-08-0358.npy
+525,802,TCGA-08-0359,103.0,59.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-08-0359.npy
+526,803,TCGA-08-0360,468.0,76.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-08-0360.npy
+527,805,TCGA-08-0375,372.0,51.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-08-0375.npy
+528,806,TCGA-08-0380,454.0,74.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-08-0380.npy
+529,807,TCGA-08-0385,82.0,71.0,Glioblastoma,G4,male,Dead,,./dataset/his_features/TCGA-08-0385.npy
+530,809,TCGA-08-0389,467.0,59.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-08-0389.npy
+531,810,TCGA-08-0390,425.0,69.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-08-0390.npy
+532,811,TCGA-08-0392,22.0,60.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-08-0392.npy
+533,814,TCGA-08-0511,235.0,69.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-08-0511.npy
+534,815,TCGA-08-0512,1282.0,48.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-08-0512.npy
+535,816,TCGA-08-0514,337.0,69.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-08-0514.npy
+536,817,TCGA-08-0516,596.0,14.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-08-0516.npy
+537,818,TCGA-08-0517,1785.0,34.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-08-0517.npy
+538,819,TCGA-08-0518,588.0,60.0,Glioblastoma,G4,female,Dead,,./dataset/his_features/TCGA-08-0518.npy
+539,820,TCGA-08-0520,327.0,70.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-08-0520.npy
+540,821,TCGA-08-0521,146.0,17.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-08-0521.npy
+541,822,TCGA-08-0522,635.0,61.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-08-0522.npy
+542,823,TCGA-08-0524,221.0,17.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-08-0524.npy
+543,824,TCGA-08-0525,486.0,52.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-08-0525.npy
+544,826,TCGA-08-0531,230.0,64.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-08-0531.npy
+545,831,TCGA-12-0615,467.0,78.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-12-0615.npy
+546,832,TCGA-12-0616,448.0,36.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-12-0616.npy
+547,833,TCGA-12-0618,395.0,49.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-12-0618.npy
+548,834,TCGA-12-0619,1062.0,60.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-12-0619.npy
+549,835,TCGA-12-0620,318.0,57.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-12-0620.npy
+550,837,TCGA-12-0654,231.0,48.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-12-0654.npy
+551,838,TCGA-12-0656,2883.0,48.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-12-0656.npy
+552,839,TCGA-12-0657,3.0,69.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-12-0657.npy
+553,840,TCGA-12-0662,1161.0,51.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-12-0662.npy
+554,841,TCGA-12-0670,790.0,60.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-12-0670.npy
+555,842,TCGA-12-0688,811.0,74.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-12-0688.npy
+556,843,TCGA-12-0691,369.0,63.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-12-0691.npy
+557,844,TCGA-12-0692,111.0,75.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-12-0692.npy
+558,845,TCGA-12-0703,620.0,46.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-12-0703.npy
+559,846,TCGA-12-0707,864.0,55.0,Glioblastoma,G4,male,Dead,,./dataset/his_features/TCGA-12-0707.npy
+560,847,TCGA-12-0769,458.0,52.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-12-0769.npy
+561,848,TCGA-12-0772,1638.0,46.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-12-0772.npy
+562,849,TCGA-12-0773,1315.0,24.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-12-0773.npy
+563,850,TCGA-12-0775,232.0,75.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-12-0775.npy
+564,852,TCGA-12-0778,454.0,53.0,Glioblastoma,G4,male,Dead,Targeted Molecular Therapy,./dataset/his_features/TCGA-12-0778.npy
+565,853,TCGA-12-0780,452.0,51.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-12-0780.npy
+566,854,TCGA-12-0818,2791.0,45.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-12-0818.npy
+567,855,TCGA-12-0819,754.0,49.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-12-0819.npy
+568,856,TCGA-12-0820,562.0,40.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-12-0820.npy
+569,857,TCGA-12-0821,323.0,62.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-12-0821.npy
+570,858,TCGA-12-0822,715.0,46.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-12-0822.npy
+571,859,TCGA-12-0826,845.0,38.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-12-0826.npy
+572,860,TCGA-12-0827,1179.0,38.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-12-0827.npy
+573,861,TCGA-12-0828,272.0,57.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-12-0828.npy
+574,862,TCGA-12-0829,626.0,75.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-12-0829.npy
+575,863,TCGA-12-1088,3881.0,53.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-12-1088.npy
+576,864,TCGA-12-1089,177.0,64.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-12-1089.npy
+577,866,TCGA-12-1091,1010.0,10.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-12-1091.npy
+578,867,TCGA-12-1092,661.0,58.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-12-1092.npy
+579,868,TCGA-12-1093,486.0,66.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-12-1093.npy
+580,869,TCGA-12-1094,372.0,56.0,Glioblastoma,G4,male,Dead,"Surgery, NOS",./dataset/his_features/TCGA-12-1094.npy
+581,870,TCGA-12-1095,482.0,65.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-12-1095.npy
+582,871,TCGA-12-1096,277.0,55.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-12-1096.npy
+583,872,TCGA-12-1097,442.0,61.0,Glioblastoma,G4,male,Dead,Targeted Molecular Therapy,./dataset/his_features/TCGA-12-1097.npy
+584,873,TCGA-12-1098,121.0,75.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-12-1098.npy
+585,875,TCGA-12-1597,675.0,62.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-12-1597.npy
+586,876,TCGA-12-1598,476.0,75.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-12-1598.npy
+587,877,TCGA-12-1599,781.0,47.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-12-1599.npy
+588,878,TCGA-12-1600,448.0,86.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-12-1600.npy
+589,880,TCGA-12-1602,206.0,58.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-12-1602.npy
+590,882,TCGA-12-3646,1339.0,59.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-12-3646.npy
+591,883,TCGA-12-3648,819.0,61.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-12-3648.npy
+592,884,TCGA-12-3649,463.0,76.0,Glioblastoma,G4,male,Dead,Immunotherapy (Including Vaccines),./dataset/his_features/TCGA-12-3649.npy
+593,885,TCGA-12-3650,333.0,46.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-12-3650.npy
+594,886,TCGA-12-3651,386.0,77.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-12-3651.npy
+595,887,TCGA-12-3652,1062.0,60.0,Glioblastoma,G4,male,Dead,Targeted Molecular Therapy,./dataset/his_features/TCGA-12-3652.npy
+596,888,TCGA-12-3653,442.0,34.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-12-3653.npy
+597,889,TCGA-12-5295,454.0,60.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-12-5295.npy
+598,891,TCGA-12-5301,62.0,59.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-12-5301.npy
+599,892,TCGA-14-0736,460.0,49.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-14-0736.npy
+600,894,TCGA-14-0781,29.0,49.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-14-0781.npy
+601,895,TCGA-14-0783,189.0,36.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-14-0783.npy
+602,896,TCGA-14-0786,701.0,50.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-14-0786.npy
+603,897,TCGA-14-0787,68.0,69.0,Glioblastoma,G4,male,Dead,Hormone Therapy,./dataset/his_features/TCGA-14-0787.npy
+604,898,TCGA-14-0789,342.0,54.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-14-0789.npy
+605,900,TCGA-14-0812,99.0,65.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-14-0812.npy
+606,901,TCGA-14-0813,41.0,78.0,Glioblastoma,G4,male,Dead,Hormone Therapy,./dataset/his_features/TCGA-14-0813.npy
+607,902,TCGA-14-0817,164.0,69.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-14-0817.npy
+608,903,TCGA-14-0862,88.0,60.0,Glioblastoma,G4,male,Dead,Hormone Therapy,./dataset/his_features/TCGA-14-0862.npy
+609,905,TCGA-14-0866,801.0,55.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-14-0866.npy
+610,906,TCGA-14-0867,62.0,67.0,Glioblastoma,G4,male,Dead,Hormone Therapy,./dataset/his_features/TCGA-14-0867.npy
+611,907,TCGA-14-0871,880.0,74.0,Glioblastoma,G4,female,Dead,Hormone Therapy,./dataset/his_features/TCGA-14-0871.npy
+612,908,TCGA-14-1034,485.0,60.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-14-1034.npy
+613,909,TCGA-14-1037,587.0,66.0,Glioblastoma,G4,female,Dead,Targeted Molecular Therapy,./dataset/his_features/TCGA-14-1037.npy
+614,910,TCGA-14-1043,24.0,61.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-14-1043.npy
+615,911,TCGA-14-1395,42.0,52.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-14-1395.npy
+616,912,TCGA-14-1396,34.0,78.0,Glioblastoma,G4,female,Dead,Hormone Therapy,./dataset/his_features/TCGA-14-1396.npy
+617,913,TCGA-14-1401,114.0,54.0,Glioblastoma,G4,male,Dead,Hormone Therapy,./dataset/his_features/TCGA-14-1401.npy
+618,914,TCGA-14-1402,975.0,58.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-14-1402.npy
+619,916,TCGA-14-1451,703.0,39.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-14-1451.npy
+620,917,TCGA-14-1452,216.0,60.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-14-1452.npy
+621,918,TCGA-14-1453,35.0,69.0,Glioblastoma,G4,male,Dead,Hormone Therapy,./dataset/his_features/TCGA-14-1453.npy
+622,919,TCGA-14-1454,918.0,54.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-14-1454.npy
+623,922,TCGA-14-1458,203.0,54.0,Glioblastoma,G4,male,Dead,Hormone Therapy,./dataset/his_features/TCGA-14-1458.npy
+624,923,TCGA-14-1459,378.0,63.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-14-1459.npy
+625,924,TCGA-14-1794,30.0,59.0,Glioblastoma,G4,male,Dead,Hormone Therapy,./dataset/his_features/TCGA-14-1794.npy
+626,925,TCGA-14-1795,60.0,66.0,Glioblastoma,G4,male,Dead,Hormone Therapy,./dataset/his_features/TCGA-14-1795.npy
+627,926,TCGA-14-1821,541.0,31.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-14-1821.npy
+628,927,TCGA-14-1823,543.0,58.0,Glioblastoma,G4,female,Dead,Targeted Molecular Therapy,./dataset/his_features/TCGA-14-1823.npy
+629,928,TCGA-14-1825,232.0,70.0,Glioblastoma,G4,male,Dead,Hormone Therapy,./dataset/his_features/TCGA-14-1825.npy
+630,929,TCGA-14-1827,179.0,51.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-14-1827.npy
+631,930,TCGA-14-1829,9999.0,57.0,Glioblastoma,G4,male,Alive,Chemotherapy,./dataset/his_features/TCGA-14-1829.npy
+632,931,TCGA-14-2554,532.0,52.0,Glioblastoma,G4,female,Dead,Hormone Therapy,./dataset/his_features/TCGA-14-2554.npy
+633,933,TCGA-14-3476,12.0,74.0,Glioblastoma,G4,male,Dead,Hormone Therapy,./dataset/his_features/TCGA-14-3476.npy
+634,934,TCGA-14-3477,9999.0,38.0,Glioblastoma,G4,female,Alive,Targeted Molecular Therapy,./dataset/his_features/TCGA-14-3477.npy
+635,936,TCGA-15-0742,419.0,65.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-15-0742.npy
+636,937,TCGA-15-1444,1537.0,21.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-15-1444.npy
+637,938,TCGA-15-1446,9999.0,55.0,Glioblastoma,G4,male,Alive,"Surgery, NOS",./dataset/his_features/TCGA-15-1446.npy
+638,939,TCGA-15-1447,9999.0,36.0,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-15-1447.npy
+639,940,TCGA-15-1449,404.0,65.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-15-1449.npy
+640,941,TCGA-16-0846,119.0,85.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-16-0846.npy
+641,942,TCGA-16-0848,535.0,57.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-16-0848.npy
+642,943,TCGA-16-0849,9999.0,54.0,Glioblastoma,G4,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-16-0849.npy
+643,946,TCGA-16-1045,883.0,49.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-16-1045.npy
+644,951,TCGA-16-1060,278.0,70.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-16-1060.npy
+645,952,TCGA-16-1062,646.0,57.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-16-1062.npy
+646,953,TCGA-16-1063,425.0,72.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-16-1063.npy
+647,954,TCGA-16-1460,9999.0,36.0,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-16-1460.npy
+648,955,TCGA-19-0955,9999.0,71.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-19-0955.npy
+649,957,TCGA-19-0960,9999.0,83.0,Glioblastoma,G4,female,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-19-0960.npy
+650,958,TCGA-19-0962,20.0,77.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-19-0962.npy
+651,959,TCGA-19-0963,434.0,61.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-19-0963.npy
+652,960,TCGA-19-0964,9999.0,70.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-19-0964.npy
+653,963,TCGA-19-1387,9999.0,81.0,Glioblastoma,G4,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-19-1387.npy
+654,967,TCGA-19-1392,111.0,72.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-19-1392.npy
+655,968,TCGA-19-1786,9999.0,64.0,Glioblastoma,G4,female,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-19-1786.npy
+656,970,TCGA-19-1788,112.0,39.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-19-1788.npy
+657,974,TCGA-19-2619,9999.0,55.0,Glioblastoma,G4,female,Alive,Chemotherapy,./dataset/his_features/TCGA-19-2619.npy
+658,975,TCGA-19-2620,148.0,70.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-19-2620.npy
+659,977,TCGA-19-2623,9999.0,65.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-19-2623.npy
+660,979,TCGA-19-2625,124.0,76.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-19-2625.npy
+661,981,TCGA-19-2631,213.0,74.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-19-2631.npy
+662,982,TCGA-19-4065,9999.0,36.0,Glioblastoma,G4,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-19-4065.npy
+663,983,TCGA-19-4068,9999.0,68.0,Glioblastoma,G4,female,Alive,Chemotherapy,./dataset/his_features/TCGA-19-4068.npy
+664,984,TCGA-19-5947,202.0,47.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-19-5947.npy
+665,985,TCGA-19-5950,523.0,52.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-19-5950.npy
+666,986,TCGA-19-5951,244.0,76.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-19-5951.npy
+667,987,TCGA-19-5952,575.0,62.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-19-5952.npy
+668,988,TCGA-19-5953,144.0,58.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-19-5953.npy
+669,989,TCGA-19-5954,368.0,72.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-19-5954.npy
+670,990,TCGA-19-5955,54.0,83.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-19-5955.npy
+671,991,TCGA-19-5956,684.0,53.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-19-5956.npy
+672,992,TCGA-19-5958,428.0,56.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-19-5958.npy
+673,993,TCGA-19-5959,511.0,77.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-19-5959.npy
+674,994,TCGA-19-5960,455.0,56.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-19-5960.npy
+675,995,TCGA-19-A60I,9999.0,39.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-19-A60I.npy
+676,996,TCGA-19-A6J4,121.0,68.0,Glioblastoma,G4,male,Dead,"Surgery, NOS",./dataset/his_features/TCGA-19-A6J4.npy
+677,997,TCGA-19-A6J5,9999.0,40.0,Glioblastoma,G4,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-19-A6J5.npy
+678,998,TCGA-26-1438,9999.0,36.0,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-26-1438.npy
+679,999,TCGA-26-1439,422.0,63.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-26-1439.npy
+680,1000,TCGA-26-1440,9999.0,48.0,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-26-1440.npy
+681,1001,TCGA-26-1442,9999.0,43.0,Glioblastoma,G4,male,Alive,Chemotherapy,./dataset/his_features/TCGA-26-1442.npy
+682,1002,TCGA-26-1443,9999.0,60.0,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-26-1443.npy
+683,1003,TCGA-26-1799,285.0,68.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-26-1799.npy
+684,1004,TCGA-26-5132,9999.0,74.0,Glioblastoma,G4,male,Alive,Chemotherapy,./dataset/his_features/TCGA-26-5132.npy
+685,1005,TCGA-26-5133,9999.0,59.0,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-26-5133.npy
+686,1006,TCGA-26-5134,9999.0,74.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-26-5134.npy
+687,1007,TCGA-26-5135,270.0,72.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-26-5135.npy
+688,1008,TCGA-26-5136,577.0,78.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-26-5136.npy
+689,1009,TCGA-26-5139,9999.0,65.0,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-26-5139.npy
+690,1010,TCGA-26-6173,9999.0,57.0,Glioblastoma,G4,male,Alive,Chemotherapy,./dataset/his_features/TCGA-26-6173.npy
+691,1011,TCGA-26-6174,9999.0,65.0,Glioblastoma,G4,female,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-26-6174.npy
+692,1012,TCGA-26-A7UX,9999.0,47.0,Glioblastoma,G4,male,Alive,Chemotherapy,./dataset/his_features/TCGA-26-A7UX.npy
+693,1013,TCGA-27-1830,154.0,57.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-27-1830.npy
+694,1014,TCGA-27-1831,505.0,66.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-27-1831.npy
+695,1015,TCGA-27-1832,300.0,59.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-27-1832.npy
+696,1016,TCGA-27-1833,737.0,67.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-27-1833.npy
+697,1017,TCGA-27-1834,1233.0,56.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-27-1834.npy
+698,1018,TCGA-27-1835,648.0,53.0,Glioblastoma,G4,female,Dead,Hormone Therapy,./dataset/his_features/TCGA-27-1835.npy
+699,1019,TCGA-27-1836,914.0,33.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-27-1836.npy
+700,1020,TCGA-27-1837,427.0,36.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-27-1837.npy
+701,1021,TCGA-27-1838,350.0,59.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-27-1838.npy
+702,1022,TCGA-27-2518,753.0,52.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-27-2518.npy
+703,1023,TCGA-27-2519,550.0,48.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-27-2519.npy
+704,1024,TCGA-27-2521,510.0,34.0,Glioblastoma,G4,male,Dead,Hormone Therapy,./dataset/his_features/TCGA-27-2521.npy
+705,1025,TCGA-27-2523,489.0,63.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-27-2523.npy
+706,1026,TCGA-27-2524,231.0,56.0,Glioblastoma,G4,male,Dead,Hormone Therapy,./dataset/his_features/TCGA-27-2524.npy
+707,1027,TCGA-27-2526,87.0,79.0,Glioblastoma,G4,female,Dead,Hormone Therapy,./dataset/his_features/TCGA-27-2526.npy
+708,1028,TCGA-27-2527,438.0,81.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-27-2527.npy
+709,1029,TCGA-27-2528,480.0,62.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-27-2528.npy
+710,1030,TCGA-28-1745,9999.0,76.0,Glioblastoma,G4,male,Alive,"Radiation, Stereotactic/Gamma Knife/SRS",./dataset/his_features/TCGA-28-1745.npy
+711,1031,TCGA-28-1746,9999.0,77.0,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-28-1746.npy
+712,1034,TCGA-28-1750,9999.0,40.0,Glioblastoma,G4,female,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-28-1750.npy
+713,1035,TCGA-28-1751,9999.0,61.0,Glioblastoma,G4,female,Alive,Chemotherapy,./dataset/his_features/TCGA-28-1751.npy
+714,1036,TCGA-28-1752,9999.0,42.0,Glioblastoma,G4,female,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-28-1752.npy
+715,1038,TCGA-28-1755,47.0,52.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-28-1755.npy
+716,1040,TCGA-28-1757,9999.0,71.0,Glioblastoma,G4,male,Alive,,./dataset/his_features/TCGA-28-1757.npy
+717,1041,TCGA-28-1760,9999.0,48.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-28-1760.npy
+718,1047,TCGA-28-2510,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,,./dataset/his_features/TCGA-28-2510.npy
+719,1050,TCGA-28-2514,9999.0,45.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-28-2514.npy
+720,1051,TCGA-28-5204,454.0,72.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-28-5204.npy
+721,1052,TCGA-28-5207,343.0,71.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-28-5207.npy
+722,1053,TCGA-28-5208,544.0,52.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-28-5208.npy
+723,1055,TCGA-28-5211,9999.0,42.0,Glioblastoma,G4,male,Alive,Chemotherapy,./dataset/his_features/TCGA-28-5211.npy
+724,1056,TCGA-28-5213,9999.0,72.0,Glioblastoma,G4,male,Alive,Chemotherapy,./dataset/his_features/TCGA-28-5213.npy
+725,1057,TCGA-28-5214,713.0,53.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-28-5214.npy
+726,1059,TCGA-28-5216,9999.0,52.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-28-5216.npy
+727,1062,TCGA-28-5220,388.0,67.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-28-5220.npy
+728,1063,TCGA-28-6450,165.0,60.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-28-6450.npy
+729,1073,TCGA-32-1987,452.0,49.0,Glioblastoma,G4,female,Dead,"Surgery, NOS",./dataset/his_features/TCGA-32-1987.npy
+730,1074,TCGA-32-1991,515.0,60.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-32-1991.npy
+731,1076,TCGA-32-2494,632.0,58.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-32-2494.npy
+732,1090,TCGA-32-5222,585.0,66.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-32-5222.npy
+733,1093,TCGA-41-2573,9999.0,59.0,Glioblastoma,G4,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-41-2573.npy
+734,1094,TCGA-41-2575,290.0,75.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-41-2575.npy
+735,1095,TCGA-41-3392,30.0,88.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-41-3392.npy
+736,1096,TCGA-41-3393,135.0,81.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-41-3393.npy
+737,1097,TCGA-41-3915,360.0,48.0,Glioblastoma,G4,male,Dead,"Surgery, NOS",./dataset/his_features/TCGA-41-3915.npy
+738,1098,TCGA-41-4097,6.0,63.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-41-4097.npy
+739,1099,TCGA-41-5651,460.0,59.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-41-5651.npy
+740,1100,TCGA-41-6646,379.0,73.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-41-6646.npy
+741,1101,TCGA-4W-AA9R,9999.0,61.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-4W-AA9R.npy
+742,1102,TCGA-4W-AA9S,9999.0,69.0,Glioblastoma,G4,male,Alive,Chemotherapy,./dataset/his_features/TCGA-4W-AA9S.npy
+743,1103,TCGA-4W-AA9T,9999.0,54.0,Glioblastoma,G4,female,Alive,Chemotherapy,./dataset/his_features/TCGA-4W-AA9T.npy
+744,1104,TCGA-74-6573,105.0,67.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-74-6573.npy
+745,1105,TCGA-74-6575,9999.0,73.0,Glioblastoma,G4,female,Alive,Targeted Molecular Therapy,./dataset/his_features/TCGA-74-6575.npy
+746,1106,TCGA-74-6577,9999.0,51.0,Glioblastoma,G4,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-74-6577.npy
+747,1107,TCGA-74-6578,9999.0,58.0,Glioblastoma,G4,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-74-6578.npy
+748,1108,TCGA-74-6581,9999.0,77.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-74-6581.npy
+749,1109,TCGA-74-6584,9999.0,55.0,Glioblastoma,G4,female,Alive,Chemotherapy,./dataset/his_features/TCGA-74-6584.npy
+750,1110,TCGA-76-4925,146.0,76.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-76-4925.npy
+751,1111,TCGA-76-4926,138.0,68.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-76-4926.npy
+752,1112,TCGA-76-4927,535.0,58.0,Glioblastoma,G4,male,Dead,,./dataset/his_features/TCGA-76-4927.npy
+753,1113,TCGA-76-4928,94.0,85.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-76-4928.npy
+754,1114,TCGA-76-4929,111.0,76.0,Glioblastoma,G4,female,Dead,,./dataset/his_features/TCGA-76-4929.npy
+755,1115,TCGA-76-4931,279.0,70.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-76-4931.npy
+756,1116,TCGA-76-4932,1458.0,50.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/his_features/TCGA-76-4932.npy
+757,1117,TCGA-76-4934,77.0,66.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-76-4934.npy
+758,1118,TCGA-76-4935,1121.0,52.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-76-4935.npy
+759,1119,TCGA-76-6191,508.0,57.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-76-6191.npy
+760,1120,TCGA-76-6192,100.0,74.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-76-6192.npy
+761,1121,TCGA-76-6193,82.0,78.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-76-6193.npy
+762,1122,TCGA-76-6280,346.0,57.0,Glioblastoma,G4,male,Dead,"Surgery, NOS",./dataset/his_features/TCGA-76-6280.npy
+763,1123,TCGA-76-6282,519.0,63.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-76-6282.npy
+764,1124,TCGA-76-6283,165.0,71.0,Glioblastoma,G4,female,Dead,,./dataset/his_features/TCGA-76-6283.npy
+765,1125,TCGA-76-6285,254.0,64.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-76-6285.npy
+766,1126,TCGA-76-6286,638.0,60.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-76-6286.npy
+767,1127,TCGA-76-6656,147.0,66.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-76-6656.npy
+768,1128,TCGA-76-6657,153.0,74.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/his_features/TCGA-76-6657.npy
+769,1129,TCGA-76-6660,114.0,73.0,Glioblastoma,G4,male,Dead,,./dataset/his_features/TCGA-76-6660.npy
+770,1130,TCGA-76-6661,727.0,54.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/his_features/TCGA-76-6661.npy
+771,1131,TCGA-76-6662,1048.0,58.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-76-6662.npy
+772,1133,TCGA-76-6664,9999.0,49.0,Glioblastoma,G4,female,Alive,Chemotherapy,./dataset/his_features/TCGA-76-6664.npy
+773,1134,TCGA-81-5910,49.0,64.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-81-5910.npy
+774,1135,TCGA-81-5911,9999.0,33.0,Glioblastoma,G4,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/his_features/TCGA-81-5911.npy
+775,1136,TCGA-87-5896,9999.0,50.0,Glioblastoma,G4,female,Alive,"Radiation, External Beam",./dataset/his_features/TCGA-87-5896.npy
+776,1137,TCGA-OX-A56R,180.0,68.0,Glioblastoma,G4,male,Dead,,./dataset/his_features/TCGA-OX-A56R.npy
+777,1138,TCGA-RR-A6KA,191.0,72.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/his_features/TCGA-RR-A6KA.npy
+778,1139,TCGA-RR-A6KB,9999.0,51.0,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS",./dataset/his_features/TCGA-RR-A6KB.npy
+779,1140,TCGA-RR-A6KC,625.0,55.0,Glioblastoma,G4,male,Dead,,./dataset/his_features/TCGA-RR-A6KC.npy
+780,1269,UPENN-GBM-00127,721.0,68.85,Glioblastoma,G4,M,Dead,,./dataset/his_features/UPENN-GBM-00127.npy
+781,1270,UPENN-GBM-00128,885.0,81.54,Glioblastoma,G4,F,Dead,,./dataset/his_features/UPENN-GBM-00128.npy
+782,1273,UPENN-GBM-00131,852.0,76.3,Glioblastoma,G4,M,Dead,,./dataset/his_features/UPENN-GBM-00131.npy
+783,1275,UPENN-GBM-00133,537.0,73.72,Glioblastoma,G4,M,Dead,,./dataset/his_features/UPENN-GBM-00133.npy
+784,1276,UPENN-GBM-00134,374.0,45.34,Glioblastoma,G4,M,Dead,,./dataset/his_features/UPENN-GBM-00134.npy
+785,1282,UPENN-GBM-00140,234.0,48.37,Glioblastoma,G4,M,Dead,,./dataset/his_features/UPENN-GBM-00140.npy
+786,1284,UPENN-GBM-00142,9999.0,67.68,Glioblastoma,G4,M,Alive,,./dataset/his_features/UPENN-GBM-00142.npy
+787,1287,UPENN-GBM-00145,85.0,66.53,Glioblastoma,G4,F,Dead,,./dataset/his_features/UPENN-GBM-00145.npy
+788,1290,UPENN-GBM-00148,299.0,56.31,Glioblastoma,G4,M,Dead,,./dataset/his_features/UPENN-GBM-00148.npy
+789,1292,UPENN-GBM-00150,551.0,56.4,Glioblastoma,G4,F,Dead,,./dataset/his_features/UPENN-GBM-00150.npy
+790,1293,UPENN-GBM-00151,618.0,67.43,Glioblastoma,G4,M,Dead,,./dataset/his_features/UPENN-GBM-00151.npy
+791,1456,UPENN-GBM-00314,614.0,58.88,Glioblastoma,G4,M,Dead,,./dataset/his_features/UPENN-GBM-00314.npy
+792,1601,UPENN-GBM-00459,693.0,38.9,Glioblastoma,G4,M,Dead,,./dataset/his_features/UPENN-GBM-00459.npy
+793,1602,UPENN-GBM-00460,620.0,61.94,Glioblastoma,G4,M,Dead,,./dataset/his_features/UPENN-GBM-00460.npy
+794,1641,UPENN-GBM-00499,648.0,75.08,Glioblastoma,G4,M,Dead,,./dataset/his_features/UPENN-GBM-00499.npy
+795,1647,UPENN-GBM-00505,590.0,69.17,Glioblastoma,G4,M,Dead,,./dataset/his_features/UPENN-GBM-00505.npy
+796,1670,UPENN-GBM-00528,598.0,43.53,Glioblastoma,G4,M,Dead,,./dataset/his_features/UPENN-GBM-00528.npy

@@ -1,0 +1,64 @@
+{
+
+"preprocess_run": 0,
+"pretrain": 0,
+"train": 1,
+"inf":1,
+"shap":1,
+"hp": {
+    "MAX_SEQ_LENGTH":52,
+    "NUM_FEATURES":2048,
+    "NUM_FRAMES":2500,
+    "FRAME_SIZE":512,
+    "CLINICAL_DIM":2,
+    "batch_size": 32, 
+    "IMG_SIZE": 128, 
+    "nb_classes": 5, 
+    "lr": 1e-4, 
+    "lr_his":1e-4,
+    "lr_mri":5e-6,
+    "epochs": 150
+},
+
+"dataset": {
+    "train_split": 0.8,
+    "shuffle": true
+},
+"preprocess": {
+    "override":0,
+    "visualization":0,
+    "d2n": 0,
+    "filter_ops":0,
+    "denoising": 1,
+    "bias_field_correction": 1,
+    "bet_run":1,
+    "rrr":1,
+    "resample": 1,
+    "resample_size": 3.0,
+    "out_shape": [128,128,52],
+    "bet":{
+        "disable_tta" : 0,
+        "device" : "cuda",
+        "verbose" : 1,
+        "save_bet_mask" : 1,
+        "no_bet_image" : 0
+    }
+    
+},
+"paths": {
+    "dataset": "./dataset/raw",
+    "dataset_cvt": "./dataset/converted/",
+    "mri_features": "./dataset/mri_features/",
+    "his_features": "./dataset/his_features/",
+    "ready": "./dataset/ready/",
+    "model_save_path": "/path/to/save/model"
+},
+"bet_conf": {
+    "disable_tta":0,
+    "device":     "cuda",
+    "verbose":1,
+    "save_bet_mask":1,
+    "no_bet_image": 0
+    
+    }
+  }

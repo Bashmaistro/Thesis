@@ -1,0 +1,1144 @@
+C3N-01199,1.0,49.9,Oligodendroglioma,G2,male,Dead,
+TCGA-CS-4938,9999.0,31.0,Astrocytoma,G2,female,Alive,"Radiation Therapy, NOS"
+TCGA-CS-4944,9999.0,50.0,Astrocytoma,G2,male,Alive,"Radiation, External Beam"
+TCGA-CS-5390,9999.0,47.0,Oligodendroglioma,G2,female,Dead,"Radiation, External Beam"
+TCGA-CS-6667,9999.0,39.0,Astrocytoma,G2,female,Alive,Steroid Therapy
+TCGA-CS-6668,9999.0,57.0,Oligodendroglioma,G2,female,Alive,Steroid Therapy
+TCGA-CS-6669,9999.0,26.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS"
+TCGA-CS-6670,9999.0,43.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-DB-5278,9999.0,17.0,Oligodendroglioma,G2,male,Alive,"Surgery, NOS"
+TCGA-DB-A64L,9999.0,67.0,Oligodendroglioma,G2,female,Alive,Antiseizure Treatment
+TCGA-DB-A64R,9999.0,24.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS"
+TCGA-DB-A64V,9999.0,54.0,Oligodendroglioma,G2,male,Alive,Antiseizure Treatment
+TCGA-DB-A75M,9999.0,47.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-DB-A75P,9999.0,25.0,Astrocytoma,G2,female,Alive,"Radiation Therapy, NOS"
+TCGA-DH-5141,9999.0,32.0,Oligodendroglioma,G2,male,Alive,"Surgery, NOS"
+TCGA-DH-A669,919.0,70.0,Oligodendroglioma,G2,male,Dead,"Surgery, NOS"
+TCGA-DH-A66F,9999.0,49.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-DH-A7US,9999.0,50.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-DU-5849,9999.0,48.0,Oligodendroglioma,G2,male,Alive,Chemotherapy
+TCGA-DU-5870,9999.0,34.0,Oligodendroglioma,G2,female,Alive,Chemotherapy
+TCGA-DU-5874,9999.0,62.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS"
+TCGA-DU-6399,2000.0,54.0,Oligodendroglioma,G2,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-DU-6400,37.0,66.0,Oligodendroglioma,G2,female,Dead,"Radiation Therapy, NOS"
+TCGA-DU-6401,2660.0,31.0,Oligodendroglioma,G2,female,Dead,Antiseizure Treatment
+TCGA-DU-6404,4068.0,24.0,Oligodendroglioma,G2,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-DU-6407,2875.0,35.0,Oligodendroglioma,G2,female,Dead,"Radiation Therapy, NOS"
+TCGA-DU-7007,1915.0,33.0,Astrocytoma,G2,male,Dead,"Radiation Therapy, NOS"
+TCGA-DU-7008,9999.0,41.0,Oligodendroglioma,G2,female,Alive,Steroid Therapy
+TCGA-DU-7009,4695.0,32.0,Oligodendroglioma,G2,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-DU-7015,9999.0,41.0,Oligodendroglioma,G2,female,Alive,Chemotherapy
+TCGA-DU-7294,9999.0,53.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS"
+TCGA-DU-8164,9999.0,51.0,Oligodendroglioma,G2,male,Alive,Chemotherapy
+TCGA-DU-A5TS,9999.0,42.0,Oligodendroglioma,G2,male,Alive,Antiseizure Treatment
+TCGA-DU-A6S2,9999.0,37.0,Oligodendroglioma,G2,female,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-DU-A6S3,9999.0,60.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-DU-A76K,347.0,86.0,Oligodendroglioma,G2,male,Dead,Chemotherapy
+TCGA-DU-A76L,814.0,54.0,Oligodendroglioma,G2,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-DU-A76O,9999.0,30.0,Astrocytoma,G2,male,Alive,Chemotherapy
+TCGA-DU-A76R,648.0,51.0,Oligodendroglioma,G2,male,Dead,"Radiation Therapy, NOS"
+TCGA-DU-A7TA,9999.0,32.0,Oligodendroglioma,G2,male,Alive,Antiseizure Treatment
+TCGA-DU-A7TG,1351.0,40.0,Oligodendroglioma,G2,male,Dead,Antiseizure Treatment
+TCGA-E1-5311,4084.0,31.0,Oligodendroglioma,G2,male,Dead,"Radiation Therapy, NOS"
+TCGA-E1-5318,2379.0,42.0,Oligodendroglioma,G2,female,Dead,Chemotherapy
+TCGA-E1-5319,2907.0,48.0,Oligodendroglioma,G2,female,Dead,"Surgery, NOS"
+TCGA-E1-A7Z2,398.0,58.0,Oligodendroglioma,G2,female,Dead,Chemotherapy
+TCGA-E1-A7Z6,984.0,41.0,Astrocytoma,G2,female,Dead,"Radiation, External Beam"
+TCGA-EZ-7264,9999.0,47.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS"
+TCGA-F6-A8O3,9999.0,34.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-F6-A8O4,9999.0,44.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-FG-5964,9999.0,62.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-FG-6689,9999.0,30.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-FG-6690,9999.0,70.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-FG-7634,9999.0,28.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-FG-7641,9999.0,31.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-FG-8182,9999.0,35.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-FG-8189,9999.0,33.0,Oligodendroglioma,G2,female,Alive,Steroid Therapy
+TCGA-FG-A4MT,9999.0,27.0,Oligodendroglioma,G2,female,Alive,Steroid Therapy
+TCGA-FG-A4MX,9999.0,47.0,Astrocytoma,G2,male,Alive,Antiseizure Treatment
+TCGA-FG-A60L,9999.0,34.0,Astrocytoma,G2,female,Alive,Antiseizure Treatment
+TCGA-FG-A6IZ,9999.0,60.0,Oligodendroglioma,G2,male,Alive,Antiseizure Treatment
+TCGA-FG-A6J1,9999.0,44.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS"
+TCGA-FG-A710,9999.0,50.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS"
+TCGA-HT-7467,9999.0,54.0,Oligodendroglioma,G2,male,Alive,Antiseizure Treatment
+TCGA-HT-7472,9999.0,38.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-HT-7476,9999.0,26.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-HT-7478,9999.0,36.0,Astrocytoma,G2,male,Alive,"Radiation, External Beam"
+TCGA-HT-7480,9999.0,33.0,Oligodendroglioma,G2,male,Alive,Chemotherapy
+TCGA-HT-7481,9999.0,39.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-HT-7485,9999.0,42.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-HT-7602,9999.0,21.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-HT-7603,9999.0,29.0,Oligodendroglioma,G2,male,Alive,"Radiation, External Beam"
+TCGA-HT-7604,9999.0,50.0,Astrocytoma,G2,male,Alive,Antiseizure Treatment
+TCGA-HT-7605,9999.0,38.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-HT-7606,9999.0,30.0,Astrocytoma,G2,female,Alive,Chemotherapy
+TCGA-HT-7607,96.0,61.0,Astrocytoma,G2,female,Dead,"Radiation Therapy, NOS"
+TCGA-HT-7676,9999.0,26.0,Oligodendroglioma,G2,male,Alive,Antiseizure Treatment
+TCGA-HT-7680,9999.0,32.0,Astrocytoma,G2,female,Alive,Antiseizure Treatment
+TCGA-HT-7689,9999.0,58.0,Oligodendroglioma,G2,female,Alive,"Radiation, External Beam"
+TCGA-HT-7691,9999.0,31.0,Astrocytoma,G2,female,Alive,Antiseizure Treatment
+TCGA-HT-7693,9999.0,51.0,Oligodendroglioma,G2,female,Alive,Chemotherapy
+TCGA-HT-7695,9999.0,29.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS"
+TCGA-HT-7854,9999.0,62.0,Astrocytoma,G2,male,Alive,Steroid Therapy
+TCGA-HT-7858,9999.0,28.0,Astrocytoma,G2,male,Alive,"Radiation, External Beam"
+TCGA-HT-7875,9999.0,56.0,Oligodendroglioma,G2,male,Alive,Steroid Therapy
+TCGA-HT-7877,9999.0,20.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS"
+TCGA-HT-7881,9999.0,38.0,Oligodendroglioma,G2,male,Alive,"Radiation, External Beam"
+TCGA-HT-7884,9999.0,44.0,Astrocytoma,G2,female,Alive,"Radiation, External Beam"
+TCGA-HT-8010,9999.0,64.0,Oligodendroglioma,G2,female,Alive,Steroid Therapy
+TCGA-HT-8012,9999.0,30.0,Oligodendroglioma,G2,female,Alive,"Surgery, NOS"
+TCGA-HT-8015,9999.0,21.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-HT-8107,9999.0,62.0,Oligodendroglioma,G2,male,Alive,Steroid Therapy
+TCGA-HT-8108,9999.0,26.0,Oligodendroglioma,G2,female,Alive,Antiseizure Treatment
+TCGA-HT-8113,9999.0,49.0,Oligodendroglioma,G2,female,Alive,Chemotherapy
+TCGA-HT-8558,9999.0,29.0,Oligodendroglioma,G2,female,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-HT-A5R5,9999.0,33.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS"
+TCGA-HT-A5RB,9999.0,24.0,Astrocytoma,G2,male,Alive,Antiseizure Treatment
+TCGA-HT-A615,9999.0,38.0,Oligodendroglioma,G2,female,Alive,Steroid Therapy
+TCGA-HT-A616,9999.0,36.0,Astrocytoma,G2,female,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-HT-A617,9999.0,47.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-HT-A619,9999.0,51.0,Oligodendroglioma,G2,female,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-HT-A61A,9999.0,20.0,Oligodendroglioma,G2,female,Alive,"Radiation, External Beam"
+TCGA-HW-7486,9999.0,37.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-HW-7491,9999.0,35.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-HW-7493,9999.0,40.0,Astrocytoma,G2,female,Alive,"Radiation, External Beam"
+TCGA-HW-7495,9999.0,45.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS"
+TCGA-HW-8322,9999.0,39.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-HW-A5KL,9999.0,42.0,Astrocytoma,G2,female,Alive,Chemotherapy
+TCGA-HW-A5KM,9999.0,35.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-IK-7675,578.0,43.0,Oligodendroglioma,G2,male,Dead,Steroid Therapy
+TCGA-P5-A5ET,9999.0,27.0,Oligodendroglioma,G2,male,Alive,Steroid Therapy
+TCGA-P5-A5EV,9999.0,39.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-P5-A5EW,9999.0,20.0,Astrocytoma,G2,female,Alive,"Radiation Therapy, NOS"
+TCGA-P5-A5EY,9999.0,21.0,Astrocytoma,G2,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-P5-A5F0,9999.0,33.0,Oligodendroglioma,G2,male,Alive,Chemotherapy
+TCGA-P5-A5F1,9999.0,30.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-P5-A5F2,9999.0,36.0,Astrocytoma,G2,female,Alive,Chemotherapy
+TCGA-P5-A5F6,9999.0,26.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-P5-A733,9999.0,52.0,Astrocytoma,G2,female,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-P5-A735,9999.0,38.0,Astrocytoma,G2,female,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-P5-A737,9999.0,47.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-QH-A65V,9999.0,43.0,Oligodendroglioma,G2,female,Alive,Chemotherapy
+TCGA-QH-A65Z,9999.0,54.0,Oligodendroglioma,G2,male,Alive,"Radiation, External Beam"
+TCGA-QH-A6X9,9999.0,73.0,Oligodendroglioma,G2,female,Alive,Steroid Therapy
+TCGA-QH-A86X,9999.0,33.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-R8-A6MK,9999.0,40.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-R8-A6MO,9999.0,53.0,Oligodendroglioma,G2,female,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-R8-A73M,9999.0,48.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS"
+TCGA-RY-A83X,9999.0,46.0,Oligodendroglioma,G2,female,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-RY-A83Y,9999.0,45.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-RY-A847,9999.0,45.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-S9-A6TW,9999.0,40.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-S9-A6TY,9999.0,50.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-S9-A6TZ,9999.0,39.0,Astrocytoma,G2,female,Alive,Antiseizure Treatment
+TCGA-S9-A6U2,9999.0,48.0,Oligodendroglioma,G2,female,Alive,"Radiation, External Beam"
+TCGA-S9-A6U5,9999.0,33.0,Astrocytoma,G2,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-S9-A6UB,9999.0,52.0,Oligodendroglioma,G2,male,Alive,Steroid Therapy
+TCGA-S9-A6WE,9999.0,34.0,Oligodendroglioma,G2,male,Alive,Steroid Therapy
+TCGA-S9-A6WO,9999.0,29.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-S9-A7J1,9999.0,43.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-S9-A7QZ,9999.0,41.0,Oligodendroglioma,G2,male,Alive,"Surgery, NOS"
+TCGA-S9-A7R1,5166.0,35.0,Oligodendroglioma,G2,male,Dead,Antiseizure Treatment
+TCGA-S9-A7R3,9999.0,28.0,Astrocytoma,G2,female,Alive,"Radiation Therapy, NOS"
+TCGA-TM-A7C4,9999.0,39.0,Astrocytoma,G2,female,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-TM-A7CA,9999.0,44.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-TM-A84C,492.0,32.0,Astrocytoma,G2,male,Dead,"Radiation Therapy, NOS"
+TCGA-TM-A84R,9999.0,46.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-TQ-A7RI,9999.0,37.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS"
+TCGA-TQ-A7RK,9999.0,29.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-TQ-A7RN,9999.0,32.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-TQ-A7RQ,9999.0,38.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS"
+TCGA-TQ-A7RS,9999.0,25.0,Oligodendroglioma,G2,female,Alive,Steroid Therapy
+TCGA-TQ-A7RU,9999.0,51.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-TQ-A8XE,954.0,42.0,Oligodendroglioma,G2,female,Dead,"Radiation Therapy, NOS"
+TCGA-VM-A8C8,9999.0,50.0,Oligodendroglioma,G2,female,Alive,Antiseizure Treatment
+TCGA-VM-A8C9,9999.0,37.0,Astrocytoma,G2,female,Alive,Antiseizure Treatment
+TCGA-VM-A8CA,9999.0,54.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS"
+TCGA-VM-A8CE,9999.0,25.0,Oligodendroglioma,G2,male,Alive,"Radiation, External Beam"
+TCGA-VM-A8CH,9999.0,24.0,Astrocytoma,G2,female,Alive,"Radiation Therapy, NOS"
+TCGA-W9-A837,9999.0,47.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-WH-A86K,9999.0,65.0,Astrocytoma,G2,male,Alive,Chemotherapy
+TCGA-WY-A859,9999.0,34.0,Astrocytoma,G2,female,Alive,Antiseizure Treatment
+TCGA-WY-A85A,9999.0,20.0,Astrocytoma,G2,male,Alive,Steroid Therapy
+TCGA-WY-A85B,9999.0,24.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS"
+C383391,519.0,65.0,Astrocytoma,G3,male,Dead,
+C3N-03788,9999.0,70.47,Oligodendroglioma,G3,female,Alive,
+TCGA-CS-4941,234.0,67.0,Astrocytoma,G3,male,Dead,"Surgery, NOS"
+TCGA-CS-4942,1335.0,44.0,Astrocytoma,G3,female,Dead,"Radiation, Radioisotope"
+TCGA-CS-4943,1106.0,37.0,Astrocytoma,G3,male,Dead,Chemotherapy
+TCGA-CS-5393,9999.0,39.0,Astrocytoma,G3,male,Alive,Chemotherapy
+TCGA-CS-5394,9999.0,40.0,Astrocytoma,G3,male,Alive,"Radiation Therapy, NOS"
+TCGA-CS-5396,9999.0,53.0,Oligodendroglioma,G3,female,Alive,"Radiation Therapy, NOS"
+TCGA-CS-5397,194.0,54.0,Astrocytoma,G3,female,Dead,Steroid Therapy
+TCGA-CS-6290,1137.0,31.0,Astrocytoma,G3,male,Dead,Antiseizure Treatment
+TCGA-CS-6665,9999.0,51.0,Astrocytoma,G3,female,Alive,"Radiation, External Beam"
+TCGA-CS-6666,9999.0,22.0,Astrocytoma,G3,male,Alive,Antiseizure Treatment
+TCGA-DB-5273,9999.0,33.0,Astrocytoma,G3,male,Alive,"Radiation, External Beam"
+TCGA-DB-A4XB,9999.0,38.0,Astrocytoma,G3,male,Alive,"Radiation, External Beam"
+TCGA-DB-A4XD,9999.0,32.0,Astrocytoma,G3,male,Alive,"Radiation Therapy, NOS"
+TCGA-DB-A4XF,9999.0,41.0,Astrocytoma,G3,female,Alive,Chemotherapy
+TCGA-DB-A4XG,9999.0,34.0,Oligodendroglioma,G3,male,Alive,"Radiation Therapy, NOS"
+TCGA-DB-A64P,9999.0,40.0,Oligodendroglioma,G3,male,Alive,"Radiation Therapy, NOS"
+TCGA-DB-A64X,9999.0,56.0,Astrocytoma,G3,female,Alive,"Radiation Therapy, NOS"
+TCGA-DB-A75L,9999.0,36.0,Astrocytoma,G3,female,Alive,"Radiation, External Beam"
+TCGA-DB-A75O,9999.0,29.0,Astrocytoma,G3,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-DH-5142,9999.0,29.0,Astrocytoma,G3,male,Alive,Antiseizure Treatment
+TCGA-DH-5144,9999.0,56.0,Oligodendroglioma,G3,female,Alive,Antiseizure Treatment
+TCGA-DH-A66B,9999.0,52.0,Astrocytoma,G3,male,Alive,Steroid Therapy
+TCGA-DH-A66D,9999.0,43.0,Astrocytoma,G3,female,Alive,Chemotherapy
+TCGA-DH-A66G,9999.0,49.0,Oligodendroglioma,G3,female,Alive,Chemotherapy
+TCGA-DH-A7UR,9999.0,59.0,Oligodendroglioma,G3,female,Alive,Chemotherapy
+TCGA-DH-A7UU,9999.0,43.0,Astrocytoma,G3,male,Alive,"Radiation Therapy, NOS"
+TCGA-DH-A7UV,9999.0,49.0,Astrocytoma,G3,male,Alive,"Radiation Therapy, NOS"
+TCGA-DU-5847,9999.0,34.0,Astrocytoma,G3,female,Alive,Targeted Molecular Therapy
+TCGA-DU-6392,9999.0,35.0,Astrocytoma,G3,female,Alive,"Radiation, Stereotactic/Gamma Knife/SRS"
+TCGA-DU-6393,1585.0,66.0,Oligodendroglioma,G3,male,Dead,"Radiation Therapy, NOS"
+TCGA-DU-6397,1401.0,45.0,Oligodendroglioma,G3,male,Dead,"Radiation Therapy, NOS"
+TCGA-DU-6405,605.0,51.0,Astrocytoma,G3,female,Dead,Chemotherapy
+TCGA-DU-6408,3470.0,23.0,Oligodendroglioma,G3,female,Dead,"Radiation, External Beam"
+TCGA-DU-6410,9999.0,56.0,Oligodendroglioma,G3,male,Alive,Chemotherapy
+TCGA-DU-7006,349.0,60.0,Astrocytoma,G3,female,Dead,Chemotherapy
+TCGA-DU-7010,456.0,58.0,Astrocytoma,G3,female,Dead,"Surgery, NOS"
+TCGA-DU-7012,199.0,74.0,Astrocytoma,G3,female,Dead,"Radiation Therapy, NOS"
+TCGA-DU-7013,269.0,59.0,Astrocytoma,G3,male,Dead,"Radiation, External Beam"
+TCGA-DU-7018,933.0,57.0,Oligodendroglioma,G3,female,Dead,Chemotherapy
+TCGA-DU-7290,315.0,45.0,Astrocytoma,G3,female,Dead,"Radiation Therapy, NOS"
+TCGA-DU-7298,576.0,38.0,Astrocytoma,G3,female,Dead,"Radiation Therapy, NOS"
+TCGA-DU-7299,1339.0,33.0,Astrocytoma,G3,male,Dead,"Radiation, External Beam"
+TCGA-DU-7309,9999.0,41.0,Oligodendroglioma,G3,female,Alive,Chemotherapy
+TCGA-DU-8158,155.0,57.0,Astrocytoma,G3,female,Dead,"Radiation Therapy, NOS"
+TCGA-DU-8165,9999.0,60.0,Oligodendroglioma,G3,female,Alive,Antiseizure Treatment
+TCGA-DU-8168,9999.0,55.0,Oligodendroglioma,G3,female,Alive,Chemotherapy
+TCGA-DU-A5TT,9999.0,70.0,Oligodendroglioma,G3,male,Alive,"Radiation, External Beam"
+TCGA-DU-A5TW,9999.0,33.0,Astrocytoma,G3,female,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-DU-A5TY,1033.0,46.0,Astrocytoma,G3,female,Dead,"Radiation Therapy, NOS"
+TCGA-DU-A6S7,9999.0,27.0,Astrocytoma,G3,female,Alive,Steroid Therapy
+TCGA-DU-A7T6,547.0,73.0,Oligodendroglioma,G3,female,Dead,Steroid Therapy
+TCGA-DU-A7TI,1183.0,32.0,Astrocytoma,G3,male,Dead,"Radiation Therapy, NOS"
+TCGA-DU-A7TJ,9999.0,55.0,Astrocytoma,G3,male,Alive,Steroid Therapy
+TCGA-E1-5302,1525.0,41.0,Astrocytoma,G3,male,Dead,Chemotherapy
+TCGA-E1-5303,2052.0,38.0,Astrocytoma,G3,male,Dead,"Radiation Therapy, NOS"
+TCGA-E1-5304,1251.0,42.0,Astrocytoma,G3,male,Dead,"Radiation Therapy, NOS"
+TCGA-E1-5305,2433.0,34.0,Astrocytoma,G3,male,Dead,Steroid Therapy
+TCGA-E1-5307,1762.0,62.0,Astrocytoma,G3,female,Dead,Chemotherapy
+TCGA-E1-A7YD,435.0,57.0,Astrocytoma,G3,male,Dead,Chemotherapy
+TCGA-E1-A7YH,2835.0,47.0,Astrocytoma,G3,female,Dead,Chemotherapy
+TCGA-E1-A7YK,378.0,52.0,Astrocytoma,G3,male,Dead,"Radiation Therapy, NOS"
+TCGA-E1-A7YS,466.0,71.0,Oligodendroglioma,G3,male,Dead,"Radiation, External Beam"
+TCGA-FG-5962,9999.0,54.0,Oligodendroglioma,G3,male,Alive,Antiseizure Treatment
+TCGA-FG-5963,775.0,23.0,Astrocytoma,G3,male,Dead,"Radiation Therapy, NOS"
+TCGA-FG-6691,9999.0,23.0,Astrocytoma,G3,female,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-FG-6692,561.0,63.0,Oligodendroglioma,G3,male,Dead,Chemotherapy
+TCGA-FG-7636,9999.0,48.0,Astrocytoma,G3,male,Alive,Steroid Therapy
+TCGA-FG-7638,9999.0,31.0,Oligodendroglioma,G3,female,Alive,Chemotherapy
+TCGA-FG-8185,9999.0,37.0,Astrocytoma,G3,male,Alive,Chemotherapy
+TCGA-FG-8191,9999.0,30.0,Oligodendroglioma,G3,male,Alive,Chemotherapy
+TCGA-FG-A6J3,9999.0,52.0,Astrocytoma,G3,female,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-FG-A87N,9999.0,37.0,Astrocytoma,G3,female,Alive,Chemotherapy
+TCGA-FG-A87Q,9999.0,61.0,Astrocytoma,G3,female,Alive,"Radiation Therapy, NOS"
+TCGA-HT-7468,9999.0,30.0,Oligodendroglioma,G3,male,Alive,Chemotherapy
+TCGA-HT-7469,351.0,30.0,Oligodendroglioma,G3,male,Dead,Chemotherapy
+TCGA-HT-7470,1220.0,37.0,Oligodendroglioma,G3,male,Dead,Chemotherapy
+TCGA-HT-7471,9999.0,37.0,Oligodendroglioma,G3,female,Alive,Antiseizure Treatment
+TCGA-HT-7477,9999.0,62.0,Astrocytoma,G3,male,Alive,Chemotherapy
+TCGA-HT-7479,9999.0,44.0,Astrocytoma,G3,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-HT-7601,9999.0,30.0,Astrocytoma,G3,female,Alive,Chemotherapy
+TCGA-HT-7616,7.0,75.0,Oligodendroglioma,G3,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-HT-7620,9999.0,40.0,Oligodendroglioma,G3,male,Alive,Chemotherapy
+TCGA-HT-7677,9999.0,53.0,Oligodendroglioma,G3,male,Alive,"Radiation Therapy, NOS"
+TCGA-HT-7686,9999.0,29.0,Astrocytoma,G3,female,Alive,"Radiation Therapy, NOS"
+TCGA-HT-7687,9999.0,74.0,Oligodendroglioma,G3,male,Alive,"Radiation Therapy, NOS"
+TCGA-HT-7688,9999.0,59.0,Oligodendroglioma,G3,male,Alive,Chemotherapy
+TCGA-HT-7694,9999.0,60.0,Oligodendroglioma,G3,male,Alive,"Radiation Therapy, NOS"
+TCGA-HT-7855,9999.0,39.0,Astrocytoma,G3,male,Alive,Chemotherapy
+TCGA-HT-7856,9999.0,35.0,Oligodendroglioma,G3,male,Alive,Antiseizure Treatment
+TCGA-HT-7857,9999.0,24.0,Astrocytoma,G3,female,Alive,Antiseizure Treatment
+TCGA-HT-7860,9999.0,60.0,Astrocytoma,G3,female,Alive,Steroid Therapy
+TCGA-HT-7874,9999.0,41.0,Oligodendroglioma,G3,female,Alive,Chemotherapy
+TCGA-HT-7882,113.0,66.0,Oligodendroglioma,G3,male,Dead,"Radiation Therapy, NOS"
+TCGA-HT-8011,9999.0,55.0,Astrocytoma,G3,male,Alive,Steroid Therapy
+TCGA-HT-8019,9999.0,34.0,Oligodendroglioma,G3,female,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-HT-8104,9999.0,51.0,Astrocytoma,G3,female,Alive,"Radiation, External Beam"
+TCGA-HT-8105,9999.0,54.0,Oligodendroglioma,G3,male,Alive,"Radiation, External Beam"
+TCGA-HT-8106,9999.0,53.0,Astrocytoma,G3,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-HT-8109,9999.0,64.0,Oligodendroglioma,G3,male,Alive,Steroid Therapy
+TCGA-HT-8110,9999.0,57.0,Astrocytoma,G3,male,Alive,"Radiation, External Beam"
+TCGA-HT-8563,9999.0,30.0,Astrocytoma,G3,female,Alive,"Radiation Therapy, NOS"
+TCGA-HT-8564,9999.0,47.0,Astrocytoma,G3,male,Alive,"Radiation, External Beam"
+TCGA-HT-A4DS,9999.0,55.0,Astrocytoma,G3,female,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-HT-A4DV,9999.0,51.0,Oligodendroglioma,G3,female,Alive,Steroid Therapy
+TCGA-HT-A5R7,9999.0,33.0,Astrocytoma,G3,female,Alive,Antiseizure Treatment
+TCGA-HT-A5R9,9999.0,48.0,Oligodendroglioma,G3,female,Alive,Antiseizure Treatment
+TCGA-HT-A5RA,9999.0,65.0,Astrocytoma,G3,female,Alive,Antiseizure Treatment
+TCGA-HT-A5RC,162.0,70.0,Astrocytoma,G3,female,Dead,Steroid Therapy
+TCGA-HT-A618,9999.0,37.0,Astrocytoma,G3,female,Alive,"Radiation Therapy, NOS"
+TCGA-HT-A61B,9999.0,22.0,Astrocytoma,G3,male,Alive,Antiseizure Treatment
+TCGA-HT-A61C,537.0,66.0,Oligodendroglioma,G3,male,Dead,Steroid Therapy
+TCGA-HT-A74H,9999.0,62.0,Astrocytoma,G3,male,Alive,Antiseizure Treatment
+TCGA-HT-A74K,9999.0,58.0,Oligodendroglioma,G3,female,Alive,"Radiation, External Beam"
+TCGA-HT-A74O,9999.0,34.0,Astrocytoma,G3,male,Alive,Antiseizure Treatment
+TCGA-HW-8320,9999.0,36.0,Astrocytoma,G3,male,Alive,Chemotherapy
+TCGA-HW-8321,9999.0,31.0,Astrocytoma,G3,male,Alive,Chemotherapy
+TCGA-HW-A5KJ,962.0,68.0,Oligodendroglioma,G3,male,Dead,"Radiation, External Beam"
+TCGA-HW-A5KK,388.0,64.0,Astrocytoma,G3,male,Dead,"Radiation, External Beam"
+TCGA-KT-A7W1,9999.0,45.0,Astrocytoma,G3,female,Alive,Antiseizure Treatment
+TCGA-P5-A5EU,9999.0,35.0,Astrocytoma,G3,male,Alive,Antiseizure Treatment
+TCGA-P5-A5EX,9999.0,41.0,Oligodendroglioma,G3,female,Alive,"Radiation Therapy, NOS"
+TCGA-P5-A5EZ,9999.0,39.0,Astrocytoma,G3,male,Alive,"Radiation Therapy, NOS"
+TCGA-P5-A5F4,9999.0,35.0,Oligodendroglioma,G3,female,Alive,"Radiation, External Beam"
+TCGA-P5-A72U,9999.0,71.0,Oligodendroglioma,G3,female,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-P5-A72W,9999.0,35.0,Astrocytoma,G3,male,Alive,"Radiation, External Beam"
+TCGA-P5-A72X,9999.0,21.0,Astrocytoma,G3,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-P5-A72Z,9999.0,64.0,Oligodendroglioma,G3,female,Alive,Chemotherapy
+TCGA-P5-A736,9999.0,44.0,Astrocytoma,G3,female,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-P5-A780,9999.0,44.0,Astrocytoma,G3,female,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-P5-A781,9999.0,34.0,Astrocytoma,G3,female,Alive,"Radiation, External Beam"
+TCGA-QH-A65R,9999.0,38.0,Oligodendroglioma,G3,female,Alive,Steroid Therapy
+TCGA-QH-A6CU,9999.0,52.0,Oligodendroglioma,G3,female,Alive,"Radiation, External Beam"
+TCGA-QH-A6X8,9999.0,56.0,Oligodendroglioma,G3,female,Alive,"Radiation Therapy, NOS"
+TCGA-QH-A6XC,9999.0,48.0,Astrocytoma,G3,male,Alive,"Radiation, External Beam"
+TCGA-R8-A6ML,9999.0,52.0,Oligodendroglioma,G3,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-RY-A83Z,9999.0,54.0,Astrocytoma,G3,female,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-RY-A840,9999.0,47.0,Oligodendroglioma,G3,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-RY-A843,9999.0,30.0,Astrocytoma,G3,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-S9-A6TS,1891.0,48.0,Astrocytoma,G3,female,Dead,"Radiation Therapy, NOS"
+TCGA-S9-A6TU,9999.0,38.0,Astrocytoma,G3,male,Alive,"Surgery, NOS"
+TCGA-S9-A6TX,9999.0,46.0,Oligodendroglioma,G3,male,Alive,Antiseizure Treatment
+TCGA-S9-A6U0,742.0,46.0,Astrocytoma,G3,male,Dead,Chemotherapy
+TCGA-S9-A6U1,9999.0,22.0,Astrocytoma,G3,female,Alive,Steroid Therapy
+TCGA-S9-A6U6,9999.0,28.0,Astrocytoma,G3,male,Alive,Antiseizure Treatment
+TCGA-S9-A6U9,9999.0,36.0,Astrocytoma,G3,male,Alive,"Radiation, External Beam"
+TCGA-S9-A6WD,9999.0,58.0,Oligodendroglioma,G3,male,Alive,Chemotherapy
+TCGA-S9-A6WG,9999.0,31.0,Astrocytoma,G3,male,Alive,Antiseizure Treatment
+TCGA-S9-A6WL,9999.0,52.0,Astrocytoma,G3,male,Alive,Antiseizure Treatment
+TCGA-S9-A7IS,241.0,33.0,Astrocytoma,G3,female,Dead,Steroid Therapy
+TCGA-S9-A7IZ,9999.0,48.0,Astrocytoma,G3,female,Alive,Chemotherapy
+TCGA-S9-A7J0,9999.0,30.0,Oligodendroglioma,G3,female,Alive,Targeted Molecular Therapy
+TCGA-S9-A7J2,9999.0,25.0,Oligodendroglioma,G3,male,Alive,"Radiation Therapy, NOS"
+TCGA-S9-A7J3,9999.0,52.0,Oligodendroglioma,G3,female,Alive,Chemotherapy
+TCGA-S9-A7QX,9999.0,36.0,Astrocytoma,G3,female,Alive,"Radiation, External Beam"
+TCGA-S9-A7R2,316.0,69.0,Astrocytoma,G3,male,Dead,Antiseizure Treatment
+TCGA-S9-A7R4,9999.0,46.0,Astrocytoma,G3,male,Alive,"Radiation Therapy, NOS"
+TCGA-S9-A7R7,9999.0,27.0,Astrocytoma,G3,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-S9-A7R8,961.0,44.0,Astrocytoma,G3,female,Dead,Antiseizure Treatment
+TCGA-S9-A89V,9999.0,70.0,Astrocytoma,G3,male,Alive,Antiseizure Treatment
+TCGA-S9-A89Z,9999.0,40.0,Astrocytoma,G3,male,Alive,Chemotherapy
+TCGA-TM-A7C3,1666.0,43.0,Astrocytoma,G3,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-TM-A7CF,9999.0,41.0,Astrocytoma,G3,female,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-TM-A84B,758.0,40.0,Astrocytoma,G3,male,Dead,Chemotherapy
+TCGA-TM-A84F,9999.0,48.0,Astrocytoma,G3,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-TM-A84G,9999.0,54.0,Oligodendroglioma,G3,female,Alive,Steroid Therapy
+TCGA-TM-A84I,9999.0,30.0,Astrocytoma,G3,male,Alive,Antiseizure Treatment
+TCGA-TM-A84J,9999.0,63.0,Oligodendroglioma,G3,male,Alive,"Radiation, External Beam"
+TCGA-TM-A84M,9999.0,40.0,Oligodendroglioma,G3,male,Alive,Antiseizure Treatment
+TCGA-TM-A84O,1011.0,61.0,Oligodendroglioma,G3,female,Dead,Steroid Therapy
+TCGA-TM-A84Q,9999.0,31.0,Astrocytoma,G3,male,Alive,"Radiation Therapy, NOS"
+TCGA-TM-A84S,9999.0,36.0,Oligodendroglioma,G3,male,Alive,"Radiation Therapy, NOS"
+TCGA-TQ-A7RF,9999.0,27.0,Oligodendroglioma,G3,female,Alive,"Radiation Therapy, NOS"
+TCGA-VM-A8CB,9999.0,33.0,Oligodendroglioma,G3,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-VM-A8CD,240.0,58.0,Astrocytoma,G3,male,Dead,"Radiation Therapy, NOS"
+TCGA-VM-A8CF,9999.0,44.0,Astrocytoma,G3,female,Alive,"Radiation Therapy, NOS"
+TCGA-VV-A86M,9999.0,36.0,Astrocytoma,G3,female,Alive,"Radiation, External Beam"
+TCGA-VW-A7QS,9999.0,35.0,Oligodendroglioma,G3,female,Alive,Antiseizure Treatment
+TCGA-VW-A8FI,245.0,66.0,Astrocytoma,G3,male,Dead,Antiseizure Treatment
+TCGA-WY-A858,9999.0,32.0,Astrocytoma,G3,female,Alive,Antiseizure Treatment
+TCGA-WY-A85C,9999.0,36.0,Astrocytoma,G3,male,Alive,"Pharmaceutical Therapy, NOS"
+C317832,648.0,75.0,Glioblastoma,G4,male,Dead,
+C330255,990.0,81.0,Glioblastoma,G4,female,Dead,
+C3L-00104,129.0,58.07,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3L-00365,322.0,59.33,Glioblastoma,G4,female,Dead,Targeted Molecular Therapy
+C3L-00674,478.0,45.66,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3L-00677,155.0,70.03,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+C3L-01040,9999.0,77.77,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS"
+C3L-01043,79.0,59.04,Glioblastoma,G4,male,Dead,
+C3L-01045,66.0,73.54,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+C3L-01046,349.0,50.95,Glioblastoma,G4,male,Dead,
+C3L-01048,9999.0,60.57,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS"
+C3L-01049,191.0,46.68,Glioblastoma,G4,male,Dead,Chemotherapy
+C3L-01061,9999.0,66.29,Glioblastoma,G4,male,Alive,Chemotherapy
+C3L-01142,9999.0,42.42,Glioblastoma,G4,female,Alive,
+C3L-01146,509.0,59.08,Glioblastoma,G4,male,Dead,Targeted Molecular Therapy
+C3L-01149,9999.0,48.56,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS"
+C3L-01154,496.0,52.03,Glioblastoma,G4,female,Dead,Hormone Therapy
+C3L-01155,9999.0,67.02,Glioblastoma,G4,male,Alive,
+C3L-01156,291.0,57.53,Glioblastoma,G4,male,Dead,Hormone Therapy
+C3L-01157,984.0,66.77,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+C3L-01232,9999.0,51.61,Glioblastoma,G4,female,Alive,Chemotherapy
+C3L-01327,646.0,74.41,Glioblastoma,G4,male,Dead,
+C3L-01834,497.0,68.07,Glioblastoma,G4,female,Dead,Chemotherapy
+C3L-01887,1703.0,49.01,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3L-02041,9999.0,51.79,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS"
+C3L-02465,591.0,50.59,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3L-02504,873.0,71.99,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3L-02542,180.0,59.02,Glioblastoma,G4,female,Dead,Immunotherapy (Including Vaccines)
+C3L-02642,828.0,77.35,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3L-02644,457.0,58.18,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+C3L-02662,9999.0,65.59,Glioblastoma,G4,male,Alive,Chemotherapy
+C3L-02704,9999.0,54.46,Glioblastoma,G4,male,Alive,
+C3L-02705,111.0,60.34,Glioblastoma,G4,male,Dead,
+C3L-02707,9999.0,58.22,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS"
+C3L-02708,738.0,43.88,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3L-02900,1053.0,52.96,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3L-02955,378.0,76.32,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+C3L-02970,381.0,58.97,Glioblastoma,G4,male,Dead,Chemotherapy
+C3L-02984,9999.0,34.11,Glioblastoma,G4,male,Alive,Chemotherapy
+C3L-03260,43.0,75.05,Glioblastoma,G4,female,Dead,
+C3L-03266,281.0,61.87,Glioblastoma,G4,female,Dead,Chemotherapy
+C3L-03372,9999.0,31.59,Glioblastoma,G4,male,Alive,Chemotherapy
+C3L-03385,188.0,72.34,Glioblastoma,G4,female,Dead,Hormone Therapy
+C3L-03387,403.0,70.79,Glioblastoma,G4,male,Dead,Chemotherapy
+C3L-03390,9999.0,44.2,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS"
+C3L-03392,147.0,50.71,Glioblastoma,G4,female,Dead,Chemotherapy
+C3L-03400,9999.0,38.43,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS"
+C3L-03405,87.0,59.22,Glioblastoma,G4,male,Dead,Hormone Therapy
+C3L-03407,238.0,57.38,Glioblastoma,G4,female,Dead,Chemotherapy
+C3L-03681,7.0,62.87,Glioblastoma,G4,female,Dead,
+C3L-03727,721.0,71.5,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+C3L-03728,127.0,80.35,Glioblastoma,G4,female,Dead,
+C3L-03733,48.0,66.07,Glioblastoma,G4,male,Dead,Chemotherapy
+C3L-03735,1323.0,74.17,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3L-03740,86.0,77.8,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3L-03744,9999.0,75.48,Glioblastoma,G4,male,Alive,Immunotherapy (Including Vaccines)
+C3L-03748,401.0,65.03,Glioblastoma,G4,female,Dead,Chemotherapy
+C3L-03968,9999.0,60.93,Glioblastoma,G4,female,Alive,Chemotherapy
+C3L-04036,9999.0,81.25,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS"
+C3L-04038,402.0,81.13,Glioblastoma,G4,female,Dead,Chemotherapy
+C3L-04081,287.0,63.62,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3L-04082,121.0,69.16,Glioblastoma,G4,female,Dead,Chemotherapy
+C3L-04083,9999.0,60.03,Glioblastoma,G4,female,Alive,Chemotherapy
+C3L-04084,274.0,63.75,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+C3L-04085,267.0,79.37,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3L-04090,423.0,71.57,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+C3L-04213,9999.0,37.45,Glioblastoma,G4,female,Alive,Chemotherapy
+C3L-04339,797.0,63.45,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3L-04359,9999.0,40.63,Glioblastoma,G4,male,Alive,Chemotherapy
+C3L-04362,685.0,69.03,Glioblastoma,G4,female,Dead,Chemotherapy
+C3L-04392,9999.0,80.86,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS"
+C3L-04537,456.0,51.4,Glioblastoma,G4,male,Dead,Chemotherapy
+C3L-04539,409.0,75.85,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3L-04731,9999.0,65.13,Glioblastoma,G4,male,Alive,Chemotherapy
+C3L-04795,9999.0,36.99,Glioblastoma,G4,male,Alive,Chemotherapy
+C3L-05239,9999.0,39.35,Glioblastoma,G4,male,Alive,
+C3L-05481,9999.0,53.42,Glioblastoma,G4,female,Alive,
+C3L-06625,9999.0,70.44,Glioblastoma,G4,female,Alive,
+C3L-07202,1100.0,75.52,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3L-07213,9999.0,28.09,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS"
+C3L-07611,348.0,41.93,Glioblastoma,G4,female,Dead,Chemotherapy
+C3N-00661,9999.0,49.42,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS"
+C3N-00662,116.0,77.82,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+C3N-00663,1.0,39.64,Glioblastoma,G4,male,Dead,
+C3N-00665,9999.0,65.9,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS"
+C3N-01192,1209.0,60.16,Glioblastoma,G4,female,Dead,Chemotherapy
+C3N-01196,653.0,67.25,Glioblastoma,G4,male,Dead,Chemotherapy
+C3N-01197,63.0,60.38,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+C3N-01334,7.0,64.58,Glioblastoma,G4,female,Dead,
+C3N-01364,9999.0,34.2,Glioblastoma,G4,female,Alive,Chemotherapy
+C3N-01365,2361.8093385214006,57.32,Glioblastoma,G4,male,Dead,
+C3N-01366,6.0,63.35,Glioblastoma,G4,male,Dead,
+C3N-01367,349.0,74.97,Glioblastoma,G4,male,Dead,
+C3N-01368,245.0,66.07,Glioblastoma,G4,male,Dead,
+C3N-01369,606.0,57.58,Glioblastoma,G4,female,Dead,
+C3N-01505,192.0,74.33,Glioblastoma,G4,male,Dead,Chemotherapy
+C3N-01515,19.0,73.89,Glioblastoma,G4,female,Dead,
+C3N-01517,1105.0,49.89,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3N-01518,805.0,72.09,Glioblastoma,G4,female,Dead,
+C3N-01798,590.0,44.37,Glioblastoma,G4,male,Dead,Chemotherapy
+C3N-01814,9999.0,48.8,Glioblastoma,G4,female,Alive,
+C3N-01815,121.0,71.16,Glioblastoma,G4,female,Dead,
+C3N-01816,841.0,53.79,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+C3N-01818,270.0,60.7,Glioblastoma,G4,male,Dead,
+C3N-01849,24.0,62.29,Glioblastoma,G4,male,Dead,
+C3N-01851,363.0,47.97,Glioblastoma,G4,male,Dead,Chemotherapy
+C3N-01852,9999.0,59.92,Glioblastoma,G4,male,Alive,
+C3N-01856,382.0,66.42,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3N-01857,651.0,69.65,Glioblastoma,G4,female,Dead,Chemotherapy
+C3N-02181,9999.0,53.14,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS"
+C3N-02183,340.0,63.69,Glioblastoma,G4,female,Dead,
+C3N-02185,9999.0,61.95,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS"
+C3N-02186,9999.0,53.5,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS"
+C3N-02188,411.0,59.48,Glioblastoma,G4,male,Dead,Chemotherapy
+C3N-02190,311.0,53.52,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3N-02255,265.0,88.99,Glioblastoma,G4,male,Dead,
+C3N-02256,263.0,65.1,Glioblastoma,G4,male,Dead,Chemotherapy
+C3N-02259,181.0,84.75,Glioblastoma,G4,female,Dead,
+C3N-02286,9999.0,70.08,Glioblastoma,G4,male,Alive,
+C3N-02599,407.0,65.33,Glioblastoma,G4,male,Dead,
+C3N-02681,1009.0,65.7,Glioblastoma,G4,female,Dead,
+C3N-02682,109.0,58.44,Glioblastoma,G4,male,Dead,
+C3N-02683,102.0,73.28,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3N-02769,1115.0,53.98,Glioblastoma,G4,male,Dead,Chemotherapy
+C3N-02770,779.0,70.56,Glioblastoma,G4,male,Dead,Chemotherapy
+C3N-02782,9999.0,47.96,Glioblastoma,G4,female,Alive,Chemotherapy
+C3N-02783,9999.0,24.35,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS"
+C3N-02784,391.0,37.18,Glioblastoma,G4,male,Dead,Chemotherapy
+C3N-02785,546.0,69.32,Glioblastoma,G4,male,Dead,Chemotherapy
+C3N-02786,9999.0,39.98,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS"
+C3N-02788,845.0,64.75,Glioblastoma,G4,male,Dead,Chemotherapy
+C3N-03001,534.0,80.08,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+C3N-03003,9999.0,40.15,Glioblastoma,G4,male,Alive,Chemotherapy
+C3N-03025,110.0,78.26,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3N-03070,9999.0,66.06,Glioblastoma,G4,female,Alive,
+C3N-03088,142.0,31.75,Glioblastoma,G4,female,Dead,Chemotherapy
+C3N-03180,511.0,53.15,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3N-03182,763.0,47.84,Glioblastoma,G4,male,Dead,Chemotherapy
+C3N-03183,315.0,53.74,Glioblastoma,G4,male,Dead,Chemotherapy
+C3N-03184,9999.0,35.14,Glioblastoma,G4,male,Alive,Targeted Molecular Therapy
+C3N-03186,646.0,54.82,Glioblastoma,G4,female,Dead,Chemotherapy
+C3N-03188,1022.0,54.4,Glioblastoma,G4,male,Dead,Chemotherapy
+C3N-03448,205.0,68.89,Glioblastoma,G4,female,Dead,Chemotherapy
+C3N-03449,179.0,59.62,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3N-03452,59.0,77.39,Glioblastoma,G4,male,Dead,
+C3N-03453,302.0,53.96,Glioblastoma,G4,female,Dead,
+C3N-03473,297.0,30.28,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+C3N-03480,289.0,59.07,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3N-03484,9999.0,75.53,Glioblastoma,G4,female,Alive,Chemotherapy
+C3N-03755,453.0,68.95,Glioblastoma,G4,male,Dead,Chemotherapy
+C3N-03756,290.0,67.02,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3N-03757,5.0,72.76,Glioblastoma,G4,male,Dead,
+C3N-03789,310.0,80.48,Glioblastoma,G4,male,Dead,Chemotherapy
+C3N-03791,75.0,63.98,Glioblastoma,G4,female,Dead,
+C3N-03792,87.0,38.48,Glioblastoma,G4,male,Dead,
+C3N-03796,9999.0,55.96,Glioblastoma,G4,male,Alive,Chemotherapy
+C3N-03797,231.0,71.55,Glioblastoma,G4,male,Dead,
+C3N-03800,799.0,35.52,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3N-03802,9999.0,65.79,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS"
+C3N-03810,24.0,78.77,Glioblastoma,G4,male,Dead,
+C3N-03935,571.0,29.85,Glioblastoma,G4,female,Dead,Targeted Molecular Therapy
+C3N-03939,770.0,48.86,Glioblastoma,G4,female,Dead,Chemotherapy
+C3N-04092,9999.0,62.52,Glioblastoma,G4,male,Alive,Chemotherapy
+C3N-04094,639.0,39.76,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3N-04097,9999.0,71.39,Glioblastoma,G4,male,Alive,Chemotherapy
+C3N-04098,440.0,63.23,Glioblastoma,G4,female,Dead,Targeted Molecular Therapy
+C3N-04100,9999.0,44.75,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS"
+C3N-04113,402.0,31.06,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3N-04312,441.0,51.88,Glioblastoma,G4,female,Dead,Chemotherapy
+C3N-04683,439.0,60.43,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3N-04686,385.0,58.36,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3N-04687,9999.0,62.51,Glioblastoma,G4,male,Alive,
+C3N-04691,257.0,61.46,Glioblastoma,G4,male,Dead,
+C3N-04693,330.0,54.56,Glioblastoma,G4,female,Dead,
+C3N-04695,199.0,68.01,Glioblastoma,G4,male,Dead,
+C3N-05039,312.0,74.05,Glioblastoma,G4,male,Dead,
+C3N-05114,482.0,66.53,Glioblastoma,G4,female,Dead,Chemotherapy
+C3N-05135,323.0,32.19,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+C3N-05991,460.0,28.7,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-02-0001,358.0,44.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-02-0003,144.0,50.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-02-0004,345.0,59.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-02-0006,558.0,56.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-02-0007,705.0,40.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-02-0009,322.0,61.0,Glioblastoma,G4,female,Dead,"Surgery, NOS"
+TCGA-02-0010,1077.0,20.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-02-0011,630.0,18.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-02-0014,2512.0,25.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-02-0015,627.0,50.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-02-0016,2648.0,50.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-02-0021,2362.0,43.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-02-0023,612.0,38.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-02-0024,1615.0,35.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-02-0025,1300.0,47.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-02-0026,748.0,27.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-02-0027,370.0,33.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-02-0028,2755.0,39.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-02-0033,86.0,54.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-02-0034,430.0,60.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-02-0037,110.0,74.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-02-0038,326.0,48.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam"
+TCGA-02-0039,320.0,54.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-02-0043,557.0,54.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-02-0046,209.0,61.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-02-0047,448.0,78.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-02-0048,98.0,80.0,Glioblastoma,G4,male,Dead,
+TCGA-02-0051,459.0,43.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-02-0052,383.0,49.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-02-0054,199.0,44.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-02-0055,76.0,62.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-02-0057,604.0,66.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-02-0058,254.0,28.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-02-0059,291.0,68.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-02-0060,183.0,66.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-02-0064,600.0,50.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-02-0068,804.0,57.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-02-0069,9999.0,31.0,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS"
+TCGA-02-0070,9999.0,70.0,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS"
+TCGA-02-0071,167.0,53.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-02-0074,310.0,68.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-02-0075,634.0,63.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-02-0079,829.0,57.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-02-0080,2729.0,28.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-02-0083,691.0,59.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-02-0084,384.0,36.0,Glioblastoma,G4,female,Dead,
+TCGA-02-0085,1561.0,63.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-02-0086,268.0,45.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-02-0087,9999.0,27.0,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS"
+TCGA-02-0089,516.0,52.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-02-0099,106.0,46.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-02-0102,822.0,42.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-02-0104,1977.0,29.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-02-0106,355.0,54.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-02-0107,537.0,56.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-02-0111,705.0,56.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-02-0113,9999.0,43.0,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS"
+TCGA-02-0114,3041.0,37.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-02-0115,476.0,52.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-02-0116,1489.0,51.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-02-0250,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,
+TCGA-02-0258,503.0,36.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-02-0260,515.0,54.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-02-0266,539.0,14.0,Glioblastoma,G4,male,Dead,"Surgery, NOS"
+TCGA-02-0269,327.0,68.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-02-0271,440.0,26.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-02-0281,121.0,78.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-02-0285,422.0,50.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-02-0289,432.0,57.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-02-0290,485.0,49.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-02-0317,372.0,40.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-02-0321,301.0,74.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-02-0324,235.0,69.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-02-0325,323.0,61.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-02-0326,223.0,82.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-02-0329,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,
+TCGA-02-0330,484.0,51.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-02-0332,782.0,46.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-02-0333,133.0,77.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-02-0336,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,
+TCGA-02-0337,764.0,48.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-02-0338,322.0,41.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-02-0339,377.0,67.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-02-0422,441.0,50.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-02-0430,321.0,67.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-02-0432,1433.0,36.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-02-0439,20.0,70.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-02-0440,345.0,62.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-02-0446,282.0,61.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-02-0451,493.0,62.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-02-0456,102.0,67.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-02-2466,511.0,61.0,Glioblastoma,G4,male,Dead,"Surgery, NOS"
+TCGA-02-2470,393.0,57.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-02-2483,9999.0,43.0,Glioblastoma,G4,male,Alive,Chemotherapy
+TCGA-02-2485,9999.0,53.0,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS"
+TCGA-02-2486,618.0,64.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-06-0119,82.0,81.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-06-0121,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,
+TCGA-06-0122,187.0,84.0,Glioblastoma,G4,female,Dead,
+TCGA-06-0124,620.0,67.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0125,1448.0,63.0,Glioblastoma,G4,female,Dead,"Brachytherapy, NOS"
+TCGA-06-0126,211.0,86.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0127,121.0,67.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0128,691.0,66.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-06-0129,1024.0,30.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0130,394.0,54.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-06-0131,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0132,771.0,49.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0133,435.0,64.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-06-0137,812.0,63.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-06-0138,737.0,43.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0139,362.0,40.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0140,6.0,86.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0141,313.0,62.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0142,67.0,81.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0143,357.0,58.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0145,71.0,53.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-06-0146,611.0,33.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0147,541.0,51.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0148,307.0,76.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0149,262.0,74.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0150,592.0,45.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-06-0151,1417.0,32.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-06-0152,375.0,68.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0154,424.0,54.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-06-0155,318.0,61.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0156,178.0,57.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-06-0157,97.0,63.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0158,329.0,73.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0159,287.0,74.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-06-0160,359.0,56.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-06-0162,104.0,47.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam"
+TCGA-06-0164,1731.0,47.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0165,324.0,52.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-06-0166,178.0,51.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0167,347.0,44.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-06-0168,598.0,59.0,Glioblastoma,G4,female,Dead,"Radiation, Stereotactic/Gamma Knife/SRS"
+TCGA-06-0169,100.0,68.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0171,399.0,65.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-06-0173,136.0,72.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-06-0174,98.0,54.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0175,123.0,69.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-06-0176,9999.0,34.0,Glioblastoma,G4,male,Alive,Chemotherapy
+TCGA-06-0177,127.0,64.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0178,2681.0,38.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0179,616.0,64.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0182,111.0,76.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0184,2126.0,63.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-06-0185,9999.0,54.0,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS"
+TCGA-06-0187,828.0,69.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0188,1356.0,71.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0189,469.0,55.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0190,317.0,62.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0192,1185.0,58.0,Glioblastoma,G4,male,Dead,Targeted Molecular Therapy
+TCGA-06-0194,142.0,37.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0195,225.0,63.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0197,169.0,65.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-06-0201,12.0,51.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-06-0206,233.0,40.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0208,256.0,52.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-06-0209,232.0,76.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0210,225.0,72.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam"
+TCGA-06-0211,360.0,47.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0213,16.0,55.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0214,457.0,66.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0216,735.0,61.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-06-0219,22.0,67.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0221,603.0,31.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0237,415.0,75.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-06-0238,405.0,46.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0240,621.0,57.0,Glioblastoma,G4,male,Dead,Targeted Molecular Therapy
+TCGA-06-0241,1481.0,65.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-06-0394,329.0,51.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-06-0397,274.0,57.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-06-0402,8.0,71.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0409,2201.0,43.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0410,143.0,76.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0412,291.0,56.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-06-0413,96.0,77.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0414,1068.0,63.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-06-0644,384.0,71.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0645,175.0,55.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-06-0646,175.0,60.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0648,298.0,77.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0649,64.0,73.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0650,717.0,39.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0673,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,
+TCGA-06-0675,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,
+TCGA-06-0676,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,
+TCGA-06-0678,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,
+TCGA-06-0680,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,
+TCGA-06-0681,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,
+TCGA-06-0686,432.0,53.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0743,803.0,69.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-06-0744,1426.0,66.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0745,239.0,59.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0747,82.0,53.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0749,82.0,50.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-0750,28.0,43.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0875,9999.0,61.0,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS"
+TCGA-06-0876,9999.0,72.0,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS"
+TCGA-06-0877,2361.8093385214006,78.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-06-0878,9999.0,74.0,Glioblastoma,G4,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-06-0879,1229.0,52.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0881,504.0,50.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-0882,632.0,30.0,Glioblastoma,G4,male,Dead,Targeted Molecular Therapy
+TCGA-06-0939,814.0,79.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-06-1084,728.0,54.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-1086,208.0,42.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-06-1087,123.0,75.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-1800,815.0,61.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-06-1801,360.0,56.0,Glioblastoma,G4,female,Dead,Targeted Molecular Therapy
+TCGA-06-1802,466.0,61.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-1804,414.0,81.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-1805,9999.0,28.0,Glioblastoma,G4,female,Alive,Chemotherapy
+TCGA-06-1806,466.0,47.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-06-2557,33.0,76.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-2558,380.0,75.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam"
+TCGA-06-2559,150.0,83.0,Glioblastoma,G4,male,Dead,"Radiation, Intensity-Modulated Radiotherapy"
+TCGA-06-2561,537.0,53.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-06-2562,382.0,81.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-2563,9999.0,72.0,Glioblastoma,G4,female,Alive,"Radiation, Stereotactic/Gamma Knife/SRS"
+TCGA-06-2564,9999.0,50.0,Glioblastoma,G4,male,Alive,Chemotherapy
+TCGA-06-2565,506.0,59.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-06-2566,182.0,23.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-06-2567,133.0,65.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-06-2569,9999.0,24.0,Glioblastoma,G4,female,Alive,
+TCGA-06-2570,9999.0,21.0,Glioblastoma,G4,female,Alive,"Radiation, External Beam"
+TCGA-06-5408,357.0,54.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-06-5410,108.0,72.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-06-5411,254.0,51.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-5412,138.0,78.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-06-5413,9999.0,67.0,Glioblastoma,G4,male,Alive,Chemotherapy
+TCGA-06-5414,9999.0,61.0,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS"
+TCGA-06-5415,9999.0,60.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam"
+TCGA-06-5416,9999.0,23.0,Glioblastoma,G4,female,Alive,Chemotherapy
+TCGA-06-5417,9999.0,45.0,Glioblastoma,G4,female,Alive,"Radiation, External Beam"
+TCGA-06-5418,83.0,75.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-06-5856,114.0,58.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-5858,9999.0,45.0,Glioblastoma,G4,female,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-06-5859,9999.0,63.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam"
+TCGA-06-6388,159.0,64.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-6389,9999.0,49.0,Glioblastoma,G4,female,Alive,Chemotherapy
+TCGA-06-6390,164.0,58.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-06-6391,45.0,44.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-6693,3667.0,64.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-6694,224.0,76.0,Glioblastoma,G4,female,Dead,
+TCGA-06-6695,9999.0,64.0,Glioblastoma,G4,male,Alive,Chemotherapy
+TCGA-06-6697,9999.0,65.0,Glioblastoma,G4,male,Alive,Chemotherapy
+TCGA-06-6698,9999.0,53.0,Glioblastoma,G4,female,Alive,Chemotherapy
+TCGA-06-6699,9999.0,58.0,Glioblastoma,G4,female,Alive,Chemotherapy
+TCGA-06-6700,9999.0,76.0,Glioblastoma,G4,male,Alive,Targeted Molecular Therapy
+TCGA-06-6701,9999.0,60.0,Glioblastoma,G4,male,Alive,Chemotherapy
+TCGA-06-A5U0,9999.0,21.0,Glioblastoma,G4,female,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-06-A5U1,57.0,78.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-A6S0,95.0,79.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-A6S1,78.0,53.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-06-A7TK,444.0,64.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-06-A7TL,9999.0,30.0,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS"
+TCGA-06-AABW,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,
+TCGA-08-0244,690.0,62.0,Glioblastoma,G4,male,Dead,"Surgery, NOS"
+TCGA-08-0245,1151.0,31.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-08-0246,127.0,57.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam"
+TCGA-08-0344,3524.0,66.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-08-0345,53.0,71.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-08-0346,256.0,69.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-08-0347,782.0,50.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-08-0348,370.0,63.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-08-0349,298.0,46.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-08-0350,889.0,32.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-08-0351,1987.0,40.0,Glioblastoma,G4,male,Dead,Targeted Molecular Therapy
+TCGA-08-0352,39.0,79.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-08-0353,256.0,58.0,Glioblastoma,G4,male,Dead,"Radiation, Cyberknife"
+TCGA-08-0354,546.0,52.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-08-0355,747.0,30.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-08-0356,946.0,59.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam"
+TCGA-08-0357,1143.0,49.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-08-0358,678.0,50.0,Glioblastoma,G4,male,Dead,Targeted Molecular Therapy
+TCGA-08-0359,103.0,59.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-08-0360,468.0,76.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-08-0373,134.0,69.0,Glioblastoma,G4,male,Dead,
+TCGA-08-0375,372.0,51.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-08-0380,454.0,74.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-08-0385,82.0,71.0,Glioblastoma,G4,male,Dead,
+TCGA-08-0386,548.0,74.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-08-0389,467.0,59.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-08-0390,425.0,69.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-08-0392,22.0,60.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-08-0509,382.0,63.0,Glioblastoma,G4,male,Dead,
+TCGA-08-0510,130.0,75.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-08-0511,235.0,69.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-08-0512,1282.0,48.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-08-0514,337.0,69.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-08-0516,596.0,14.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-08-0517,1785.0,34.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-08-0518,588.0,60.0,Glioblastoma,G4,female,Dead,
+TCGA-08-0520,327.0,70.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-08-0521,146.0,17.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-08-0522,635.0,61.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-08-0524,221.0,17.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam"
+TCGA-08-0525,486.0,52.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-08-0529,560.0,56.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-08-0531,230.0,64.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-08-0623,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,
+TCGA-08-0625,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,
+TCGA-08-0626,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,
+TCGA-08-0627,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,
+TCGA-12-0615,467.0,78.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-12-0616,448.0,36.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-12-0618,395.0,49.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-12-0619,1062.0,60.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-12-0620,318.0,57.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-12-0653,320.0,65.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-12-0654,231.0,48.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-12-0656,2883.0,48.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam"
+TCGA-12-0657,3.0,69.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-12-0662,1161.0,51.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-12-0670,790.0,60.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-12-0688,811.0,74.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-12-0691,369.0,63.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-12-0692,111.0,75.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-12-0703,620.0,46.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-12-0707,864.0,55.0,Glioblastoma,G4,male,Dead,
+TCGA-12-0769,458.0,52.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-12-0772,1638.0,46.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-12-0773,1315.0,24.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-12-0775,232.0,75.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-12-0776,296.0,52.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-12-0778,454.0,53.0,Glioblastoma,G4,male,Dead,Targeted Molecular Therapy
+TCGA-12-0780,452.0,51.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-12-0818,2791.0,45.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-12-0819,754.0,49.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-12-0820,562.0,40.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-12-0821,323.0,62.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-12-0822,715.0,46.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-12-0826,845.0,38.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-12-0827,1179.0,38.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-12-0828,272.0,57.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-12-0829,626.0,75.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-12-1088,3881.0,53.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-12-1089,177.0,64.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-12-1090,231.0,58.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-12-1091,1010.0,10.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-12-1092,661.0,58.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-12-1093,486.0,66.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-12-1094,372.0,56.0,Glioblastoma,G4,male,Dead,"Surgery, NOS"
+TCGA-12-1095,482.0,65.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-12-1096,277.0,55.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-12-1097,442.0,61.0,Glioblastoma,G4,male,Dead,Targeted Molecular Therapy
+TCGA-12-1098,121.0,75.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-12-1099,126.0,68.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-12-1597,675.0,62.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-12-1598,476.0,75.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-12-1599,781.0,47.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-12-1600,448.0,86.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-12-1601,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-12-1602,206.0,58.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-12-3644,1818.0,47.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-12-3646,1339.0,59.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-12-3648,819.0,61.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-12-3649,463.0,76.0,Glioblastoma,G4,male,Dead,Immunotherapy (Including Vaccines)
+TCGA-12-3650,333.0,46.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-12-3651,386.0,77.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-12-3652,1062.0,60.0,Glioblastoma,G4,male,Dead,Targeted Molecular Therapy
+TCGA-12-3653,442.0,34.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-12-5295,454.0,60.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-12-5299,98.0,56.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-12-5301,62.0,59.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-14-0736,460.0,49.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-14-0740,364.0,70.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-14-0781,29.0,49.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-14-0783,189.0,36.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-14-0786,701.0,50.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam"
+TCGA-14-0787,68.0,69.0,Glioblastoma,G4,male,Dead,Hormone Therapy
+TCGA-14-0789,342.0,54.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-14-0790,419.0,64.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-14-0812,99.0,65.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-14-0813,41.0,78.0,Glioblastoma,G4,male,Dead,Hormone Therapy
+TCGA-14-0817,164.0,69.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-14-0862,88.0,60.0,Glioblastoma,G4,male,Dead,Hormone Therapy
+TCGA-14-0865,502.0,67.0,Glioblastoma,G4,male,Dead,"Surgery, NOS"
+TCGA-14-0866,801.0,55.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-14-0867,62.0,67.0,Glioblastoma,G4,male,Dead,Hormone Therapy
+TCGA-14-0871,880.0,74.0,Glioblastoma,G4,female,Dead,Hormone Therapy
+TCGA-14-1034,485.0,60.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-14-1037,587.0,66.0,Glioblastoma,G4,female,Dead,Targeted Molecular Therapy
+TCGA-14-1043,24.0,61.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-14-1395,42.0,52.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-14-1396,34.0,78.0,Glioblastoma,G4,female,Dead,Hormone Therapy
+TCGA-14-1401,114.0,54.0,Glioblastoma,G4,male,Dead,Hormone Therapy
+TCGA-14-1402,975.0,58.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-14-1450,9999.0,57.0,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS"
+TCGA-14-1451,703.0,39.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-14-1452,216.0,60.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-14-1453,35.0,69.0,Glioblastoma,G4,male,Dead,Hormone Therapy
+TCGA-14-1454,918.0,54.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-14-1455,28.0,61.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-14-1456,9999.0,23.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam"
+TCGA-14-1458,203.0,54.0,Glioblastoma,G4,male,Dead,Hormone Therapy
+TCGA-14-1459,378.0,63.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-14-1794,30.0,59.0,Glioblastoma,G4,male,Dead,Hormone Therapy
+TCGA-14-1795,60.0,66.0,Glioblastoma,G4,male,Dead,Hormone Therapy
+TCGA-14-1821,541.0,31.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-14-1823,543.0,58.0,Glioblastoma,G4,female,Dead,Targeted Molecular Therapy
+TCGA-14-1825,232.0,70.0,Glioblastoma,G4,male,Dead,Hormone Therapy
+TCGA-14-1827,179.0,51.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-14-1829,9999.0,57.0,Glioblastoma,G4,male,Alive,Chemotherapy
+TCGA-14-2554,532.0,52.0,Glioblastoma,G4,female,Dead,Hormone Therapy
+TCGA-14-2555,9999.0,44.0,Glioblastoma,G4,female,Alive,"Radiation, External Beam"
+TCGA-14-3476,12.0,74.0,Glioblastoma,G4,male,Dead,Hormone Therapy
+TCGA-14-3477,9999.0,38.0,Glioblastoma,G4,female,Alive,Targeted Molecular Therapy
+TCGA-14-4157,9999.0,40.0,Glioblastoma,G4,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-15-0742,419.0,65.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-15-1444,1537.0,21.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-15-1446,9999.0,55.0,Glioblastoma,G4,male,Alive,"Surgery, NOS"
+TCGA-15-1447,9999.0,36.0,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS"
+TCGA-15-1449,404.0,65.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-16-0846,119.0,85.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-16-0848,535.0,57.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-16-0849,9999.0,54.0,Glioblastoma,G4,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-16-0850,498.0,52.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam"
+TCGA-16-0861,2361.8093385214006,65.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-16-1045,883.0,49.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-16-1047,139.0,66.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-16-1048,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,
+TCGA-16-1055,313.0,48.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-16-1056,426.0,55.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-16-1060,278.0,70.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-16-1062,646.0,57.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-16-1063,425.0,72.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-16-1460,9999.0,36.0,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS"
+TCGA-19-0955,9999.0,71.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam"
+TCGA-19-0957,666.0,48.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-19-0960,9999.0,83.0,Glioblastoma,G4,female,Alive,"Radiation, External Beam"
+TCGA-19-0962,20.0,77.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-19-0963,434.0,61.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-19-0964,9999.0,70.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam"
+TCGA-19-1385,327.0,69.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-19-1386,276.0,51.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-19-1387,9999.0,81.0,Glioblastoma,G4,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-19-1388,394.0,58.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-19-1389,141.0,51.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-19-1390,772.0,63.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-19-1392,111.0,72.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-19-1786,9999.0,64.0,Glioblastoma,G4,female,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-19-1787,385.0,48.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-19-1788,112.0,39.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-19-1789,99.0,69.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam"
+TCGA-19-1790,154.0,56.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-19-1791,9999.0,82.0,Glioblastoma,G4,female,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-19-2619,9999.0,55.0,Glioblastoma,G4,female,Alive,Chemotherapy
+TCGA-19-2620,148.0,70.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-19-2621,33.0,83.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-19-2623,9999.0,65.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam"
+TCGA-19-2624,5.0,51.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-19-2625,124.0,76.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-19-2629,737.0,60.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-19-2631,213.0,74.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam"
+TCGA-19-4065,9999.0,36.0,Glioblastoma,G4,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-19-4068,9999.0,68.0,Glioblastoma,G4,female,Alive,Chemotherapy
+TCGA-19-5947,202.0,47.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam"
+TCGA-19-5950,523.0,52.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-19-5951,244.0,76.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-19-5952,575.0,62.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-19-5953,144.0,58.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-19-5954,368.0,72.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-19-5955,54.0,83.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-19-5956,684.0,53.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-19-5958,428.0,56.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-19-5959,511.0,77.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-19-5960,455.0,56.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-19-A60I,9999.0,39.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam"
+TCGA-19-A6J4,121.0,68.0,Glioblastoma,G4,male,Dead,"Surgery, NOS"
+TCGA-19-A6J5,9999.0,40.0,Glioblastoma,G4,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-26-1438,9999.0,36.0,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS"
+TCGA-26-1439,422.0,63.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-26-1440,9999.0,48.0,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS"
+TCGA-26-1442,9999.0,43.0,Glioblastoma,G4,male,Alive,Chemotherapy
+TCGA-26-1443,9999.0,60.0,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS"
+TCGA-26-1799,285.0,68.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-26-5132,9999.0,74.0,Glioblastoma,G4,male,Alive,Chemotherapy
+TCGA-26-5133,9999.0,59.0,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS"
+TCGA-26-5134,9999.0,74.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam"
+TCGA-26-5135,270.0,72.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-26-5136,577.0,78.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-26-5139,9999.0,65.0,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS"
+TCGA-26-6173,9999.0,57.0,Glioblastoma,G4,male,Alive,Chemotherapy
+TCGA-26-6174,9999.0,65.0,Glioblastoma,G4,female,Alive,"Radiation, External Beam"
+TCGA-26-A7UX,9999.0,47.0,Glioblastoma,G4,male,Alive,Chemotherapy
+TCGA-27-1830,154.0,57.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-27-1831,505.0,66.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-27-1832,300.0,59.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam"
+TCGA-27-1833,737.0,67.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-27-1834,1233.0,56.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-27-1835,648.0,53.0,Glioblastoma,G4,female,Dead,Hormone Therapy
+TCGA-27-1836,914.0,33.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam"
+TCGA-27-1837,427.0,36.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-27-1838,350.0,59.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-27-2518,753.0,52.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-27-2519,550.0,48.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-27-2521,510.0,34.0,Glioblastoma,G4,male,Dead,Hormone Therapy
+TCGA-27-2523,489.0,63.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-27-2524,231.0,56.0,Glioblastoma,G4,male,Dead,Hormone Therapy
+TCGA-27-2526,87.0,79.0,Glioblastoma,G4,female,Dead,Hormone Therapy
+TCGA-27-2527,438.0,81.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-27-2528,480.0,62.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-28-1745,9999.0,76.0,Glioblastoma,G4,male,Alive,"Radiation, Stereotactic/Gamma Knife/SRS"
+TCGA-28-1746,9999.0,77.0,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS"
+TCGA-28-1747,77.0,44.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-28-1749,9999.0,73.0,Glioblastoma,G4,male,Alive,Chemotherapy
+TCGA-28-1750,9999.0,40.0,Glioblastoma,G4,female,Alive,"Radiation, External Beam"
+TCGA-28-1751,9999.0,61.0,Glioblastoma,G4,female,Alive,Chemotherapy
+TCGA-28-1752,9999.0,42.0,Glioblastoma,G4,female,Alive,"Radiation, External Beam"
+TCGA-28-1753,9999.0,53.0,Glioblastoma,G4,male,Alive,"Radiation, Stereotactic/Gamma Knife/SRS"
+TCGA-28-1755,47.0,52.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam"
+TCGA-28-1756,9999.0,78.0,Glioblastoma,G4,male,Alive,"Radiation, Stereotactic/Gamma Knife/SRS"
+TCGA-28-1757,9999.0,71.0,Glioblastoma,G4,male,Alive,
+TCGA-28-1760,9999.0,48.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam"
+TCGA-28-2499,2361.8093385214006,59.0,Glioblastoma,G4,male,Dead,
+TCGA-28-2501,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,
+TCGA-28-2502,9999.0,65.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam"
+TCGA-28-2506,9999.0,63.0,Glioblastoma,G4,female,Alive,Chemotherapy
+TCGA-28-2509,9999.0,77.0,Glioblastoma,G4,female,Alive,"Radiation, External Beam"
+TCGA-28-2510,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,
+TCGA-28-2512,343.0,37.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-28-2513,9999.0,69.0,Glioblastoma,G4,female,Alive,"Radiation, Stereotactic/Gamma Knife/SRS"
+TCGA-28-2514,9999.0,45.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam"
+TCGA-28-5204,454.0,72.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-28-5207,343.0,71.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-28-5208,544.0,52.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-28-5209,9999.0,66.0,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS"
+TCGA-28-5211,9999.0,42.0,Glioblastoma,G4,male,Alive,Chemotherapy
+TCGA-28-5213,9999.0,72.0,Glioblastoma,G4,male,Alive,Chemotherapy
+TCGA-28-5214,713.0,53.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-28-5215,335.0,62.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-28-5216,9999.0,52.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam"
+TCGA-28-5218,157.0,63.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-28-5219,9999.0,47.0,Glioblastoma,G4,female,Alive,"Radiation, External Beam"
+TCGA-28-5220,388.0,67.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-28-6450,165.0,60.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-32-1970,468.0,59.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-32-1973,641.0,21.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-32-1976,15.0,65.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-32-1977,9999.0,63.0,Glioblastoma,G4,female,Alive,
+TCGA-32-1978,482.0,57.0,Glioblastoma,G4,male,Dead,
+TCGA-32-1979,593.0,69.0,Glioblastoma,G4,female,Dead,
+TCGA-32-1980,36.0,72.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-32-1982,142.0,76.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-32-1986,386.0,68.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-32-1987,452.0,49.0,Glioblastoma,G4,female,Dead,"Surgery, NOS"
+TCGA-32-1991,515.0,60.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-32-2491,372.0,63.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-32-2494,632.0,58.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-32-2495,457.0,59.0,Glioblastoma,G4,female,Dead,"Radiation, Stereotactic/Gamma Knife/SRS"
+TCGA-32-2498,2361.8093385214006,58.25011612903226,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-32-2615,485.0,62.0,Glioblastoma,G4,male,Dead,"Radiation, Stereotactic/Gamma Knife/SRS"
+TCGA-32-2616,224.0,48.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-32-2632,269.0,80.0,Glioblastoma,G4,male,Dead,
+TCGA-32-2634,9999.0,82.0,Glioblastoma,G4,male,Alive,Chemotherapy
+TCGA-32-2638,766.0,67.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-32-4208,9999.0,25.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam"
+TCGA-32-4209,618.0,40.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-32-4210,113.0,73.0,Glioblastoma,G4,male,Dead,
+TCGA-32-4211,383.0,56.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-32-4213,9999.0,47.0,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS"
+TCGA-32-4719,330.0,73.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-32-5222,585.0,66.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-41-2571,26.0,89.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-41-2572,406.0,67.0,Glioblastoma,G4,male,Dead,"Radiation, Cyberknife"
+TCGA-41-2573,9999.0,59.0,Glioblastoma,G4,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-41-2575,290.0,75.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-41-3392,30.0,88.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-41-3393,135.0,81.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-41-3915,360.0,48.0,Glioblastoma,G4,male,Dead,"Surgery, NOS"
+TCGA-41-4097,6.0,63.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-41-5651,460.0,59.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-41-6646,379.0,73.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-4W-AA9R,9999.0,61.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam"
+TCGA-4W-AA9S,9999.0,69.0,Glioblastoma,G4,male,Alive,Chemotherapy
+TCGA-4W-AA9T,9999.0,54.0,Glioblastoma,G4,female,Alive,Chemotherapy
+TCGA-74-6573,105.0,67.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-74-6575,9999.0,73.0,Glioblastoma,G4,female,Alive,Targeted Molecular Therapy
+TCGA-74-6577,9999.0,51.0,Glioblastoma,G4,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-74-6578,9999.0,58.0,Glioblastoma,G4,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-74-6581,9999.0,77.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam"
+TCGA-74-6584,9999.0,55.0,Glioblastoma,G4,female,Alive,Chemotherapy
+TCGA-76-4925,146.0,76.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-76-4926,138.0,68.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-76-4927,535.0,58.0,Glioblastoma,G4,male,Dead,
+TCGA-76-4928,94.0,85.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-76-4929,111.0,76.0,Glioblastoma,G4,female,Dead,
+TCGA-76-4931,279.0,70.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-76-4932,1458.0,50.0,Glioblastoma,G4,female,Dead,Chemotherapy
+TCGA-76-4934,77.0,66.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-76-4935,1121.0,52.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-76-6191,508.0,57.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-76-6192,100.0,74.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-76-6193,82.0,78.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-76-6280,346.0,57.0,Glioblastoma,G4,male,Dead,"Surgery, NOS"
+TCGA-76-6282,519.0,63.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-76-6283,165.0,71.0,Glioblastoma,G4,female,Dead,
+TCGA-76-6285,254.0,64.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-76-6286,638.0,60.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS"
+TCGA-76-6656,147.0,66.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-76-6657,153.0,74.0,Glioblastoma,G4,male,Dead,Chemotherapy
+TCGA-76-6660,114.0,73.0,Glioblastoma,G4,male,Dead,
+TCGA-76-6661,727.0,54.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam"
+TCGA-76-6662,1048.0,58.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-76-6663,567.0,44.0,Glioblastoma,G4,female,Dead,Immunotherapy (Including Vaccines)
+TCGA-76-6664,9999.0,49.0,Glioblastoma,G4,female,Alive,Chemotherapy
+TCGA-81-5910,49.0,64.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS"
+TCGA-81-5911,9999.0,33.0,Glioblastoma,G4,male,Alive,"Pharmaceutical Therapy, NOS"
+TCGA-87-5896,9999.0,50.0,Glioblastoma,G4,female,Alive,"Radiation, External Beam"
+TCGA-OX-A56R,180.0,68.0,Glioblastoma,G4,male,Dead,
+TCGA-RR-A6KA,191.0,72.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS"
+TCGA-RR-A6KB,9999.0,51.0,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS"
+TCGA-RR-A6KC,625.0,55.0,Glioblastoma,G4,male,Dead,
+id,death,age,gt,grade,sex,mortality,treatment
+TCGA-FG-A713,9999.0,74.0,"basal cell carcinoma, nos",G2,female,Alive,"Surgery, NOS"
+TCGA-HW-7490,9999.0,41.0,"papillary carcinoma, nos",G2,male,Alive,"Radiation Therapy, NOS"

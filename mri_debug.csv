@@ -1,0 +1,980 @@
+,Unnamed: 0,id,death,age,gt,grade,sex,mortality,treatment,filepath
+0,1,TCGA-CS-4938,9999.0,31.0,Astrocytoma,G2,female,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-CS-4938.npy
+1,2,TCGA-CS-4944,9999.0,50.0,Astrocytoma,G2,male,Alive,"Radiation, External Beam",./dataset/mri_features/TCGA-CS-4944.npy
+2,3,TCGA-CS-5390,9999.0,47.0,Oligodendroglioma,G2,female,Dead,"Radiation, External Beam",./dataset/mri_features/TCGA-CS-5390.npy
+3,4,TCGA-CS-6667,9999.0,39.0,Astrocytoma,G2,female,Alive,Steroid Therapy,./dataset/mri_features/TCGA-CS-6667.npy
+4,5,TCGA-CS-6668,9999.0,57.0,Oligodendroglioma,G2,female,Alive,Steroid Therapy,./dataset/mri_features/TCGA-CS-6668.npy
+5,6,TCGA-CS-6669,9999.0,26.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-CS-6669.npy
+6,7,TCGA-CS-6670,9999.0,43.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-CS-6670.npy
+7,18,TCGA-DU-5849,9999.0,48.0,Oligodendroglioma,G2,male,Alive,Chemotherapy,./dataset/mri_features/TCGA-DU-5849.npy
+8,20,TCGA-DU-5874,9999.0,62.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-DU-5874.npy
+9,21,TCGA-DU-6399,2000.0,54.0,Oligodendroglioma,G2,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-DU-6399.npy
+10,23,TCGA-DU-6401,2660.0,31.0,Oligodendroglioma,G2,female,Dead,Antiseizure Treatment,./dataset/mri_features/TCGA-DU-6401.npy
+11,24,TCGA-DU-6404,4068.0,24.0,Oligodendroglioma,G2,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-DU-6404.npy
+12,25,TCGA-DU-6407,2875.0,35.0,Oligodendroglioma,G2,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-DU-6407.npy
+13,29,TCGA-DU-7015,9999.0,41.0,Oligodendroglioma,G2,female,Alive,Chemotherapy,./dataset/mri_features/TCGA-DU-7015.npy
+14,30,TCGA-DU-7294,9999.0,53.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-DU-7294.npy
+15,31,TCGA-DU-8164,9999.0,51.0,Oligodendroglioma,G2,male,Alive,Chemotherapy,./dataset/mri_features/TCGA-DU-8164.npy
+16,32,TCGA-DU-A5TS,9999.0,42.0,Oligodendroglioma,G2,male,Alive,Antiseizure Treatment,./dataset/mri_features/TCGA-DU-A5TS.npy
+17,33,TCGA-DU-A6S2,9999.0,37.0,Oligodendroglioma,G2,female,Alive,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-DU-A6S2.npy
+18,34,TCGA-DU-A6S3,9999.0,60.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-DU-A6S3.npy
+19,49,TCGA-FG-5964,9999.0,62.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-FG-5964.npy
+20,50,TCGA-FG-6689,9999.0,30.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-FG-6689.npy
+21,51,TCGA-FG-6690,9999.0,70.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-FG-6690.npy
+22,52,TCGA-FG-7634,9999.0,28.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-FG-7634.npy
+23,53,TCGA-FG-7641,9999.0,31.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-FG-7641.npy
+24,55,TCGA-FG-8189,9999.0,33.0,Oligodendroglioma,G2,female,Alive,Steroid Therapy,./dataset/mri_features/TCGA-FG-8189.npy
+25,56,TCGA-FG-A4MT,9999.0,27.0,Oligodendroglioma,G2,female,Alive,Steroid Therapy,./dataset/mri_features/TCGA-FG-A4MT.npy
+26,59,TCGA-FG-A6IZ,9999.0,60.0,Oligodendroglioma,G2,male,Alive,Antiseizure Treatment,./dataset/mri_features/TCGA-FG-A6IZ.npy
+27,60,TCGA-FG-A6J1,9999.0,44.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-FG-A6J1.npy
+28,62,TCGA-HT-7467,9999.0,54.0,Oligodendroglioma,G2,male,Alive,Antiseizure Treatment,./dataset/mri_features/TCGA-HT-7467.npy
+29,63,TCGA-HT-7472,9999.0,38.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-HT-7472.npy
+30,64,TCGA-HT-7476,9999.0,26.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-HT-7476.npy
+31,65,TCGA-HT-7478,9999.0,36.0,Astrocytoma,G2,male,Alive,"Radiation, External Beam",./dataset/mri_features/TCGA-HT-7478.npy
+32,66,TCGA-HT-7480,9999.0,33.0,Oligodendroglioma,G2,male,Alive,Chemotherapy,./dataset/mri_features/TCGA-HT-7480.npy
+33,67,TCGA-HT-7481,9999.0,39.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-HT-7481.npy
+34,68,TCGA-HT-7485,9999.0,42.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-HT-7485.npy
+35,69,TCGA-HT-7602,9999.0,21.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-HT-7602.npy
+36,70,TCGA-HT-7603,9999.0,29.0,Oligodendroglioma,G2,male,Alive,"Radiation, External Beam",./dataset/mri_features/TCGA-HT-7603.npy
+37,71,TCGA-HT-7604,9999.0,50.0,Astrocytoma,G2,male,Alive,Antiseizure Treatment,./dataset/mri_features/TCGA-HT-7604.npy
+38,72,TCGA-HT-7605,9999.0,38.0,Oligodendroglioma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-HT-7605.npy
+39,73,TCGA-HT-7606,9999.0,30.0,Astrocytoma,G2,female,Alive,Chemotherapy,./dataset/mri_features/TCGA-HT-7606.npy
+40,75,TCGA-HT-7676,9999.0,26.0,Oligodendroglioma,G2,male,Alive,Antiseizure Treatment,./dataset/mri_features/TCGA-HT-7676.npy
+41,76,TCGA-HT-7680,9999.0,32.0,Astrocytoma,G2,female,Alive,Antiseizure Treatment,./dataset/mri_features/TCGA-HT-7680.npy
+42,77,TCGA-HT-7689,9999.0,58.0,Oligodendroglioma,G2,female,Alive,"Radiation, External Beam",./dataset/mri_features/TCGA-HT-7689.npy
+43,78,TCGA-HT-7691,9999.0,31.0,Astrocytoma,G2,female,Alive,Antiseizure Treatment,./dataset/mri_features/TCGA-HT-7691.npy
+44,79,TCGA-HT-7693,9999.0,51.0,Oligodendroglioma,G2,female,Alive,Chemotherapy,./dataset/mri_features/TCGA-HT-7693.npy
+45,80,TCGA-HT-7695,9999.0,29.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-HT-7695.npy
+46,81,TCGA-HT-7854,9999.0,62.0,Astrocytoma,G2,male,Alive,Steroid Therapy,./dataset/mri_features/TCGA-HT-7854.npy
+47,82,TCGA-HT-7858,9999.0,28.0,Astrocytoma,G2,male,Alive,"Radiation, External Beam",./dataset/mri_features/TCGA-HT-7858.npy
+48,83,TCGA-HT-7875,9999.0,56.0,Oligodendroglioma,G2,male,Alive,Steroid Therapy,./dataset/mri_features/TCGA-HT-7875.npy
+49,84,TCGA-HT-7877,9999.0,20.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-HT-7877.npy
+50,85,TCGA-HT-7881,9999.0,38.0,Oligodendroglioma,G2,male,Alive,"Radiation, External Beam",./dataset/mri_features/TCGA-HT-7881.npy
+51,86,TCGA-HT-7884,9999.0,44.0,Astrocytoma,G2,female,Alive,"Radiation, External Beam",./dataset/mri_features/TCGA-HT-7884.npy
+52,87,TCGA-HT-8010,9999.0,64.0,Oligodendroglioma,G2,female,Alive,Steroid Therapy,./dataset/mri_features/TCGA-HT-8010.npy
+53,88,TCGA-HT-8012,9999.0,30.0,Oligodendroglioma,G2,female,Alive,"Surgery, NOS",./dataset/mri_features/TCGA-HT-8012.npy
+54,89,TCGA-HT-8015,9999.0,21.0,Astrocytoma,G2,male,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-HT-8015.npy
+55,90,TCGA-HT-8107,9999.0,62.0,Oligodendroglioma,G2,male,Alive,Steroid Therapy,./dataset/mri_features/TCGA-HT-8107.npy
+56,91,TCGA-HT-8108,9999.0,26.0,Oligodendroglioma,G2,female,Alive,Antiseizure Treatment,./dataset/mri_features/TCGA-HT-8108.npy
+57,92,TCGA-HT-8113,9999.0,49.0,Oligodendroglioma,G2,female,Alive,Chemotherapy,./dataset/mri_features/TCGA-HT-8113.npy
+58,93,TCGA-HT-8558,9999.0,29.0,Oligodendroglioma,G2,female,Alive,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-HT-8558.npy
+59,94,TCGA-HT-A5R5,9999.0,33.0,Oligodendroglioma,G2,female,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-HT-A5R5.npy
+60,95,TCGA-HT-A5RB,9999.0,24.0,Astrocytoma,G2,male,Alive,Antiseizure Treatment,./dataset/mri_features/TCGA-HT-A5RB.npy
+61,96,TCGA-HT-A615,9999.0,38.0,Oligodendroglioma,G2,female,Alive,Steroid Therapy,./dataset/mri_features/TCGA-HT-A615.npy
+62,97,TCGA-HT-A616,9999.0,36.0,Astrocytoma,G2,female,Alive,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-HT-A616.npy
+63,98,TCGA-HT-A617,9999.0,47.0,Oligodendroglioma,G2,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-HT-A617.npy
+64,99,TCGA-HT-A619,9999.0,51.0,Oligodendroglioma,G2,female,Alive,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-HT-A619.npy
+65,100,TCGA-HT-A61A,9999.0,20.0,Oligodendroglioma,G2,female,Alive,"Radiation, External Beam",./dataset/mri_features/TCGA-HT-A61A.npy
+66,165,TCGA-CS-4941,234.0,67.0,Astrocytoma,G3,male,Dead,"Surgery, NOS",./dataset/mri_features/TCGA-CS-4941.npy
+67,166,TCGA-CS-4942,1335.0,44.0,Astrocytoma,G3,female,Dead,"Radiation, Radioisotope",./dataset/mri_features/TCGA-CS-4942.npy
+68,167,TCGA-CS-4943,1106.0,37.0,Astrocytoma,G3,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-CS-4943.npy
+69,168,TCGA-CS-5393,9999.0,39.0,Astrocytoma,G3,male,Alive,Chemotherapy,./dataset/mri_features/TCGA-CS-5393.npy
+70,169,TCGA-CS-5394,9999.0,40.0,Astrocytoma,G3,male,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-CS-5394.npy
+71,170,TCGA-CS-5396,9999.0,53.0,Oligodendroglioma,G3,female,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-CS-5396.npy
+72,171,TCGA-CS-5397,194.0,54.0,Astrocytoma,G3,female,Dead,Steroid Therapy,./dataset/mri_features/TCGA-CS-5397.npy
+73,172,TCGA-CS-6290,1137.0,31.0,Astrocytoma,G3,male,Dead,Antiseizure Treatment,./dataset/mri_features/TCGA-CS-6290.npy
+74,173,TCGA-CS-6665,9999.0,51.0,Astrocytoma,G3,female,Alive,"Radiation, External Beam",./dataset/mri_features/TCGA-CS-6665.npy
+75,174,TCGA-CS-6666,9999.0,22.0,Astrocytoma,G3,male,Alive,Antiseizure Treatment,./dataset/mri_features/TCGA-CS-6666.npy
+76,195,TCGA-DU-6397,1401.0,45.0,Oligodendroglioma,G3,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-DU-6397.npy
+77,196,TCGA-DU-6405,605.0,51.0,Astrocytoma,G3,female,Dead,Chemotherapy,./dataset/mri_features/TCGA-DU-6405.npy
+78,197,TCGA-DU-6408,3470.0,23.0,Oligodendroglioma,G3,female,Dead,"Radiation, External Beam",./dataset/mri_features/TCGA-DU-6408.npy
+79,198,TCGA-DU-6410,9999.0,56.0,Oligodendroglioma,G3,male,Alive,Chemotherapy,./dataset/mri_features/TCGA-DU-6410.npy
+80,200,TCGA-DU-7010,456.0,58.0,Astrocytoma,G3,female,Dead,"Surgery, NOS",./dataset/mri_features/TCGA-DU-7010.npy
+81,202,TCGA-DU-7013,269.0,59.0,Astrocytoma,G3,male,Dead,"Radiation, External Beam",./dataset/mri_features/TCGA-DU-7013.npy
+82,203,TCGA-DU-7018,933.0,57.0,Oligodendroglioma,G3,female,Dead,Chemotherapy,./dataset/mri_features/TCGA-DU-7018.npy
+83,205,TCGA-DU-7298,576.0,38.0,Astrocytoma,G3,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-DU-7298.npy
+84,206,TCGA-DU-7299,1339.0,33.0,Astrocytoma,G3,male,Dead,"Radiation, External Beam",./dataset/mri_features/TCGA-DU-7299.npy
+85,207,TCGA-DU-7309,9999.0,41.0,Oligodendroglioma,G3,female,Alive,Chemotherapy,./dataset/mri_features/TCGA-DU-7309.npy
+86,209,TCGA-DU-8165,9999.0,60.0,Oligodendroglioma,G3,female,Alive,Antiseizure Treatment,./dataset/mri_features/TCGA-DU-8165.npy
+87,210,TCGA-DU-8168,9999.0,55.0,Oligodendroglioma,G3,female,Alive,Chemotherapy,./dataset/mri_features/TCGA-DU-8168.npy
+88,211,TCGA-DU-A5TT,9999.0,70.0,Oligodendroglioma,G3,male,Alive,"Radiation, External Beam",./dataset/mri_features/TCGA-DU-A5TT.npy
+89,212,TCGA-DU-A5TW,9999.0,33.0,Astrocytoma,G3,female,Alive,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-DU-A5TW.npy
+90,213,TCGA-DU-A5TY,1033.0,46.0,Astrocytoma,G3,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-DU-A5TY.npy
+91,214,TCGA-DU-A6S7,9999.0,27.0,Astrocytoma,G3,female,Alive,Steroid Therapy,./dataset/mri_features/TCGA-DU-A6S7.npy
+92,227,TCGA-FG-5962,9999.0,54.0,Oligodendroglioma,G3,male,Alive,Antiseizure Treatment,./dataset/mri_features/TCGA-FG-5962.npy
+93,228,TCGA-FG-5963,775.0,23.0,Astrocytoma,G3,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-FG-5963.npy
+94,229,TCGA-FG-6691,9999.0,23.0,Astrocytoma,G3,female,Alive,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-FG-6691.npy
+95,230,TCGA-FG-6692,561.0,63.0,Oligodendroglioma,G3,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-FG-6692.npy
+96,236,TCGA-FG-A87N,9999.0,37.0,Astrocytoma,G3,female,Alive,Chemotherapy,./dataset/mri_features/TCGA-FG-A87N.npy
+97,238,TCGA-HT-7468,9999.0,30.0,Oligodendroglioma,G3,male,Alive,Chemotherapy,./dataset/mri_features/TCGA-HT-7468.npy
+98,240,TCGA-HT-7470,1220.0,37.0,Oligodendroglioma,G3,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-HT-7470.npy
+99,241,TCGA-HT-7471,9999.0,37.0,Oligodendroglioma,G3,female,Alive,Antiseizure Treatment,./dataset/mri_features/TCGA-HT-7471.npy
+100,242,TCGA-HT-7477,9999.0,62.0,Astrocytoma,G3,male,Alive,Chemotherapy,./dataset/mri_features/TCGA-HT-7477.npy
+101,243,TCGA-HT-7479,9999.0,44.0,Astrocytoma,G3,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-HT-7479.npy
+102,244,TCGA-HT-7601,9999.0,30.0,Astrocytoma,G3,female,Alive,Chemotherapy,./dataset/mri_features/TCGA-HT-7601.npy
+103,245,TCGA-HT-7616,7.0,75.0,Oligodendroglioma,G3,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-HT-7616.npy
+104,246,TCGA-HT-7620,9999.0,40.0,Oligodendroglioma,G3,male,Alive,Chemotherapy,./dataset/mri_features/TCGA-HT-7620.npy
+105,247,TCGA-HT-7677,9999.0,53.0,Oligodendroglioma,G3,male,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-HT-7677.npy
+106,248,TCGA-HT-7686,9999.0,29.0,Astrocytoma,G3,female,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-HT-7686.npy
+107,249,TCGA-HT-7687,9999.0,74.0,Oligodendroglioma,G3,male,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-HT-7687.npy
+108,250,TCGA-HT-7688,9999.0,59.0,Oligodendroglioma,G3,male,Alive,Chemotherapy,./dataset/mri_features/TCGA-HT-7688.npy
+109,251,TCGA-HT-7694,9999.0,60.0,Oligodendroglioma,G3,male,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-HT-7694.npy
+110,252,TCGA-HT-7855,9999.0,39.0,Astrocytoma,G3,male,Alive,Chemotherapy,./dataset/mri_features/TCGA-HT-7855.npy
+111,253,TCGA-HT-7856,9999.0,35.0,Oligodendroglioma,G3,male,Alive,Antiseizure Treatment,./dataset/mri_features/TCGA-HT-7856.npy
+112,254,TCGA-HT-7857,9999.0,24.0,Astrocytoma,G3,female,Alive,Antiseizure Treatment,./dataset/mri_features/TCGA-HT-7857.npy
+113,255,TCGA-HT-7860,9999.0,60.0,Astrocytoma,G3,female,Alive,Steroid Therapy,./dataset/mri_features/TCGA-HT-7860.npy
+114,256,TCGA-HT-7874,9999.0,41.0,Oligodendroglioma,G3,female,Alive,Chemotherapy,./dataset/mri_features/TCGA-HT-7874.npy
+115,257,TCGA-HT-7882,113.0,66.0,Oligodendroglioma,G3,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-HT-7882.npy
+116,258,TCGA-HT-8011,9999.0,55.0,Astrocytoma,G3,male,Alive,Steroid Therapy,./dataset/mri_features/TCGA-HT-8011.npy
+117,260,TCGA-HT-8104,9999.0,51.0,Astrocytoma,G3,female,Alive,"Radiation, External Beam",./dataset/mri_features/TCGA-HT-8104.npy
+118,261,TCGA-HT-8105,9999.0,54.0,Oligodendroglioma,G3,male,Alive,"Radiation, External Beam",./dataset/mri_features/TCGA-HT-8105.npy
+119,262,TCGA-HT-8106,9999.0,53.0,Astrocytoma,G3,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-HT-8106.npy
+120,263,TCGA-HT-8109,9999.0,64.0,Oligodendroglioma,G3,male,Alive,Steroid Therapy,./dataset/mri_features/TCGA-HT-8109.npy
+121,264,TCGA-HT-8110,9999.0,57.0,Astrocytoma,G3,male,Alive,"Radiation, External Beam",./dataset/mri_features/TCGA-HT-8110.npy
+122,265,TCGA-HT-8563,9999.0,30.0,Astrocytoma,G3,female,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-HT-8563.npy
+123,266,TCGA-HT-8564,9999.0,47.0,Astrocytoma,G3,male,Alive,"Radiation, External Beam",./dataset/mri_features/TCGA-HT-8564.npy
+124,268,TCGA-HT-A4DV,9999.0,51.0,Oligodendroglioma,G3,female,Alive,Steroid Therapy,./dataset/mri_features/TCGA-HT-A4DV.npy
+125,269,TCGA-HT-A5R7,9999.0,33.0,Astrocytoma,G3,female,Alive,Antiseizure Treatment,./dataset/mri_features/TCGA-HT-A5R7.npy
+126,271,TCGA-HT-A5RA,9999.0,65.0,Astrocytoma,G3,female,Alive,Antiseizure Treatment,./dataset/mri_features/TCGA-HT-A5RA.npy
+127,272,TCGA-HT-A5RC,162.0,70.0,Astrocytoma,G3,female,Dead,Steroid Therapy,./dataset/mri_features/TCGA-HT-A5RC.npy
+128,273,TCGA-HT-A618,9999.0,37.0,Astrocytoma,G3,female,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-HT-A618.npy
+129,275,TCGA-HT-A61C,537.0,66.0,Oligodendroglioma,G3,male,Dead,Steroid Therapy,./dataset/mri_features/TCGA-HT-A61C.npy
+130,349,C3L-00674,478.0,45.66,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/C3L-00674.npy
+131,350,C3L-00677,155.0,70.03,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/C3L-00677.npy
+132,351,C3L-01040,9999.0,77.77,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS",./dataset/mri_features/C3L-01040.npy
+133,352,C3L-01043,79.0,59.04,Glioblastoma,G4,male,Dead,,./dataset/mri_features/C3L-01043.npy
+134,353,C3L-01045,66.0,73.54,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/C3L-01045.npy
+135,354,C3L-01046,349.0,50.95,Glioblastoma,G4,male,Dead,,./dataset/mri_features/C3L-01046.npy
+136,355,C3L-01048,9999.0,60.57,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS",./dataset/mri_features/C3L-01048.npy
+137,358,C3L-01142,9999.0,42.42,Glioblastoma,G4,female,Alive,,./dataset/mri_features/C3L-01142.npy
+138,359,C3L-01146,509.0,59.08,Glioblastoma,G4,male,Dead,Targeted Molecular Therapy,./dataset/mri_features/C3L-01146.npy
+139,362,C3L-01155,9999.0,67.02,Glioblastoma,G4,male,Alive,,./dataset/mri_features/C3L-01155.npy
+140,363,C3L-01156,291.0,57.53,Glioblastoma,G4,male,Dead,Hormone Therapy,./dataset/mri_features/C3L-01156.npy
+141,366,C3L-01327,646.0,74.41,Glioblastoma,G4,male,Dead,,./dataset/mri_features/C3L-01327.npy
+142,369,C3L-02041,9999.0,51.79,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS",./dataset/mri_features/C3L-02041.npy
+143,370,C3L-02465,591.0,50.59,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/C3L-02465.npy
+144,371,C3L-02504,873.0,71.99,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/C3L-02504.npy
+145,376,C3L-02704,9999.0,54.46,Glioblastoma,G4,male,Alive,,./dataset/mri_features/C3L-02704.npy
+146,377,C3L-02705,111.0,60.34,Glioblastoma,G4,male,Dead,,./dataset/mri_features/C3L-02705.npy
+147,378,C3L-02707,9999.0,58.22,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS",./dataset/mri_features/C3L-02707.npy
+148,379,C3L-02708,738.0,43.88,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/C3L-02708.npy
+149,384,C3L-03260,43.0,75.05,Glioblastoma,G4,female,Dead,,./dataset/mri_features/C3L-03260.npy
+150,385,C3L-03266,281.0,61.87,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/mri_features/C3L-03266.npy
+151,395,C3L-03727,721.0,71.5,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/C3L-03727.npy
+152,396,C3L-03728,127.0,80.35,Glioblastoma,G4,female,Dead,,./dataset/mri_features/C3L-03728.npy
+153,398,C3L-03735,1323.0,74.17,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/C3L-03735.npy
+154,399,C3L-03740,86.0,77.8,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/C3L-03740.npy
+155,400,C3L-03744,9999.0,75.48,Glioblastoma,G4,male,Alive,Immunotherapy (Including Vaccines),./dataset/mri_features/C3L-03744.npy
+156,401,C3L-03748,401.0,65.03,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/mri_features/C3L-03748.npy
+157,408,C3L-04084,274.0,63.75,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/C3L-04084.npy
+158,426,C3N-00661,9999.0,49.42,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS",./dataset/mri_features/C3N-00661.npy
+159,428,C3N-00663,1.0,39.64,Glioblastoma,G4,male,Dead,,./dataset/mri_features/C3N-00663.npy
+160,429,C3N-00665,9999.0,65.9,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS",./dataset/mri_features/C3N-00665.npy
+161,430,C3N-01192,1209.0,60.16,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/mri_features/C3N-01192.npy
+162,431,C3N-01196,653.0,67.25,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/C3N-01196.npy
+163,440,C3N-01505,192.0,74.33,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/C3N-01505.npy
+164,450,C3N-01851,363.0,47.97,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/C3N-01851.npy
+165,451,C3N-01852,9999.0,59.92,Glioblastoma,G4,male,Alive,,./dataset/mri_features/C3N-01852.npy
+166,461,C3N-02256,263.0,65.1,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/C3N-02256.npy
+167,476,C3N-03001,534.0,80.08,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/C3N-03001.npy
+168,494,C3N-03755,453.0,68.95,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/C3N-03755.npy
+169,525,TCGA-02-0003,144.0,50.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-02-0003.npy
+170,527,TCGA-02-0006,558.0,56.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-02-0006.npy
+171,529,TCGA-02-0009,322.0,61.0,Glioblastoma,G4,female,Dead,"Surgery, NOS",./dataset/mri_features/TCGA-02-0009.npy
+172,531,TCGA-02-0011,630.0,18.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-02-0011.npy
+173,540,TCGA-02-0027,370.0,33.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-02-0027.npy
+174,542,TCGA-02-0033,86.0,54.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-02-0033.npy
+175,543,TCGA-02-0034,430.0,60.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-02-0034.npy
+176,544,TCGA-02-0037,110.0,74.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-02-0037.npy
+177,548,TCGA-02-0046,209.0,61.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-02-0046.npy
+178,549,TCGA-02-0047,448.0,78.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-02-0047.npy
+179,550,TCGA-02-0048,98.0,80.0,Glioblastoma,G4,male,Dead,,./dataset/mri_features/TCGA-02-0048.npy
+180,553,TCGA-02-0054,199.0,44.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/mri_features/TCGA-02-0054.npy
+181,557,TCGA-02-0059,291.0,68.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-02-0059.npy
+182,558,TCGA-02-0060,183.0,66.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-02-0060.npy
+183,559,TCGA-02-0064,600.0,50.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/mri_features/TCGA-02-0064.npy
+184,560,TCGA-02-0068,804.0,57.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-02-0068.npy
+185,561,TCGA-02-0069,9999.0,31.0,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-02-0069.npy
+186,562,TCGA-02-0070,9999.0,70.0,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-02-0070.npy
+187,565,TCGA-02-0075,634.0,63.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-02-0075.npy
+188,570,TCGA-02-0085,1561.0,63.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/mri_features/TCGA-02-0085.npy
+189,571,TCGA-02-0086,268.0,45.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/mri_features/TCGA-02-0086.npy
+190,572,TCGA-02-0087,9999.0,27.0,Glioblastoma,G4,female,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-02-0087.npy
+191,575,TCGA-02-0102,822.0,42.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-02-0102.npy
+192,577,TCGA-02-0106,355.0,54.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-02-0106.npy
+193,583,TCGA-02-0116,1489.0,51.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-02-0116.npy
+194,620,TCGA-06-0119,82.0,81.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-06-0119.npy
+195,622,TCGA-06-0122,187.0,84.0,Glioblastoma,G4,female,Dead,,./dataset/mri_features/TCGA-06-0122.npy
+196,624,TCGA-06-0125,1448.0,63.0,Glioblastoma,G4,female,Dead,"Brachytherapy, NOS",./dataset/mri_features/TCGA-06-0125.npy
+197,627,TCGA-06-0128,691.0,66.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-06-0128.npy
+198,628,TCGA-06-0129,1024.0,30.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-06-0129.npy
+199,629,TCGA-06-0130,394.0,54.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/mri_features/TCGA-06-0130.npy
+200,631,TCGA-06-0132,771.0,49.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-06-0132.npy
+201,632,TCGA-06-0133,435.0,64.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-06-0133.npy
+202,633,TCGA-06-0137,812.0,63.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-06-0137.npy
+203,634,TCGA-06-0138,737.0,43.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-06-0138.npy
+204,635,TCGA-06-0139,362.0,40.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-06-0139.npy
+205,637,TCGA-06-0141,313.0,62.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-06-0141.npy
+206,638,TCGA-06-0142,67.0,81.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-06-0142.npy
+207,639,TCGA-06-0143,357.0,58.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-06-0143.npy
+208,640,TCGA-06-0145,71.0,53.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-06-0145.npy
+209,642,TCGA-06-0147,541.0,51.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-06-0147.npy
+210,644,TCGA-06-0149,262.0,74.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-06-0149.npy
+211,648,TCGA-06-0154,424.0,54.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/mri_features/TCGA-06-0154.npy
+212,650,TCGA-06-0156,178.0,57.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-06-0156.npy
+213,651,TCGA-06-0157,97.0,63.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-06-0157.npy
+214,652,TCGA-06-0158,329.0,73.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-06-0158.npy
+215,654,TCGA-06-0160,359.0,56.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/mri_features/TCGA-06-0160.npy
+216,655,TCGA-06-0162,104.0,47.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam",./dataset/mri_features/TCGA-06-0162.npy
+217,656,TCGA-06-0164,1731.0,47.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-06-0164.npy
+218,657,TCGA-06-0165,324.0,52.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/mri_features/TCGA-06-0165.npy
+219,658,TCGA-06-0166,178.0,51.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-06-0166.npy
+220,660,TCGA-06-0168,598.0,59.0,Glioblastoma,G4,female,Dead,"Radiation, Stereotactic/Gamma Knife/SRS",./dataset/mri_features/TCGA-06-0168.npy
+221,662,TCGA-06-0171,399.0,65.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-06-0171.npy
+222,663,TCGA-06-0173,136.0,72.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-06-0173.npy
+223,664,TCGA-06-0174,98.0,54.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-06-0174.npy
+224,665,TCGA-06-0175,123.0,69.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-06-0175.npy
+225,666,TCGA-06-0176,9999.0,34.0,Glioblastoma,G4,male,Alive,Chemotherapy,./dataset/mri_features/TCGA-06-0176.npy
+226,667,TCGA-06-0177,127.0,64.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-06-0177.npy
+227,668,TCGA-06-0178,2681.0,38.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-06-0178.npy
+228,669,TCGA-06-0179,616.0,64.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-06-0179.npy
+229,670,TCGA-06-0182,111.0,76.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-06-0182.npy
+230,671,TCGA-06-0184,2126.0,63.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-06-0184.npy
+231,672,TCGA-06-0185,9999.0,54.0,Glioblastoma,G4,male,Alive,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-06-0185.npy
+232,673,TCGA-06-0187,828.0,69.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-06-0187.npy
+233,674,TCGA-06-0188,1356.0,71.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-06-0188.npy
+234,675,TCGA-06-0189,469.0,55.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-06-0189.npy
+235,676,TCGA-06-0190,317.0,62.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-06-0190.npy
+236,677,TCGA-06-0192,1185.0,58.0,Glioblastoma,G4,male,Dead,Targeted Molecular Therapy,./dataset/mri_features/TCGA-06-0192.npy
+237,685,TCGA-06-0210,225.0,72.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam",./dataset/mri_features/TCGA-06-0210.npy
+238,687,TCGA-06-0213,16.0,55.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-06-0213.npy
+239,688,TCGA-06-0214,457.0,66.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-06-0214.npy
+240,689,TCGA-06-0216,735.0,61.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/mri_features/TCGA-06-0216.npy
+241,691,TCGA-06-0221,603.0,31.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-06-0221.npy
+242,692,TCGA-06-0237,415.0,75.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-06-0237.npy
+243,693,TCGA-06-0238,405.0,46.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-06-0238.npy
+244,694,TCGA-06-0240,621.0,57.0,Glioblastoma,G4,male,Dead,Targeted Molecular Therapy,./dataset/mri_features/TCGA-06-0240.npy
+245,695,TCGA-06-0241,1481.0,65.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-06-0241.npy
+246,704,TCGA-06-0644,384.0,71.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-06-0644.npy
+247,705,TCGA-06-0645,175.0,55.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-06-0645.npy
+248,706,TCGA-06-0646,175.0,60.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-06-0646.npy
+249,707,TCGA-06-0648,298.0,77.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-06-0648.npy
+250,708,TCGA-06-0649,64.0,73.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-06-0649.npy
+251,726,TCGA-06-0878,9999.0,74.0,Glioblastoma,G4,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-06-0878.npy
+252,728,TCGA-06-0881,504.0,50.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-06-0881.npy
+253,731,TCGA-06-1084,728.0,54.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-06-1084.npy
+254,735,TCGA-06-1801,360.0,56.0,Glioblastoma,G4,female,Dead,Targeted Molecular Therapy,./dataset/mri_features/TCGA-06-1801.npy
+255,736,TCGA-06-1802,466.0,61.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-06-1802.npy
+256,739,TCGA-06-1806,466.0,47.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-06-1806.npy
+257,751,TCGA-06-2570,9999.0,21.0,Glioblastoma,G4,female,Alive,"Radiation, External Beam",./dataset/mri_features/TCGA-06-2570.npy
+258,752,TCGA-06-5408,357.0,54.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-06-5408.npy
+259,755,TCGA-06-5412,138.0,78.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/mri_features/TCGA-06-5412.npy
+260,756,TCGA-06-5413,9999.0,67.0,Glioblastoma,G4,male,Alive,Chemotherapy,./dataset/mri_features/TCGA-06-5413.npy
+261,760,TCGA-06-5417,9999.0,45.0,Glioblastoma,G4,female,Alive,"Radiation, External Beam",./dataset/mri_features/TCGA-06-5417.npy
+262,766,TCGA-06-6389,9999.0,49.0,Glioblastoma,G4,female,Alive,Chemotherapy,./dataset/mri_features/TCGA-06-6389.npy
+263,786,TCGA-08-0246,127.0,57.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam",./dataset/mri_features/TCGA-08-0246.npy
+264,795,TCGA-08-0352,39.0,79.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-08-0352.npy
+265,796,TCGA-08-0353,256.0,58.0,Glioblastoma,G4,male,Dead,"Radiation, Cyberknife",./dataset/mri_features/TCGA-08-0353.npy
+266,797,TCGA-08-0354,546.0,52.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-08-0354.npy
+267,798,TCGA-08-0355,747.0,30.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/mri_features/TCGA-08-0355.npy
+268,799,TCGA-08-0356,946.0,59.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam",./dataset/mri_features/TCGA-08-0356.npy
+269,800,TCGA-08-0357,1143.0,49.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-08-0357.npy
+270,801,TCGA-08-0358,678.0,50.0,Glioblastoma,G4,male,Dead,Targeted Molecular Therapy,./dataset/mri_features/TCGA-08-0358.npy
+271,802,TCGA-08-0359,103.0,59.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-08-0359.npy
+272,803,TCGA-08-0360,468.0,76.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-08-0360.npy
+273,807,TCGA-08-0385,82.0,71.0,Glioblastoma,G4,male,Dead,,./dataset/mri_features/TCGA-08-0385.npy
+274,810,TCGA-08-0390,425.0,69.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-08-0390.npy
+275,811,TCGA-08-0392,22.0,60.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-08-0392.npy
+276,813,TCGA-08-0510,130.0,75.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-08-0510.npy
+277,820,TCGA-08-0520,327.0,70.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-08-0520.npy
+278,821,TCGA-08-0521,146.0,17.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-08-0521.npy
+279,822,TCGA-08-0522,635.0,61.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-08-0522.npy
+280,823,TCGA-08-0524,221.0,17.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam",./dataset/mri_features/TCGA-08-0524.npy
+281,825,TCGA-08-0529,560.0,56.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-08-0529.npy
+282,832,TCGA-12-0616,448.0,36.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/mri_features/TCGA-12-0616.npy
+283,835,TCGA-12-0620,318.0,57.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/mri_features/TCGA-12-0620.npy
+284,849,TCGA-12-0773,1315.0,24.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-12-0773.npy
+285,851,TCGA-12-0776,296.0,52.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-12-0776.npy
+286,862,TCGA-12-0829,626.0,75.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-12-0829.npy
+287,867,TCGA-12-1092,661.0,58.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-12-1092.npy
+288,868,TCGA-12-1093,486.0,66.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-12-1093.npy
+289,871,TCGA-12-1096,277.0,55.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-12-1096.npy
+290,872,TCGA-12-1097,442.0,61.0,Glioblastoma,G4,male,Dead,Targeted Molecular Therapy,./dataset/mri_features/TCGA-12-1097.npy
+291,873,TCGA-12-1098,121.0,75.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-12-1098.npy
+292,874,TCGA-12-1099,126.0,68.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-12-1099.npy
+293,876,TCGA-12-1598,476.0,75.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/mri_features/TCGA-12-1598.npy
+294,878,TCGA-12-1600,448.0,86.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-12-1600.npy
+295,880,TCGA-12-1602,206.0,58.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/mri_features/TCGA-12-1602.npy
+296,882,TCGA-12-3646,1339.0,59.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-12-3646.npy
+297,883,TCGA-12-3648,819.0,61.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-12-3648.npy
+298,884,TCGA-12-3649,463.0,76.0,Glioblastoma,G4,male,Dead,Immunotherapy (Including Vaccines),./dataset/mri_features/TCGA-12-3649.npy
+299,885,TCGA-12-3650,333.0,46.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-12-3650.npy
+300,892,TCGA-14-0736,460.0,49.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-14-0736.npy
+301,895,TCGA-14-0783,189.0,36.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/mri_features/TCGA-14-0783.npy
+302,898,TCGA-14-0789,342.0,54.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-14-0789.npy
+303,899,TCGA-14-0790,419.0,64.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/mri_features/TCGA-14-0790.npy
+304,900,TCGA-14-0812,99.0,65.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-14-0812.npy
+305,902,TCGA-14-0817,164.0,69.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-14-0817.npy
+306,904,TCGA-14-0865,502.0,67.0,Glioblastoma,G4,male,Dead,"Surgery, NOS",./dataset/mri_features/TCGA-14-0865.npy
+307,907,TCGA-14-0871,880.0,74.0,Glioblastoma,G4,female,Dead,Hormone Therapy,./dataset/mri_features/TCGA-14-0871.npy
+308,908,TCGA-14-1034,485.0,60.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-14-1034.npy
+309,909,TCGA-14-1037,587.0,66.0,Glioblastoma,G4,female,Dead,Targeted Molecular Therapy,./dataset/mri_features/TCGA-14-1037.npy
+310,910,TCGA-14-1043,24.0,61.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/mri_features/TCGA-14-1043.npy
+311,911,TCGA-14-1395,42.0,52.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-14-1395.npy
+312,912,TCGA-14-1396,34.0,78.0,Glioblastoma,G4,female,Dead,Hormone Therapy,./dataset/mri_features/TCGA-14-1396.npy
+313,917,TCGA-14-1452,216.0,60.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-14-1452.npy
+314,918,TCGA-14-1453,35.0,69.0,Glioblastoma,G4,male,Dead,Hormone Therapy,./dataset/mri_features/TCGA-14-1453.npy
+315,919,TCGA-14-1454,918.0,54.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-14-1454.npy
+316,921,TCGA-14-1456,9999.0,23.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam",./dataset/mri_features/TCGA-14-1456.npy
+317,922,TCGA-14-1458,203.0,54.0,Glioblastoma,G4,male,Dead,Hormone Therapy,./dataset/mri_features/TCGA-14-1458.npy
+318,923,TCGA-14-1459,378.0,63.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-14-1459.npy
+319,924,TCGA-14-1794,30.0,59.0,Glioblastoma,G4,male,Dead,Hormone Therapy,./dataset/mri_features/TCGA-14-1794.npy
+320,925,TCGA-14-1795,60.0,66.0,Glioblastoma,G4,male,Dead,Hormone Therapy,./dataset/mri_features/TCGA-14-1795.npy
+321,926,TCGA-14-1821,541.0,31.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-14-1821.npy
+322,927,TCGA-14-1823,543.0,58.0,Glioblastoma,G4,female,Dead,Targeted Molecular Therapy,./dataset/mri_features/TCGA-14-1823.npy
+323,930,TCGA-14-1829,9999.0,57.0,Glioblastoma,G4,male,Alive,Chemotherapy,./dataset/mri_features/TCGA-14-1829.npy
+324,934,TCGA-14-3477,9999.0,38.0,Glioblastoma,G4,female,Alive,Targeted Molecular Therapy,./dataset/mri_features/TCGA-14-3477.npy
+325,955,TCGA-19-0955,9999.0,71.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam",./dataset/mri_features/TCGA-19-0955.npy
+326,958,TCGA-19-0962,20.0,77.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-19-0962.npy
+327,959,TCGA-19-0963,434.0,61.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-19-0963.npy
+328,960,TCGA-19-0964,9999.0,70.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam",./dataset/mri_features/TCGA-19-0964.npy
+329,961,TCGA-19-1385,327.0,69.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/mri_features/TCGA-19-1385.npy
+330,962,TCGA-19-1386,276.0,51.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-19-1386.npy
+331,963,TCGA-19-1387,9999.0,81.0,Glioblastoma,G4,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-19-1387.npy
+332,964,TCGA-19-1388,394.0,58.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-19-1388.npy
+333,965,TCGA-19-1389,141.0,51.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-19-1389.npy
+334,966,TCGA-19-1390,772.0,63.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-19-1390.npy
+335,967,TCGA-19-1392,111.0,72.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-19-1392.npy
+336,970,TCGA-19-1788,112.0,39.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-19-1788.npy
+337,971,TCGA-19-1789,99.0,69.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam",./dataset/mri_features/TCGA-19-1789.npy
+338,973,TCGA-19-1791,9999.0,82.0,Glioblastoma,G4,female,Alive,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-19-1791.npy
+339,974,TCGA-19-2619,9999.0,55.0,Glioblastoma,G4,female,Alive,Chemotherapy,./dataset/mri_features/TCGA-19-2619.npy
+340,975,TCGA-19-2620,148.0,70.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-19-2620.npy
+341,976,TCGA-19-2621,33.0,83.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-19-2621.npy
+342,977,TCGA-19-2623,9999.0,65.0,Glioblastoma,G4,male,Alive,"Radiation, External Beam",./dataset/mri_features/TCGA-19-2623.npy
+343,978,TCGA-19-2624,5.0,51.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-19-2624.npy
+344,979,TCGA-19-2625,124.0,76.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-19-2625.npy
+345,980,TCGA-19-2629,737.0,60.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-19-2629.npy
+346,981,TCGA-19-2631,213.0,74.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam",./dataset/mri_features/TCGA-19-2631.npy
+347,982,TCGA-19-4065,9999.0,36.0,Glioblastoma,G4,male,Alive,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-19-4065.npy
+348,983,TCGA-19-4068,9999.0,68.0,Glioblastoma,G4,female,Alive,Chemotherapy,./dataset/mri_features/TCGA-19-4068.npy
+349,984,TCGA-19-5947,202.0,47.0,Glioblastoma,G4,female,Dead,"Radiation, External Beam",./dataset/mri_features/TCGA-19-5947.npy
+350,985,TCGA-19-5950,523.0,52.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/mri_features/TCGA-19-5950.npy
+351,986,TCGA-19-5951,244.0,76.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/mri_features/TCGA-19-5951.npy
+352,987,TCGA-19-5952,575.0,62.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/mri_features/TCGA-19-5952.npy
+353,989,TCGA-19-5954,368.0,72.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/mri_features/TCGA-19-5954.npy
+354,990,TCGA-19-5955,54.0,83.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-19-5955.npy
+355,991,TCGA-19-5956,684.0,53.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-19-5956.npy
+356,992,TCGA-19-5958,428.0,56.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-19-5958.npy
+357,993,TCGA-19-5959,511.0,77.0,Glioblastoma,G4,female,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-19-5959.npy
+358,994,TCGA-19-5960,455.0,56.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-19-5960.npy
+359,1111,TCGA-76-4926,138.0,68.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-76-4926.npy
+360,1112,TCGA-76-4927,535.0,58.0,Glioblastoma,G4,male,Dead,,./dataset/mri_features/TCGA-76-4927.npy
+361,1113,TCGA-76-4928,94.0,85.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-76-4928.npy
+362,1114,TCGA-76-4929,111.0,76.0,Glioblastoma,G4,female,Dead,,./dataset/mri_features/TCGA-76-4929.npy
+363,1115,TCGA-76-4931,279.0,70.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-76-4931.npy
+364,1116,TCGA-76-4932,1458.0,50.0,Glioblastoma,G4,female,Dead,Chemotherapy,./dataset/mri_features/TCGA-76-4932.npy
+365,1117,TCGA-76-4934,77.0,66.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-76-4934.npy
+366,1118,TCGA-76-4935,1121.0,52.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-76-4935.npy
+367,1119,TCGA-76-6191,508.0,57.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-76-6191.npy
+368,1120,TCGA-76-6192,100.0,74.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/mri_features/TCGA-76-6192.npy
+369,1121,TCGA-76-6193,82.0,78.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-76-6193.npy
+370,1122,TCGA-76-6280,346.0,57.0,Glioblastoma,G4,male,Dead,"Surgery, NOS",./dataset/mri_features/TCGA-76-6280.npy
+371,1123,TCGA-76-6282,519.0,63.0,Glioblastoma,G4,male,Dead,"Pharmaceutical Therapy, NOS",./dataset/mri_features/TCGA-76-6282.npy
+372,1125,TCGA-76-6285,254.0,64.0,Glioblastoma,G4,female,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-76-6285.npy
+373,1127,TCGA-76-6656,147.0,66.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/mri_features/TCGA-76-6656.npy
+374,1128,TCGA-76-6657,153.0,74.0,Glioblastoma,G4,male,Dead,Chemotherapy,./dataset/mri_features/TCGA-76-6657.npy
+375,1130,TCGA-76-6661,727.0,54.0,Glioblastoma,G4,male,Dead,"Radiation, External Beam",./dataset/mri_features/TCGA-76-6661.npy
+376,1131,TCGA-76-6662,1048.0,58.0,Glioblastoma,G4,male,Dead,"Radiation Therapy, NOS",./dataset/mri_features/TCGA-76-6662.npy
+377,1132,TCGA-76-6663,567.0,44.0,Glioblastoma,G4,female,Dead,Immunotherapy (Including Vaccines),./dataset/mri_features/TCGA-76-6663.npy
+378,1133,TCGA-76-6664,9999.0,49.0,Glioblastoma,G4,female,Alive,Chemotherapy,./dataset/mri_features/TCGA-76-6664.npy
+379,1143,UPENN-GBM-00001,960.0,52.16,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00001.npy
+380,1144,UPENN-GBM-00002,291.0,61.3,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00002.npy
+381,1145,UPENN-GBM-00003,2838.0,42.82,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00003.npy
+382,1146,UPENN-GBM-00004,623.0,33.43,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00004.npy
+383,1147,UPENN-GBM-00005,1143.0,53.33,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00005.npy
+384,1148,UPENN-GBM-00006,626.0,52.99,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00006.npy
+385,1149,UPENN-GBM-00007,348.0,56.96,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00007.npy
+386,1150,UPENN-GBM-00008,469.0,55.06,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00008.npy
+387,1151,UPENN-GBM-00009,561.0,69.12,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00009.npy
+388,1152,UPENN-GBM-00010,501.0,77.54,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00010.npy
+389,1153,UPENN-GBM-00011,798.0,39.61,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00011.npy
+390,1154,UPENN-GBM-00012,882.0,53.85,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00012.npy
+391,1155,UPENN-GBM-00013,472.0,69.45,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00013.npy
+392,1156,UPENN-GBM-00014,272.0,68.06,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00014.npy
+393,1157,UPENN-GBM-00015,554.0,54.9,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00015.npy
+394,1158,UPENN-GBM-00016,509.0,70.89,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00016.npy
+395,1160,UPENN-GBM-00018,1170.0,57.21,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00018.npy
+396,1161,UPENN-GBM-00019,1358.0,43.12,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00019.npy
+397,1162,UPENN-GBM-00020,425.0,50.86,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00020.npy
+398,1163,UPENN-GBM-00021,510.0,49.04,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00021.npy
+399,1164,UPENN-GBM-00022,1882.0,53.88,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00022.npy
+400,1165,UPENN-GBM-00023,9999.0,55.57,Glioblastoma,G4,M,Alive,,./dataset/mri_features/UPENN-GBM-00023.npy
+401,1166,UPENN-GBM-00024,454.0,54.26,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00024.npy
+402,1167,UPENN-GBM-00025,710.0,64.32,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00025.npy
+403,1168,UPENN-GBM-00026,363.0,52.43,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00026.npy
+404,1169,UPENN-GBM-00027,407.0,65.08,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00027.npy
+405,1170,UPENN-GBM-00028,368.0,67.35,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00028.npy
+406,1171,UPENN-GBM-00029,1504.0,22.03,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00029.npy
+407,1172,UPENN-GBM-00030,502.0,66.81,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00030.npy
+408,1173,UPENN-GBM-00031,2207.0,65.92,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00031.npy
+409,1174,UPENN-GBM-00032,272.0,63.26,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00032.npy
+410,1175,UPENN-GBM-00033,707.0,60.52,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00033.npy
+411,1176,UPENN-GBM-00034,464.0,53.63,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00034.npy
+412,1177,UPENN-GBM-00035,364.0,56.25,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00035.npy
+413,1178,UPENN-GBM-00036,286.0,43.57,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00036.npy
+414,1179,UPENN-GBM-00037,664.0,58.41,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00037.npy
+415,1180,UPENN-GBM-00038,268.0,57.99,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00038.npy
+416,1181,UPENN-GBM-00039,2048.0,64.5,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00039.npy
+417,1182,UPENN-GBM-00040,360.0,52.45,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00040.npy
+418,1183,UPENN-GBM-00041,598.0,65.65,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00041.npy
+419,1184,UPENN-GBM-00042,76.0,62.83,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00042.npy
+420,1185,UPENN-GBM-00043,172.0,63.48,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00043.npy
+421,1186,UPENN-GBM-00044,379.0,63.41,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00044.npy
+422,1187,UPENN-GBM-00045,419.0,51.11,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00045.npy
+423,1188,UPENN-GBM-00046,195.0,58.75,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00046.npy
+424,1189,UPENN-GBM-00047,437.0,63.44,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00047.npy
+425,1190,UPENN-GBM-00048,1159.0,65.22,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00048.npy
+426,1191,UPENN-GBM-00049,224.0,57.67,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00049.npy
+427,1192,UPENN-GBM-00050,662.0,54.04,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00050.npy
+428,1193,UPENN-GBM-00051,401.0,61.26,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00051.npy
+429,1194,UPENN-GBM-00052,183.0,54.34,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00052.npy
+430,1195,UPENN-GBM-00053,396.0,64.0,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00053.npy
+431,1196,UPENN-GBM-00054,412.0,39.88,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00054.npy
+432,1197,UPENN-GBM-00055,39.0,57.96,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00055.npy
+433,1198,UPENN-GBM-00056,2516.0,68.84,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00056.npy
+434,1199,UPENN-GBM-00057,673.0,65.95,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00057.npy
+435,1200,UPENN-GBM-00058,392.0,50.92,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00058.npy
+436,1201,UPENN-GBM-00059,369.0,56.53,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00059.npy
+437,1202,UPENN-GBM-00060,445.0,59.07,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00060.npy
+438,1203,UPENN-GBM-00061,851.0,60.22,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00061.npy
+439,1204,UPENN-GBM-00062,427.0,61.4,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00062.npy
+440,1205,UPENN-GBM-00063,1152.0,80.8,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00063.npy
+441,1206,UPENN-GBM-00064,879.0,73.75,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00064.npy
+442,1207,UPENN-GBM-00065,111.0,75.64,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00065.npy
+443,1208,UPENN-GBM-00066,493.0,62.46,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00066.npy
+444,1209,UPENN-GBM-00067,282.0,72.39,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00067.npy
+445,1210,UPENN-GBM-00068,389.0,52.2,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00068.npy
+446,1211,UPENN-GBM-00069,296.0,50.77,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00069.npy
+447,1212,UPENN-GBM-00070,37.0,75.63,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00070.npy
+448,1213,UPENN-GBM-00071,9999.0,37.13,Glioblastoma,G4,F,Alive,,./dataset/mri_features/UPENN-GBM-00071.npy
+449,1214,UPENN-GBM-00072,553.0,59.79,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00072.npy
+450,1215,UPENN-GBM-00073,291.0,68.99,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00073.npy
+451,1216,UPENN-GBM-00074,1071.0,56.51,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00074.npy
+452,1217,UPENN-GBM-00075,278.0,54.1,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00075.npy
+453,1219,UPENN-GBM-00077,54.0,80.93,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00077.npy
+454,1220,UPENN-GBM-00078,158.0,70.74,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00078.npy
+455,1221,UPENN-GBM-00079,57.0,78.67,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00079.npy
+456,1223,UPENN-GBM-00081,24.0,63.0,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00081.npy
+457,1224,UPENN-GBM-00082,351.0,44.78,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00082.npy
+458,1225,UPENN-GBM-00083,333.0,68.78,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00083.npy
+459,1226,UPENN-GBM-00084,281.0,47.63,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00084.npy
+460,1227,UPENN-GBM-00085,9999.0,48.18,Glioblastoma,G4,M,Alive,,./dataset/mri_features/UPENN-GBM-00085.npy
+461,1228,UPENN-GBM-00086,30.0,71.13,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00086.npy
+462,1229,UPENN-GBM-00087,44.0,71.76,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00087.npy
+463,1230,UPENN-GBM-00088,106.0,47.92,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00088.npy
+464,1231,UPENN-GBM-00089,1475.0,77.37,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00089.npy
+465,1232,UPENN-GBM-00090,400.0,66.91,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00090.npy
+466,1233,UPENN-GBM-00091,200.0,70.54,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00091.npy
+467,1234,UPENN-GBM-00092,30.0,66.44,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00092.npy
+468,1235,UPENN-GBM-00093,284.0,52.21,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00093.npy
+469,1236,UPENN-GBM-00094,383.0,65.95,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00094.npy
+470,1238,UPENN-GBM-00096,20.0,63.58,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00096.npy
+471,1239,UPENN-GBM-00097,709.0,57.01,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00097.npy
+472,1240,UPENN-GBM-00098,524.0,62.67,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00098.npy
+473,1241,UPENN-GBM-00099,578.0,56.37,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00099.npy
+474,1242,UPENN-GBM-00100,205.0,46.18,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00100.npy
+475,1243,UPENN-GBM-00101,339.0,60.9,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00101.npy
+476,1244,UPENN-GBM-00102,106.0,77.43,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00102.npy
+477,1245,UPENN-GBM-00103,66.0,78.68,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00103.npy
+478,1246,UPENN-GBM-00104,211.0,73.09,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00104.npy
+479,1247,UPENN-GBM-00105,32.0,74.05,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00105.npy
+480,1248,UPENN-GBM-00106,104.0,72.4,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00106.npy
+481,1249,UPENN-GBM-00107,472.0,54.35,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00107.npy
+482,1250,UPENN-GBM-00108,173.0,66.99,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00108.npy
+483,1251,UPENN-GBM-00109,351.0,51.02,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00109.npy
+484,1252,UPENN-GBM-00110,257.0,61.44,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00110.npy
+485,1253,UPENN-GBM-00111,290.0,72.49,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00111.npy
+486,1254,UPENN-GBM-00112,494.0,64.07,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00112.npy
+487,1255,UPENN-GBM-00113,479.0,68.8,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00113.npy
+488,1256,UPENN-GBM-00114,1302.0,47.1,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00114.npy
+489,1257,UPENN-GBM-00115,87.0,72.36,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00115.npy
+490,1258,UPENN-GBM-00116,65.0,56.56,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00116.npy
+491,1259,UPENN-GBM-00117,173.0,77.03,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00117.npy
+492,1260,UPENN-GBM-00118,30.0,73.89,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00118.npy
+493,1261,UPENN-GBM-00119,84.0,54.1,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00119.npy
+494,1262,UPENN-GBM-00120,289.0,78.75,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00120.npy
+495,1263,UPENN-GBM-00121,226.0,58.52,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00121.npy
+496,1264,UPENN-GBM-00122,47.0,64.85,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00122.npy
+497,1266,UPENN-GBM-00124,735.0,76.36,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00124.npy
+498,1268,UPENN-GBM-00126,766.0,50.76,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00126.npy
+499,1269,UPENN-GBM-00127,721.0,68.85,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00127.npy
+500,1270,UPENN-GBM-00128,885.0,81.54,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00128.npy
+501,1271,UPENN-GBM-00129,64.0,57.86,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00129.npy
+502,1272,UPENN-GBM-00130,384.0,53.71,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00130.npy
+503,1273,UPENN-GBM-00131,852.0,76.3,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00131.npy
+504,1274,UPENN-GBM-00132,922.0,48.02,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00132.npy
+505,1275,UPENN-GBM-00133,537.0,73.72,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00133.npy
+506,1276,UPENN-GBM-00134,374.0,45.34,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00134.npy
+507,1277,UPENN-GBM-00135,879.0,55.59,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00135.npy
+508,1278,UPENN-GBM-00136,211.0,64.65,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00136.npy
+509,1279,UPENN-GBM-00137,320.0,47.47,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00137.npy
+510,1280,UPENN-GBM-00138,1527.0,60.66,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00138.npy
+511,1281,UPENN-GBM-00139,208.0,58.52,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00139.npy
+512,1282,UPENN-GBM-00140,234.0,48.37,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00140.npy
+513,1283,UPENN-GBM-00141,321.0,78.95,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00141.npy
+514,1284,UPENN-GBM-00142,9999.0,67.68,Glioblastoma,G4,M,Alive,,./dataset/mri_features/UPENN-GBM-00142.npy
+515,1285,UPENN-GBM-00143,411.0,40.04,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00143.npy
+516,1286,UPENN-GBM-00144,270.0,53.07,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00144.npy
+517,1287,UPENN-GBM-00145,85.0,66.53,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00145.npy
+518,1288,UPENN-GBM-00146,1178.0,48.74,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00146.npy
+519,1289,UPENN-GBM-00147,80.0,82.41,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00147.npy
+520,1290,UPENN-GBM-00148,299.0,56.31,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00148.npy
+521,1291,UPENN-GBM-00149,233.0,69.3,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00149.npy
+522,1292,UPENN-GBM-00150,551.0,56.4,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00150.npy
+523,1293,UPENN-GBM-00151,618.0,67.43,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00151.npy
+524,1294,UPENN-GBM-00152,742.0,57.4,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00152.npy
+525,1295,UPENN-GBM-00153,234.0,59.91,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00153.npy
+526,1296,UPENN-GBM-00154,209.0,72.11,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00154.npy
+527,1297,UPENN-GBM-00155,503.0,69.13,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00155.npy
+528,1298,UPENN-GBM-00156,359.0,70.14,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00156.npy
+529,1299,UPENN-GBM-00157,235.0,61.39,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00157.npy
+530,1300,UPENN-GBM-00158,152.0,69.68,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00158.npy
+531,1301,UPENN-GBM-00159,264.0,63.88,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00159.npy
+532,1302,UPENN-GBM-00160,3.0,61.0,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00160.npy
+533,1305,UPENN-GBM-00163,2951.0,63.78,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00163.npy
+534,1306,UPENN-GBM-00164,1193.0,46.79,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00164.npy
+535,1307,UPENN-GBM-00165,44.0,66.64,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00165.npy
+536,1308,UPENN-GBM-00166,388.0,52.31,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00166.npy
+537,1309,UPENN-GBM-00167,94.0,65.36,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00167.npy
+538,1310,UPENN-GBM-00168,93.0,76.99,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00168.npy
+539,1311,UPENN-GBM-00169,23.0,72.09,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00169.npy
+540,1312,UPENN-GBM-00170,505.0,51.79,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00170.npy
+541,1313,UPENN-GBM-00171,846.0,68.93,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00171.npy
+542,1314,UPENN-GBM-00172,457.0,63.02,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00172.npy
+543,1315,UPENN-GBM-00173,233.0,75.76,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00173.npy
+544,1316,UPENN-GBM-00174,1615.0,37.3,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00174.npy
+545,1317,UPENN-GBM-00175,98.0,80.06,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00175.npy
+546,1318,UPENN-GBM-00176,56.0,80.45,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00176.npy
+547,1319,UPENN-GBM-00177,154.0,67.52,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00177.npy
+548,1320,UPENN-GBM-00178,276.0,86.87,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00178.npy
+549,1322,UPENN-GBM-00180,146.0,60.99,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00180.npy
+550,1323,UPENN-GBM-00181,578.0,54.49,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00181.npy
+551,1325,UPENN-GBM-00183,1168.0,57.64,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00183.npy
+552,1326,UPENN-GBM-00184,60.0,85.46,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00184.npy
+553,1327,UPENN-GBM-00185,200.0,88.5,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00185.npy
+554,1328,UPENN-GBM-00186,642.0,55.35,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00186.npy
+555,1329,UPENN-GBM-00187,1346.0,55.09,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00187.npy
+556,1330,UPENN-GBM-00188,9999.0,44.46,Glioblastoma,G4,M,Alive,,./dataset/mri_features/UPENN-GBM-00188.npy
+557,1332,UPENN-GBM-00190,136.0,56.66,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00190.npy
+558,1333,UPENN-GBM-00191,51.0,57.63,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00191.npy
+559,1334,UPENN-GBM-00192,1356.0,61.66,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00192.npy
+560,1336,UPENN-GBM-00194,250.0,59.3,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00194.npy
+561,1337,UPENN-GBM-00195,168.0,79.51,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00195.npy
+562,1338,UPENN-GBM-00196,21.0,86.21,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00196.npy
+563,1339,UPENN-GBM-00197,215.0,52.79,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00197.npy
+564,1340,UPENN-GBM-00198,1008.0,52.61,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00198.npy
+565,1341,UPENN-GBM-00199,591.0,43.97,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00199.npy
+566,1342,UPENN-GBM-00200,122.0,82.36,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00200.npy
+567,1343,UPENN-GBM-00201,182.0,52.84,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00201.npy
+568,1344,UPENN-GBM-00202,346.0,79.27,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00202.npy
+569,1345,UPENN-GBM-00203,122.0,59.44,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00203.npy
+570,1346,UPENN-GBM-00204,374.0,54.24,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00204.npy
+571,1348,UPENN-GBM-00206,586.0,64.24,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00206.npy
+572,1349,UPENN-GBM-00207,301.0,61.71,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00207.npy
+573,1350,UPENN-GBM-00208,622.0,45.87,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00208.npy
+574,1352,UPENN-GBM-00210,3.0,53.95,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00210.npy
+575,1353,UPENN-GBM-00211,2307.0,73.03,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00211.npy
+576,1354,UPENN-GBM-00212,485.0,85.74,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00212.npy
+577,1355,UPENN-GBM-00213,73.0,76.37,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00213.npy
+578,1356,UPENN-GBM-00214,505.0,74.52,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00214.npy
+579,1357,UPENN-GBM-00215,155.0,65.07,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00215.npy
+580,1358,UPENN-GBM-00216,167.0,59.29,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00216.npy
+581,1359,UPENN-GBM-00217,393.0,73.29,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00217.npy
+582,1360,UPENN-GBM-00218,151.0,77.97,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00218.npy
+583,1361,UPENN-GBM-00219,98.0,68.28,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00219.npy
+584,1362,UPENN-GBM-00220,925.0,62.99,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00220.npy
+585,1363,UPENN-GBM-00221,583.0,76.69,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00221.npy
+586,1364,UPENN-GBM-00222,110.0,72.67,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00222.npy
+587,1365,UPENN-GBM-00223,230.0,69.33,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00223.npy
+588,1366,UPENN-GBM-00224,438.0,49.31,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00224.npy
+589,1367,UPENN-GBM-00225,16.0,83.54,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00225.npy
+590,1368,UPENN-GBM-00226,182.0,56.3,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00226.npy
+591,1369,UPENN-GBM-00227,138.0,53.5,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00227.npy
+592,1370,UPENN-GBM-00228,379.0,47.2,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00228.npy
+593,1371,UPENN-GBM-00229,6109.0,43.46,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00229.npy
+594,1372,UPENN-GBM-00230,78.0,72.28,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00230.npy
+595,1373,UPENN-GBM-00231,370.0,67.83,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00231.npy
+596,1374,UPENN-GBM-00232,187.0,75.64,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00232.npy
+597,1375,UPENN-GBM-00233,1039.0,63.82,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00233.npy
+598,1376,UPENN-GBM-00234,370.0,62.82,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00234.npy
+599,1377,UPENN-GBM-00235,253.0,80.6,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00235.npy
+600,1378,UPENN-GBM-00236,480.0,76.22,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00236.npy
+601,1379,UPENN-GBM-00237,200.0,63.62,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00237.npy
+602,1380,UPENN-GBM-00238,1148.0,65.89,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00238.npy
+603,1381,UPENN-GBM-00239,159.0,80.89,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00239.npy
+604,1382,UPENN-GBM-00240,78.0,85.88,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00240.npy
+605,1383,UPENN-GBM-00241,325.0,71.43,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00241.npy
+606,1384,UPENN-GBM-00242,276.0,55.7,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00242.npy
+607,1385,UPENN-GBM-00243,419.0,66.43,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00243.npy
+608,1386,UPENN-GBM-00244,420.0,59.75,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00244.npy
+609,1387,UPENN-GBM-00245,533.0,63.42,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00245.npy
+610,1388,UPENN-GBM-00246,51.0,75.06,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00246.npy
+611,1389,UPENN-GBM-00247,201.0,63.91,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00247.npy
+612,1390,UPENN-GBM-00248,9999.0,45.71,Glioblastoma,G4,F,Alive,,./dataset/mri_features/UPENN-GBM-00248.npy
+613,1391,UPENN-GBM-00249,1791.0,28.2,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00249.npy
+614,1392,UPENN-GBM-00250,460.0,59.79,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00250.npy
+615,1393,UPENN-GBM-00251,167.0,75.67,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00251.npy
+616,1394,UPENN-GBM-00252,443.0,67.86,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00252.npy
+617,1396,UPENN-GBM-00254,400.0,57.08,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00254.npy
+618,1397,UPENN-GBM-00255,80.0,64.86,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00255.npy
+619,1398,UPENN-GBM-00256,115.0,67.2,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00256.npy
+620,1399,UPENN-GBM-00257,136.0,51.04,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00257.npy
+621,1400,UPENN-GBM-00258,9999.0,50.71,Glioblastoma,G4,M,Alive,,./dataset/mri_features/UPENN-GBM-00258.npy
+622,1401,UPENN-GBM-00259,193.0,80.31,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00259.npy
+623,1402,UPENN-GBM-00260,106.0,86.64,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00260.npy
+624,1403,UPENN-GBM-00261,48.0,75.88,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00261.npy
+625,1404,UPENN-GBM-00262,580.0,70.75,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00262.npy
+626,1406,UPENN-GBM-00264,1145.0,61.82,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00264.npy
+627,1407,UPENN-GBM-00265,1062.0,53.08,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00265.npy
+628,1408,UPENN-GBM-00266,390.0,66.84,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00266.npy
+629,1409,UPENN-GBM-00267,351.0,55.61,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00267.npy
+630,1410,UPENN-GBM-00268,20.0,82.8,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00268.npy
+631,1411,UPENN-GBM-00269,9999.0,56.21,Glioblastoma,G4,M,Alive,,./dataset/mri_features/UPENN-GBM-00269.npy
+632,1412,UPENN-GBM-00270,58.0,64.67,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00270.npy
+633,1413,UPENN-GBM-00271,473.0,53.83,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00271.npy
+634,1414,UPENN-GBM-00272,739.0,50.57,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00272.npy
+635,1415,UPENN-GBM-00273,598.0,76.8,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00273.npy
+636,1416,UPENN-GBM-00274,1021.0,41.2,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00274.npy
+637,1417,UPENN-GBM-00275,454.0,46.9,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00275.npy
+638,1419,UPENN-GBM-00277,403.0,55.68,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00277.npy
+639,1420,UPENN-GBM-00278,437.0,63.42,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00278.npy
+640,1421,UPENN-GBM-00279,655.0,68.34,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00279.npy
+641,1422,UPENN-GBM-00280,64.0,58.41,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00280.npy
+642,1423,UPENN-GBM-00281,550.0,69.39,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00281.npy
+643,1424,UPENN-GBM-00282,363.0,68.54,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00282.npy
+644,1425,UPENN-GBM-00283,352.0,81.0,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00283.npy
+645,1426,UPENN-GBM-00284,77.0,82.87,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00284.npy
+646,1427,UPENN-GBM-00285,326.0,60.26,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00285.npy
+647,1428,UPENN-GBM-00286,429.0,81.78,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00286.npy
+648,1429,UPENN-GBM-00287,781.0,50.93,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00287.npy
+649,1430,UPENN-GBM-00288,31.0,79.63,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00288.npy
+650,1431,UPENN-GBM-00289,445.0,28.83,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00289.npy
+651,1432,UPENN-GBM-00290,409.0,82.36,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00290.npy
+652,1433,UPENN-GBM-00291,530.0,58.61,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00291.npy
+653,1434,UPENN-GBM-00292,29.0,83.48,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00292.npy
+654,1436,UPENN-GBM-00294,112.0,60.37,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00294.npy
+655,1437,UPENN-GBM-00295,463.0,65.67,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00295.npy
+656,1438,UPENN-GBM-00296,326.0,72.15,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00296.npy
+657,1439,UPENN-GBM-00297,466.0,49.03,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00297.npy
+658,1441,UPENN-GBM-00299,148.0,43.9,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00299.npy
+659,1442,UPENN-GBM-00300,9999.0,82.88,Glioblastoma,G4,F,Alive,,./dataset/mri_features/UPENN-GBM-00300.npy
+660,1443,UPENN-GBM-00301,282.0,59.2,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00301.npy
+661,1444,UPENN-GBM-00302,790.0,61.79,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00302.npy
+662,1445,UPENN-GBM-00303,658.0,78.58,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00303.npy
+663,1446,UPENN-GBM-00304,428.0,71.06,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00304.npy
+664,1447,UPENN-GBM-00305,92.0,76.88,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00305.npy
+665,1448,UPENN-GBM-00306,165.0,51.81,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00306.npy
+666,1449,UPENN-GBM-00307,330.0,57.28,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00307.npy
+667,1450,UPENN-GBM-00308,205.0,65.76,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00308.npy
+668,1451,UPENN-GBM-00309,1034.0,39.19,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00309.npy
+669,1452,UPENN-GBM-00310,75.0,75.43,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00310.npy
+670,1453,UPENN-GBM-00311,489.0,73.14,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00311.npy
+671,1454,UPENN-GBM-00312,40.0,58.72,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00312.npy
+672,1455,UPENN-GBM-00313,1723.0,76.94,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00313.npy
+673,1456,UPENN-GBM-00314,614.0,58.88,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00314.npy
+674,1457,UPENN-GBM-00315,1043.0,70.72,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00315.npy
+675,1458,UPENN-GBM-00316,98.0,61.42,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00316.npy
+676,1459,UPENN-GBM-00317,1130.0,84.31,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00317.npy
+677,1460,UPENN-GBM-00318,494.0,52.52,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00318.npy
+678,1461,UPENN-GBM-00319,710.0,42.88,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00319.npy
+679,1462,UPENN-GBM-00320,476.0,46.17,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00320.npy
+680,1463,UPENN-GBM-00321,79.0,85.46,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00321.npy
+681,1464,UPENN-GBM-00322,170.0,33.29,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00322.npy
+682,1465,UPENN-GBM-00323,121.0,65.26,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00323.npy
+683,1466,UPENN-GBM-00324,185.0,73.33,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00324.npy
+684,1467,UPENN-GBM-00325,368.0,65.84,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00325.npy
+685,1468,UPENN-GBM-00326,125.0,63.31,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00326.npy
+686,1469,UPENN-GBM-00327,341.0,82.16,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00327.npy
+687,1470,UPENN-GBM-00328,370.0,57.72,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00328.npy
+688,1471,UPENN-GBM-00329,304.0,75.2,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00329.npy
+689,1472,UPENN-GBM-00330,74.0,86.59,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00330.npy
+690,1473,UPENN-GBM-00331,748.0,63.02,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00331.npy
+691,1474,UPENN-GBM-00332,103.0,60.7,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00332.npy
+692,1475,UPENN-GBM-00333,111.0,59.2,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00333.npy
+693,1476,UPENN-GBM-00334,159.0,73.05,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00334.npy
+694,1477,UPENN-GBM-00335,282.0,70.83,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00335.npy
+695,1478,UPENN-GBM-00336,13.0,83.63,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00336.npy
+696,1479,UPENN-GBM-00337,385.0,62.34,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00337.npy
+697,1480,UPENN-GBM-00338,1483.0,77.86,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00338.npy
+698,1481,UPENN-GBM-00339,2068.0,71.01,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00339.npy
+699,1482,UPENN-GBM-00340,325.0,70.82,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00340.npy
+700,1483,UPENN-GBM-00341,355.0,75.38,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00341.npy
+701,1484,UPENN-GBM-00342,60.0,59.62,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00342.npy
+702,1485,UPENN-GBM-00343,112.0,72.66,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00343.npy
+703,1486,UPENN-GBM-00344,173.0,71.96,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00344.npy
+704,1487,UPENN-GBM-00345,78.0,58.81,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00345.npy
+705,1488,UPENN-GBM-00346,334.0,67.23,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00346.npy
+706,1489,UPENN-GBM-00347,182.0,68.99,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00347.npy
+707,1490,UPENN-GBM-00348,104.0,80.2,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00348.npy
+708,1491,UPENN-GBM-00349,149.0,56.82,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00349.npy
+709,1492,UPENN-GBM-00350,622.0,64.78,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00350.npy
+710,1493,UPENN-GBM-00351,2297.0,62.48,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00351.npy
+711,1494,UPENN-GBM-00352,519.0,42.86,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00352.npy
+712,1495,UPENN-GBM-00353,56.0,61.62,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00353.npy
+713,1496,UPENN-GBM-00354,28.0,74.28,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00354.npy
+714,1497,UPENN-GBM-00355,28.0,66.6,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00355.npy
+715,1498,UPENN-GBM-00356,996.0,71.63,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00356.npy
+716,1499,UPENN-GBM-00357,124.0,88.0,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00357.npy
+717,1500,UPENN-GBM-00358,87.0,83.46,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00358.npy
+718,1501,UPENN-GBM-00359,93.0,78.89,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00359.npy
+719,1502,UPENN-GBM-00360,613.0,57.19,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00360.npy
+720,1503,UPENN-GBM-00361,106.0,63.87,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00361.npy
+721,1504,UPENN-GBM-00362,142.0,78.09,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00362.npy
+722,1505,UPENN-GBM-00363,404.0,65.4,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00363.npy
+723,1506,UPENN-GBM-00364,383.0,62.63,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00364.npy
+724,1507,UPENN-GBM-00365,9999.0,33.11,Glioblastoma,G4,M,Alive,,./dataset/mri_features/UPENN-GBM-00365.npy
+725,1508,UPENN-GBM-00366,213.0,71.41,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00366.npy
+726,1509,UPENN-GBM-00367,538.0,50.86,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00367.npy
+727,1510,UPENN-GBM-00368,416.0,65.34,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00368.npy
+728,1511,UPENN-GBM-00369,360.0,51.75,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00369.npy
+729,1512,UPENN-GBM-00370,443.0,68.38,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00370.npy
+730,1513,UPENN-GBM-00371,240.0,73.62,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00371.npy
+731,1514,UPENN-GBM-00372,133.0,62.16,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00372.npy
+732,1515,UPENN-GBM-00373,524.0,45.54,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00373.npy
+733,1516,UPENN-GBM-00374,376.0,66.65,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00374.npy
+734,1517,UPENN-GBM-00375,319.0,54.44,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00375.npy
+735,1518,UPENN-GBM-00376,730.0,63.59,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00376.npy
+736,1520,UPENN-GBM-00378,451.0,59.92,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00378.npy
+737,1521,UPENN-GBM-00379,114.0,59.66,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00379.npy
+738,1522,UPENN-GBM-00380,516.0,56.37,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00380.npy
+739,1523,UPENN-GBM-00381,63.0,65.53,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00381.npy
+740,1524,UPENN-GBM-00382,14.0,67.73,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00382.npy
+741,1525,UPENN-GBM-00383,498.0,56.96,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00383.npy
+742,1526,UPENN-GBM-00384,373.0,63.2,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00384.npy
+743,1527,UPENN-GBM-00385,21.0,57.26,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00385.npy
+744,1528,UPENN-GBM-00386,216.0,69.7,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00386.npy
+745,1529,UPENN-GBM-00387,455.0,51.81,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00387.npy
+746,1530,UPENN-GBM-00388,1020.0,74.85,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00388.npy
+747,1531,UPENN-GBM-00389,114.0,67.91,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00389.npy
+748,1532,UPENN-GBM-00390,443.0,62.89,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00390.npy
+749,1533,UPENN-GBM-00391,93.0,57.63,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00391.npy
+750,1534,UPENN-GBM-00392,1730.0,63.43,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00392.npy
+751,1535,UPENN-GBM-00393,336.0,68.96,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00393.npy
+752,1536,UPENN-GBM-00394,322.0,56.16,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00394.npy
+753,1537,UPENN-GBM-00395,2578.0,65.52,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00395.npy
+754,1538,UPENN-GBM-00396,341.0,47.58,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00396.npy
+755,1539,UPENN-GBM-00397,2694.0,71.55,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00397.npy
+756,1540,UPENN-GBM-00398,342.0,69.36,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00398.npy
+757,1541,UPENN-GBM-00399,338.0,60.67,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00399.npy
+758,1542,UPENN-GBM-00400,480.0,83.43,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00400.npy
+759,1543,UPENN-GBM-00401,635.0,65.75,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00401.npy
+760,1545,UPENN-GBM-00403,191.0,68.19,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00403.npy
+761,1546,UPENN-GBM-00404,688.0,66.36,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00404.npy
+762,1547,UPENN-GBM-00405,57.0,66.34,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00405.npy
+763,1548,UPENN-GBM-00406,355.0,71.33,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00406.npy
+764,1549,UPENN-GBM-00407,201.0,66.52,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00407.npy
+765,1550,UPENN-GBM-00408,565.0,59.47,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00408.npy
+766,1551,UPENN-GBM-00409,510.0,72.71,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00409.npy
+767,1552,UPENN-GBM-00410,423.0,47.9,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00410.npy
+768,1553,UPENN-GBM-00411,531.0,52.12,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00411.npy
+769,1554,UPENN-GBM-00412,862.0,63.11,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00412.npy
+770,1555,UPENN-GBM-00413,827.0,48.47,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00413.npy
+771,1556,UPENN-GBM-00414,249.0,82.67,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00414.npy
+772,1557,UPENN-GBM-00415,100.0,62.53,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00415.npy
+773,1558,UPENN-GBM-00416,9999.0,37.53,Glioblastoma,G4,F,Alive,,./dataset/mri_features/UPENN-GBM-00416.npy
+774,1559,UPENN-GBM-00417,1863.0,59.76,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00417.npy
+775,1560,UPENN-GBM-00418,1410.0,49.61,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00418.npy
+776,1561,UPENN-GBM-00419,518.0,59.89,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00419.npy
+777,1562,UPENN-GBM-00420,1941.0,63.36,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00420.npy
+778,1563,UPENN-GBM-00421,765.0,60.7,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00421.npy
+779,1564,UPENN-GBM-00422,9999.0,67.7,Glioblastoma,G4,M,Alive,,./dataset/mri_features/UPENN-GBM-00422.npy
+780,1565,UPENN-GBM-00423,303.0,77.45,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00423.npy
+781,1566,UPENN-GBM-00424,9999.0,80.46,Glioblastoma,G4,M,Alive,,./dataset/mri_features/UPENN-GBM-00424.npy
+782,1567,UPENN-GBM-00425,9999.0,74.89,Glioblastoma,G4,M,Alive,,./dataset/mri_features/UPENN-GBM-00425.npy
+783,1568,UPENN-GBM-00426,820.0,55.17,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00426.npy
+784,1569,UPENN-GBM-00427,136.0,73.15,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00427.npy
+785,1570,UPENN-GBM-00428,374.0,64.76,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00428.npy
+786,1571,UPENN-GBM-00429,166.0,73.66,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00429.npy
+787,1572,UPENN-GBM-00430,9999.0,53.04,Glioblastoma,G4,F,Alive,,./dataset/mri_features/UPENN-GBM-00430.npy
+788,1573,UPENN-GBM-00431,125.0,79.94,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00431.npy
+789,1574,UPENN-GBM-00432,582.0,60.63,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00432.npy
+790,1575,UPENN-GBM-00433,626.0,45.23,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00433.npy
+791,1576,UPENN-GBM-00434,70.0,66.18,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00434.npy
+792,1577,UPENN-GBM-00435,205.0,56.94,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00435.npy
+793,1578,UPENN-GBM-00436,389.0,67.09,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00436.npy
+794,1579,UPENN-GBM-00437,82.0,53.02,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00437.npy
+795,1580,UPENN-GBM-00438,117.0,81.77,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00438.npy
+796,1581,UPENN-GBM-00439,264.0,47.21,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00439.npy
+797,1582,UPENN-GBM-00440,1570.0,54.22,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00440.npy
+798,1583,UPENN-GBM-00441,619.0,65.03,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00441.npy
+799,1584,UPENN-GBM-00442,90.0,80.36,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00442.npy
+800,1585,UPENN-GBM-00443,60.0,78.4,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00443.npy
+801,1586,UPENN-GBM-00444,9999.0,25.48,Glioblastoma,G4,M,Alive,,./dataset/mri_features/UPENN-GBM-00444.npy
+802,1587,UPENN-GBM-00445,284.0,60.23,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00445.npy
+803,1588,UPENN-GBM-00446,831.0,67.67,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00446.npy
+804,1589,UPENN-GBM-00447,248.0,78.7,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00447.npy
+805,1590,UPENN-GBM-00448,288.0,62.34,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00448.npy
+806,1591,UPENN-GBM-00449,742.0,48.97,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00449.npy
+807,1592,UPENN-GBM-00450,764.0,59.37,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00450.npy
+808,1593,UPENN-GBM-00451,9999.0,64.83,Glioblastoma,G4,F,Alive,,./dataset/mri_features/UPENN-GBM-00451.npy
+809,1594,UPENN-GBM-00452,680.0,53.19,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00452.npy
+810,1595,UPENN-GBM-00453,1052.0,69.45,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00453.npy
+811,1596,UPENN-GBM-00454,136.0,71.65,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00454.npy
+812,1597,UPENN-GBM-00455,516.0,60.82,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00455.npy
+813,1598,UPENN-GBM-00456,149.0,63.99,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00456.npy
+814,1599,UPENN-GBM-00457,1299.0,66.58,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00457.npy
+815,1600,UPENN-GBM-00458,575.0,57.8,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00458.npy
+816,1601,UPENN-GBM-00459,693.0,38.9,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00459.npy
+817,1602,UPENN-GBM-00460,620.0,61.94,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00460.npy
+818,1603,UPENN-GBM-00461,1255.0,64.1,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00461.npy
+819,1604,UPENN-GBM-00462,568.0,71.61,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00462.npy
+820,1605,UPENN-GBM-00463,738.0,65.97,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00463.npy
+821,1607,UPENN-GBM-00465,1208.0,58.92,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00465.npy
+822,1608,UPENN-GBM-00466,651.0,73.59,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00466.npy
+823,1609,UPENN-GBM-00467,251.0,55.42,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00467.npy
+824,1610,UPENN-GBM-00468,196.0,79.32,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00468.npy
+825,1611,UPENN-GBM-00469,578.0,51.54,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00469.npy
+826,1612,UPENN-GBM-00470,316.0,60.59,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00470.npy
+827,1613,UPENN-GBM-00471,114.0,69.2,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00471.npy
+828,1614,UPENN-GBM-00472,1279.0,58.86,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00472.npy
+829,1615,UPENN-GBM-00473,36.0,20.74,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00473.npy
+830,1616,UPENN-GBM-00474,692.0,67.63,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00474.npy
+831,1617,UPENN-GBM-00475,44.0,62.74,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00475.npy
+832,1618,UPENN-GBM-00476,516.0,60.63,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00476.npy
+833,1619,UPENN-GBM-00477,1323.0,55.09,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00477.npy
+834,1620,UPENN-GBM-00478,117.0,63.03,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00478.npy
+835,1621,UPENN-GBM-00479,168.0,64.28,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00479.npy
+836,1622,UPENN-GBM-00480,256.0,45.97,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00480.npy
+837,1623,UPENN-GBM-00481,601.0,51.23,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00481.npy
+838,1624,UPENN-GBM-00482,610.0,48.71,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00482.npy
+839,1625,UPENN-GBM-00483,192.0,61.02,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00483.npy
+840,1626,UPENN-GBM-00484,902.0,61.05,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00484.npy
+841,1627,UPENN-GBM-00485,1582.0,25.7,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00485.npy
+842,1628,UPENN-GBM-00486,371.0,71.68,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00486.npy
+843,1629,UPENN-GBM-00487,395.0,60.38,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00487.npy
+844,1630,UPENN-GBM-00488,370.0,64.91,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00488.npy
+845,1631,UPENN-GBM-00489,175.0,68.86,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00489.npy
+846,1632,UPENN-GBM-00490,821.0,74.58,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00490.npy
+847,1633,UPENN-GBM-00491,16.0,65.25,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00491.npy
+848,1634,UPENN-GBM-00492,397.0,56.25,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00492.npy
+849,1635,UPENN-GBM-00493,482.0,70.49,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00493.npy
+850,1636,UPENN-GBM-00494,480.0,51.56,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00494.npy
+851,1637,UPENN-GBM-00495,483.0,67.92,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00495.npy
+852,1638,UPENN-GBM-00496,681.0,54.26,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00496.npy
+853,1639,UPENN-GBM-00497,859.0,45.31,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00497.npy
+854,1640,UPENN-GBM-00498,493.0,57.61,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00498.npy
+855,1641,UPENN-GBM-00499,648.0,75.08,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00499.npy
+856,1642,UPENN-GBM-00500,596.0,62.97,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00500.npy
+857,1643,UPENN-GBM-00501,1025.0,77.52,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00501.npy
+858,1644,UPENN-GBM-00502,99.0,22.79,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00502.npy
+859,1645,UPENN-GBM-00503,9999.0,23.61,Glioblastoma,G4,F,Alive,,./dataset/mri_features/UPENN-GBM-00503.npy
+860,1646,UPENN-GBM-00504,1125.0,48.81,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00504.npy
+861,1647,UPENN-GBM-00505,590.0,69.17,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00505.npy
+862,1648,UPENN-GBM-00506,1722.0,49.4,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00506.npy
+863,1649,UPENN-GBM-00507,187.0,83.37,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00507.npy
+864,1650,UPENN-GBM-00508,572.0,56.07,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00508.npy
+865,1651,UPENN-GBM-00509,710.0,68.75,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00509.npy
+866,1652,UPENN-GBM-00510,74.0,76.2,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00510.npy
+867,1653,UPENN-GBM-00511,1335.0,68.57,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00511.npy
+868,1654,UPENN-GBM-00512,496.0,74.45,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00512.npy
+869,1656,UPENN-GBM-00514,1205.0,68.67,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00514.npy
+870,1657,UPENN-GBM-00515,170.0,49.52,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00515.npy
+871,1658,UPENN-GBM-00516,188.0,58.98,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00516.npy
+872,1659,UPENN-GBM-00517,285.0,53.34,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00517.npy
+873,1660,UPENN-GBM-00518,1201.0,51.47,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00518.npy
+874,1661,UPENN-GBM-00519,468.0,32.93,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00519.npy
+875,1662,UPENN-GBM-00520,122.0,83.61,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00520.npy
+876,1663,UPENN-GBM-00521,1050.0,64.21,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00521.npy
+877,1664,UPENN-GBM-00522,199.0,66.16,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00522.npy
+878,1665,UPENN-GBM-00523,637.0,60.06,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00523.npy
+879,1666,UPENN-GBM-00524,53.0,72.97,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00524.npy
+880,1667,UPENN-GBM-00525,157.0,76.15,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00525.npy
+881,1668,UPENN-GBM-00526,32.0,75.19,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00526.npy
+882,1669,UPENN-GBM-00527,248.0,71.76,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00527.npy
+883,1670,UPENN-GBM-00528,598.0,43.53,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00528.npy
+884,1671,UPENN-GBM-00529,85.0,73.05,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00529.npy
+885,1672,UPENN-GBM-00530,521.0,60.66,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00530.npy
+886,1673,UPENN-GBM-00531,448.0,78.21,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00531.npy
+887,1674,UPENN-GBM-00532,497.0,56.09,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00532.npy
+888,1675,UPENN-GBM-00533,784.0,61.89,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00533.npy
+889,1676,UPENN-GBM-00534,707.0,61.74,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00534.npy
+890,1677,UPENN-GBM-00535,215.0,72.25,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00535.npy
+891,1678,UPENN-GBM-00536,462.0,66.7,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00536.npy
+892,1680,UPENN-GBM-00538,1170.0,56.26,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00538.npy
+893,1681,UPENN-GBM-00539,824.0,61.42,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00539.npy
+894,1682,UPENN-GBM-00540,343.0,70.81,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00540.npy
+895,1683,UPENN-GBM-00541,471.0,52.97,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00541.npy
+896,1684,UPENN-GBM-00542,414.0,65.51,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00542.npy
+897,1685,UPENN-GBM-00543,7.0,73.86,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00543.npy
+898,1686,UPENN-GBM-00544,376.0,73.91,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00544.npy
+899,1687,UPENN-GBM-00545,37.0,73.72,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00545.npy
+900,1688,UPENN-GBM-00546,127.0,67.11,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00546.npy
+901,1689,UPENN-GBM-00547,121.0,67.72,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00547.npy
+902,1690,UPENN-GBM-00548,356.0,67.5,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00548.npy
+903,1691,UPENN-GBM-00549,490.0,61.33,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00549.npy
+904,1692,UPENN-GBM-00550,166.0,72.03,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00550.npy
+905,1693,UPENN-GBM-00551,376.0,71.27,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00551.npy
+906,1694,UPENN-GBM-00552,384.0,78.13,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00552.npy
+907,1695,UPENN-GBM-00553,1454.0,59.62,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00553.npy
+908,1696,UPENN-GBM-00554,376.0,51.24,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00554.npy
+909,1697,UPENN-GBM-00555,302.0,72.82,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00555.npy
+910,1698,UPENN-GBM-00556,434.0,73.05,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00556.npy
+911,1699,UPENN-GBM-00557,350.0,59.21,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00557.npy
+912,1700,UPENN-GBM-00558,430.0,79.16,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00558.npy
+913,1701,UPENN-GBM-00559,449.0,73.32,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00559.npy
+914,1702,UPENN-GBM-00560,273.0,67.95,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00560.npy
+915,1703,UPENN-GBM-00561,80.0,72.82,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00561.npy
+916,1705,UPENN-GBM-00563,36.0,28.11,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00563.npy
+917,1706,UPENN-GBM-00564,1029.0,36.32,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00564.npy
+918,1707,UPENN-GBM-00565,1403.0,58.63,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00565.npy
+919,1709,UPENN-GBM-00567,1067.0,38.86,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00567.npy
+920,1710,UPENN-GBM-00568,1128.0,71.62,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00568.npy
+921,1711,UPENN-GBM-00569,9999.0,41.24,Glioblastoma,G4,M,Alive,,./dataset/mri_features/UPENN-GBM-00569.npy
+922,1712,UPENN-GBM-00570,259.0,64.79,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00570.npy
+923,1713,UPENN-GBM-00571,81.0,75.39,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00571.npy
+924,1714,UPENN-GBM-00572,104.0,74.22,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00572.npy
+925,1715,UPENN-GBM-00573,203.0,60.73,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00573.npy
+926,1716,UPENN-GBM-00574,234.0,76.13,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00574.npy
+927,1718,UPENN-GBM-00576,440.0,87.59,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00576.npy
+928,1719,UPENN-GBM-00577,685.0,64.92,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00577.npy
+929,1720,UPENN-GBM-00578,497.0,67.87,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00578.npy
+930,1721,UPENN-GBM-00579,577.0,58.51,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00579.npy
+931,1722,UPENN-GBM-00580,1431.0,68.11,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00580.npy
+932,1723,UPENN-GBM-00581,324.0,54.63,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00581.npy
+933,1724,UPENN-GBM-00582,430.0,78.03,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00582.npy
+934,1725,UPENN-GBM-00583,123.0,51.88,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00583.npy
+935,1727,UPENN-GBM-00585,147.0,60.48,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00585.npy
+936,1728,UPENN-GBM-00586,9999.0,70.64,Glioblastoma,G4,F,Alive,,./dataset/mri_features/UPENN-GBM-00586.npy
+937,1729,UPENN-GBM-00587,154.0,63.68,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00587.npy
+938,1730,UPENN-GBM-00588,61.0,61.97,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00588.npy
+939,1731,UPENN-GBM-00589,26.0,80.93,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00589.npy
+940,1734,UPENN-GBM-00592,1579.0,52.33,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00592.npy
+941,1735,UPENN-GBM-00593,223.0,57.82,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00593.npy
+942,1736,UPENN-GBM-00594,899.0,52.3,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00594.npy
+943,1737,UPENN-GBM-00595,9999.0,69.12,Glioblastoma,G4,M,Alive,,./dataset/mri_features/UPENN-GBM-00595.npy
+944,1738,UPENN-GBM-00596,46.0,81.95,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00596.npy
+945,1739,UPENN-GBM-00597,381.0,61.92,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00597.npy
+946,1740,UPENN-GBM-00598,771.0,61.56,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00598.npy
+947,1741,UPENN-GBM-00599,466.0,60.01,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00599.npy
+948,1742,UPENN-GBM-00600,594.0,51.52,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00600.npy
+949,1743,UPENN-GBM-00601,435.0,59.69,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00601.npy
+950,1744,UPENN-GBM-00602,252.0,77.19,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00602.npy
+951,1745,UPENN-GBM-00603,9999.0,57.72,Glioblastoma,G4,M,Alive,,./dataset/mri_features/UPENN-GBM-00603.npy
+952,1746,UPENN-GBM-00604,234.0,62.0,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00604.npy
+953,1747,UPENN-GBM-00605,1565.0,60.38,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00605.npy
+954,1748,UPENN-GBM-00606,1055.0,58.12,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00606.npy
+955,1749,UPENN-GBM-00607,1025.0,68.15,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00607.npy
+956,1750,UPENN-GBM-00608,666.0,79.9,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00608.npy
+957,1751,UPENN-GBM-00609,138.0,29.01,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00609.npy
+958,1752,UPENN-GBM-00610,9999.0,47.44,Glioblastoma,G4,M,Alive,,./dataset/mri_features/UPENN-GBM-00610.npy
+959,1753,UPENN-GBM-00611,551.0,58.09,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00611.npy
+960,1754,UPENN-GBM-00612,80.0,43.27,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00612.npy
+961,1755,UPENN-GBM-00613,76.0,64.36,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00613.npy
+962,1756,UPENN-GBM-00614,372.0,63.73,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00614.npy
+963,1757,UPENN-GBM-00615,636.0,33.23,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00615.npy
+964,1758,UPENN-GBM-00616,159.0,52.02,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00616.npy
+965,1759,UPENN-GBM-00617,240.0,54.56,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00617.npy
+966,1760,UPENN-GBM-00618,124.0,32.77,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00618.npy
+967,1761,UPENN-GBM-00619,483.0,37.79,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00619.npy
+968,1762,UPENN-GBM-00620,9999.0,38.99,Glioblastoma,G4,M,Alive,,./dataset/mri_features/UPENN-GBM-00620.npy
+969,1763,UPENN-GBM-00621,84.0,62.61,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00621.npy
+970,1764,UPENN-GBM-00622,24.0,66.4,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00622.npy
+971,1765,UPENN-GBM-00623,2021.0,52.03,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00623.npy
+972,1766,UPENN-GBM-00624,493.0,44.33,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00624.npy
+973,1767,UPENN-GBM-00625,376.0,48.75,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00625.npy
+974,1768,UPENN-GBM-00626,288.0,57.19,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00626.npy
+975,1769,UPENN-GBM-00627,365.0,57.4,Glioblastoma,G4,F,Dead,,./dataset/mri_features/UPENN-GBM-00627.npy
+976,1770,UPENN-GBM-00628,79.0,55.09,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00628.npy
+977,1771,UPENN-GBM-00629,66.0,71.44,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00629.npy
+978,1772,UPENN-GBM-00630,35.0,65.47,Glioblastoma,G4,M,Dead,,./dataset/mri_features/UPENN-GBM-00630.npy
